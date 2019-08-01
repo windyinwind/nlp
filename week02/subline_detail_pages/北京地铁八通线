@@ -1,0 +1,2664 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="北京地铁八通线（以下简称“八通线”），是北京的一条地铁线路，连接北京中心城区及东部的通州新城。该线西起四惠站，东至土桥站。全长18.964km，设13座车站和1座车辆段，线路标识色为红色。该线于2003年12月27日全线开通。八通线南延项目于2016年开工。南延项目：线路起于八通线土桥站，终点为规划中的环球影城站。线路全长约4公里，全线新设2座车站。在这时，八通线将不再成为全地上线路。2018年8月，地铁1号线、八通线贯通工程进入审批阶段，届时乘坐八通线的乘客无须再通过四惠站换乘1号线。2018年12月14日，八通线南延施园站主体结构封顶，为2019年年底通车打下基础－施园站是2016年开工后增加的新增车站。...">
+<title>北京地铁八通线_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="北京地铁八通线 北京八通线地铁 北京八通线 八通线地铁 Beijing Subway BATONG Line 北京地铁8通线 地铁八通线 八通线 北京地铁八通线历史沿革 北京地铁八通线线路资料 北京地铁八通线现运列车 北京地铁八通线曾用列车 北京地铁八通线线路后期建设">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2019-07-10 09:17:22" />
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_b406361.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_66a9374.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_ca51f18.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="北京地铁八通线" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank">艺术</a></div>
+<div><a href="/science" target="_blank">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt><a>秒懂百科</a></dt>
+<dd><div><a href="https://child.baidu.com/" target="_blank">懂啦</a></div>
+<div><a href="/item/秒懂星课堂" target="_blank">秒懂星课堂</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd><div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="https://shushuo.baidu.com/" target="_blank">百度数说</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool ">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1         data-url="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF"
+        data-name="baike.baidu.com"
+        >北京地铁八通线</h1>
+<span style="display: none"></span>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="javascript:;" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+<a href="/planet/talk?lemmaId=4561974" target="_blank" class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num">999</span></a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">北京地铁八通线（以下简称“八通线”），是北京的一条地铁线路，连接北京中心城区及东部的通州新城。</div><div class="para" label-module="para">该线西起四惠站，东至土桥站。全长18.964km，设13座车站和1座车辆段，线路标识色为红色。</div><div class="para" label-module="para">该线于2003年12月27日全线开通。</div><div class="para" label-module="para">八通线南延项目于<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_1752175">&nbsp;</a>
+2016年开工。南延项目：线路起于八通线土桥站，终点为规划中的环球影城站。线路全长约4公里，全线新设2座车站。在这时，八通线将不再成为全地上线路。</div><div class="para" label-module="para">2018年8月，地铁1号线、八通线贯通工程进入审批阶段，届时乘坐八通线的乘客无须再通过四惠站换乘1号线。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_1752175">&nbsp;</a>
+</div><div class="para" label-module="para">2018年12月14日，八通线南延施园站主体结构封顶，为2019年年底通车打下基础－施园站是2016年开工后增加的新增车站。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+北京地铁八通线
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Beijing Subway BATONG Line
+</dd>
+<dt class="basicInfo-item name">营运地区</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%B8%82">北京市</a><a target=_blank href="/item/%E6%9C%9D%E9%98%B3%E5%8C%BA/2134" data-lemmaid="2134">朝阳区</a>、<a target=_blank href="/item/%E9%80%9A%E5%B7%9E%E5%8C%BA/5203" data-lemmaid="5203">通州区</a>
+</dd>
+<dt class="basicInfo-item name">服务类型</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%9F%8E%E5%B8%82%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E7%B3%BB%E7%BB%9F">城市轨道交通系统</a>
+</dd>
+<dt class="basicInfo-item name">所属系统</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81/408485" data-lemmaid="408485">北京地铁</a>
+</dd>
+<dt class="basicInfo-item name">车站总数</dt>
+<dd class="basicInfo-item value">
+13（换乘车站2座）/15（未来）
+</dd>
+<dt class="basicInfo-item name">起终站点</dt>
+<dd class="basicInfo-item value">
+四惠——土桥、<i>环球影城</i>
+</dd>
+<dt class="basicInfo-item name">路线长度</dt>
+<dd class="basicInfo-item value">
+18.964千米
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">最高速度</dt>
+<dd class="basicInfo-item value">
+70千米/时
+</dd>
+<dt class="basicInfo-item name">轨道标准</dt>
+<dd class="basicInfo-item value">
+1435毫米
+</dd>
+<dt class="basicInfo-item name">闭塞类型</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E8%87%AA%E5%8A%A8%E9%97%AD%E5%A1%9E/2794140" data-lemmaid="2794140">自动闭塞</a>
+</dd>
+<dt class="basicInfo-item name">供电方式</dt>
+<dd class="basicInfo-item value">
+直流750伏，第三轨供电
+</dd>
+<dt class="basicInfo-item name">车辆基地</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%9C%9F%E6%A1%A5%E8%BD%A6%E8%BE%86%E6%AE%B5">土桥车辆段</a>
+</dd>
+<dt class="basicInfo-item name">列车编组</dt>
+<dd class="basicInfo-item value">
+准B型车6节编组
+</dd>
+<dt class="basicInfo-item name">开通营运</dt>
+<dd class="basicInfo-item value">
+2003年12月27日
+</dd>
+<dt class="basicInfo-item name">运营单位</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%B8%82%E5%9C%B0%E9%93%81%E8%BF%90%E8%90%A5%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京市地铁运营有限公司</a>二分公司
+</dd>
+<dt class="basicInfo-item name">线路标识色</dt>
+<dd class="basicInfo-item value">
+红色
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-4">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">历史沿革</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_1">规划时期</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_2">建设时期</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#1_3">运营时期</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">线路资料</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">线路数据</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">站间公里数</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">首末车时间</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">车站信息</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">现运列车</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">SFX01型地铁电动客车</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">SFX02型地铁电动客车</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_3">SFX07型地铁电动客车</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">曾用列车</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">线路后期建设</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">线路南延</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">与一号线贯通</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_1" class="lemma-anchor " ></a>
+<a name="历史沿革" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁八通线</span>历史沿革</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="1_1" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_1_1" class="lemma-anchor " ></a>
+<a name="规划时期" class="lemma-anchor " ></a>
+<a name="1-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>规划时期</h3>
+</div>
+<div class="para" label-module="para">八通线的规划方案于1990年代初的北京地铁规划方案中确定了朝阳段的路由，故1990年代建设的<a target=_blank href="/item/%E4%BA%AC%E9%80%9A%E5%BF%AB%E9%80%9F%E8%B7%AF">京通快速路</a>在双向中间的隔离带预留了地铁线路及车站的位置，为八通线的建设创造了条件。但线路在通州区境内的路由曾有多种方案：最初的方案到达北苑环岛后继续向东，沿着老城区的主要道路<a target=_blank href="/item/%E6%96%B0%E5%8D%8E%E5%A4%A7%E8%A1%97">新华大街</a>布置，但是新华大街红线较窄，地下管线密布，不论高架还是地下线路均存在建设困难；90年代初提出第二种方案，在北苑环岛沿<a target=_blank href="/item/%E4%BA%AC%E6%B4%A5%E5%85%AC%E8%B7%AF">京津公路</a>向东南，到果园环岛附近沿运河西大街向东高架，直至运河边，这一方案照顾了当时正在开发的居民区，施工难度也较小，但由于资金问题八通线并未在当时建设；到1990年代中期，当时新推出的北京市总体规划中，通州新城的中心向南转移，此时八通线的线路再次向南改动，从北苑环岛一直沿京津公路向东南布置，即现在的线路。</div><div class="anchor-list">
+<a name="1_2" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_1_2" class="lemma-anchor " ></a>
+<a name="建设时期" class="lemma-anchor " ></a>
+<a name="1-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>建设时期</h3>
+</div>
+<div class="para" label-module="para">2001年12月30日，八通线正式开工。<sup class="sup--normal" data-sup="3-4" data-ctrmap=":3,:4,">
+[3-4]</sup><a class="sup-anchor" name="ref_[3-4]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2002年9月20日中午，八通线跨京承铁路横钢梁吊装成功。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_1752175">&nbsp;</a>
+11月，位于四惠站上方的八通线指挥中心正式动工。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2003年1月，八通线开始铺轨。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_1752175">&nbsp;</a>
+2月19日，北京地铁京通发展有限责任公司和南车四方机车车辆股份有限公司举行签约仪式，为八通线购置96卡、24编组新型电动客车。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_1752175">&nbsp;</a>
+4月，土桥车辆段内12个单体建筑结构全部封顶。<sup class="sup--normal" data-sup="9" data-ctrmap=":9,">
+[9]</sup><a class="sup-anchor" name="ref_[9]_1752175">&nbsp;</a>
+5月，北京市规划委网站开始公示高碑店站至八里桥站5座车站的站名。<sup class="sup--normal" data-sup="10" data-ctrmap=":10,">
+[10]</sup><a class="sup-anchor" name="ref_[10]_1752175">&nbsp;</a>
+5月28日，八通线铺轨工作完成。<sup class="sup--normal" data-sup="11" data-ctrmap=":11,">
+[11]</sup><a class="sup-anchor" name="ref_[11]_1752175">&nbsp;</a>
+7月，八通线开始车站装修和设备调试。<sup class="sup--normal" data-sup="12" data-ctrmap=":12,">
+[12]</sup><a class="sup-anchor" name="ref_[12]_1752175">&nbsp;</a>
+11月，八通线指挥中心完工。<sup class="sup--normal" data-sup="13" data-ctrmap=":13,">
+[13]</sup><a class="sup-anchor" name="ref_[13]_1752175">&nbsp;</a>
+11月26日8时，地铁运营公司正式接管八通线。<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1752175">&nbsp;</a>
+11月28日，八通线首批新型城轨列车在南车四方机车车辆股份有限公司竣工下线。<sup class="sup--normal" data-sup="15" data-ctrmap=":15,">
+[15]</sup><a class="sup-anchor" name="ref_[15]_1752175">&nbsp;</a>
+12月8日，八通线土桥车辆段车场和正线冷、热滑试验完成。<sup class="sup--normal" data-sup="16" data-ctrmap=":16,">
+[16]</sup><a class="sup-anchor" name="ref_[16]_1752175">&nbsp;</a>
+12月12日，北京市发改委举行八通线票价听证会。同日，八通线正式空载试运行。<sup class="sup--normal" data-sup="17" data-ctrmap=":17,">
+[17]</sup><a class="sup-anchor" name="ref_[17]_1752175">&nbsp;</a>
+12月22日，北京地铁车辆厂为八通线生产的首辆样车下线。<sup class="sup--normal" data-sup="18" data-ctrmap=":18,">
+[18]</sup><a class="sup-anchor" name="ref_[18]_1752175">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="1_3" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_1_3" class="lemma-anchor " ></a>
+<a name="运营时期" class="lemma-anchor " ></a>
+<a name="1-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>运营时期</h3>
+</div>
+<div class="para" label-module="para">2003年12月27日11时，八通线全线开通运营。比此前公布的开通时间12月28日提前一天。<sup class="sup--normal" data-sup="19-20" data-ctrmap=":19,:20,">
+[19-20]</sup><a class="sup-anchor" name="ref_[19-20]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2004年1月7日，八通线首次因故障晚点。<sup class="sup--normal" data-sup="21" data-ctrmap=":21,">
+[21]</sup><a class="sup-anchor" name="ref_[21]_1752175">&nbsp;</a>
+1月22日，八通线列车早晚高峰期最小行车间隔由10分钟缩短为7分30秒。<sup class="sup--normal" data-sup="22" data-ctrmap=":22,">
+[22]</sup><a class="sup-anchor" name="ref_[22]_1752175">&nbsp;</a>
+8月9日起，八通线早高峰列车间隔由7分30秒缩短为6分钟。<sup class="sup--normal" data-sup="23" data-ctrmap=":23,">
+[23]</sup><a class="sup-anchor" name="ref_[23]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2005年4月28日起，八通线全部使用新型空调电动客车。<sup class="sup--normal" data-sup="24" data-ctrmap=":24,">
+[24]</sup><a class="sup-anchor" name="ref_[24]_1752175">&nbsp;</a>
+5月16日，八通线四惠站和土桥站率先开始实行“按线候车”。<sup class="sup--normal" data-sup="25" data-ctrmap=":25,">
+[25]</sup><a class="sup-anchor" name="ref_[25]_1752175">&nbsp;</a>
+6月6日，八通线全线所有车站正式实行“按线候车“”。<sup class="sup--normal" data-sup="26" data-ctrmap=":26,">
+[26]</sup><a class="sup-anchor" name="ref_[26]_1752175">&nbsp;</a>
+9月5日，八通线开始执行新的列车运行图，高峰时段列车运行间隔由6分钟缩短为5分钟。<sup class="sup--normal" data-sup="27" data-ctrmap=":27,">
+[27]</sup><a class="sup-anchor" name="ref_[27]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2006年4月24日7时50分左右，八通线一列车在四惠站发生故障，8时10分运营恢复正常。<sup class="sup--normal" data-sup="28" data-ctrmap=":28,">
+[28]</sup><a class="sup-anchor" name="ref_[28]_1752175">&nbsp;</a>
+6月19日，八通线公布列车间隔时刻表。<sup class="sup--normal" data-sup="29" data-ctrmap=":29,">
+[29]</sup><a class="sup-anchor" name="ref_[29]_1752175">&nbsp;</a>
+10月31日，市规委网站开始对八通线广播学院站更名方案征求市民意见<sup class="sup--normal" data-sup="30" data-ctrmap=":30,">
+[30]</sup><a class="sup-anchor" name="ref_[30]_1752175">&nbsp;</a>
+，由于大多数市民同意更名为传媒大学站<sup class="sup--normal" data-sup="31" data-ctrmap=":31,">
+[31]</sup><a class="sup-anchor" name="ref_[31]_1752175">&nbsp;</a>
+，故将站名于次年4月3日改为“传媒大学”站。<sup class="sup--normal" data-sup="32" data-ctrmap=":32,">
+[32]</sup><a class="sup-anchor" name="ref_[32]_1752175">&nbsp;</a>
+12月12日8时21分，八通线开往四惠站方向一列车在传媒大学站停靠后，因三车厢二号门无法关闭导致全线停运，8时42分恢复正常运营。<sup class="sup--normal" data-sup="33" data-ctrmap=":33,">
+[33]</sup><a class="sup-anchor" name="ref_[33]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2007年5月21日，八通线早高峰时段7:00至9:00运行间隔由5分钟调整为4分钟，运力提高25%；晚高峰时段17:00至19:30由6分钟调整为5分钟。<sup class="sup--normal" data-sup="34" data-ctrmap=":34,">
+[34]</sup><a class="sup-anchor" name="ref_[34]_1752175">&nbsp;</a>
+5月27日，八通线列车开始安装移动电视。<sup class="sup--normal" data-sup="35" data-ctrmap=":35,">
+[35]</sup><a class="sup-anchor" name="ref_[35]_1752175">&nbsp;</a>
+9月30日至10月4日，八通线延长运营1小时。<sup class="sup--normal" data-sup="36" data-ctrmap=":36,">
+[36]</sup><a class="sup-anchor" name="ref_[36]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2008年5月25日，八通线首列6辆编组列车投入运营，标志着八通线“四改六”扩编工程开始实施。列车扩编后为6准B编组。定员1356人/列。</div>
+<div class="para" label-module="para">2009年5月21日起，八通线使用新编平日列车运行图，土桥站末班车时间由22点05分延长至22点42分，四惠站末班车时间由22点45分延长至23点22分，全日开行列数由384列增加至392列。<sup class="sup--normal" data-sup="37" data-ctrmap=":37,">
+[37]</sup><a class="sup-anchor" name="ref_[37]_1752175">&nbsp;</a>
+5月23日起八通线使用新编双休日列车运行图，土桥站末班车由22点05分延长至22点42分，四惠站末班车由22点45分延长至23点22分，全日开行列数由290列增加至296列。<sup class="sup--normal" data-sup="37" data-ctrmap=":37,">
+[37]</sup><a class="sup-anchor" name="ref_[37]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2010年1月10日，八通线传媒大学站一名女子坠轨，导致八通线停运半小时。<sup class="sup--normal" data-sup="38" data-ctrmap=":38,">
+[38]</sup><a class="sup-anchor" name="ref_[38]_1752175">&nbsp;</a>
+5月28日，八通线双桥站一男子跳下站台，导致双桥站停电6分钟，八通线全线停驶约10分钟。<sup class="sup--normal" data-sup="39" data-ctrmap=":39,">
+[39]</sup><a class="sup-anchor" name="ref_[39]_1752175">&nbsp;</a>
+8月6日，土桥站一辆列车进站时道岔出现故障，导致土桥到果园方向线路暂停运营约40分钟。<sup class="sup--normal" data-sup="40" data-ctrmap=":40,">
+[40]</sup><a class="sup-anchor" name="ref_[40]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2011年6月28日，八通线在早高峰开始发小圈区间车，从四惠出发到果园站清车折返。<sup class="sup--normal" data-sup="41" data-ctrmap=":41,">
+[41]</sup><a class="sup-anchor" name="ref_[41]_1752175">&nbsp;</a>
+9月5日，八通线在通州北苑站试点公布早高峰列车拥挤度。<sup class="sup--normal" data-sup="42" data-ctrmap=":42,">
+[42]</sup><a class="sup-anchor" name="ref_[42]_1752175">&nbsp;</a>
+10月，八通线加装屏蔽门工程初步设计概算获得市发改委批复。<sup class="sup--normal" data-sup="43" data-ctrmap=":43,">
+[43]</sup><a class="sup-anchor" name="ref_[43]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2012年8月9日，八通线加装<a target=_blank href="/item/%E5%B1%8F%E8%94%BD%E9%97%A8/890966" data-lemmaid="890966">屏蔽门</a>工程启动。<sup class="sup--normal" data-sup="44" data-ctrmap=":44,">
+[44]</sup><a class="sup-anchor" name="ref_[44]_1752175">&nbsp;</a>
+2013年11月，八通线完成全部车站屏蔽门主体安装。<sup class="sup--normal" data-sup="45" data-ctrmap=":45,">
+[45]</sup><a class="sup-anchor" name="ref_[45]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年4月，八通线屏蔽门开始手动开关试运行。<sup class="sup--normal" data-sup="46" data-ctrmap=":46,">
+[46]</sup><a class="sup-anchor" name="ref_[46]_1752175">&nbsp;</a>
+2015年4月，八通线屏蔽门开始加装激光探测装置。<sup class="sup--normal" data-sup="47" data-ctrmap=":47,">
+[47]</sup><a class="sup-anchor" name="ref_[47]_1752175">&nbsp;</a>
+6月9日，八通线屏蔽门开始全天试运行。<sup class="sup--normal" data-sup="48" data-ctrmap=":48,">
+[48]</sup><a class="sup-anchor" name="ref_[48]_1752175">&nbsp;</a>
+7月22日7时许，一男子进入八通线传媒大学至高碑店区间轨道，导致列车停滞。<sup class="sup--normal" data-sup="49" data-ctrmap=":49,">
+[49]</sup><a class="sup-anchor" name="ref_[49]_1752175">&nbsp;</a>
+（主词条：<a target=_blank href="/item/7%C2%B722%E7%94%B7%E5%AD%90%E8%AF%AF%E5%85%A5%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF%E4%BA%8B%E4%BB%B6/18139796" data-lemmaid="18139796">7·22男子误入地铁八通线事件</a>）</div>
+<div class="para" label-module="para">2018年8月，地铁1号线、八通线贯通工程进入审批阶段，届时乘坐八通线的乘客无须再通过四惠站换乘1号线。地铁八通线正在进行信号改造，未来地铁八通线有望进一步缩短列车发车间隔。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_1752175">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_2" class="lemma-anchor " ></a>
+<a name="线路资料" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁八通线</span>线路资料</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="2_1" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_2_1" class="lemma-anchor " ></a>
+<a name="线路数据" class="lemma-anchor " ></a>
+<a name="2-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>线路数据</h3>
+</div>
+<table log-set-param="table_view" data-sort="sortDisabled"><tr><td align="center" valign="middle" colspan="2"><div class="para" label-module="para"><b>北京地铁八通线线路数据</b></div>
+</td></tr><tr><td align="center" valign="middle" colspan="2"><div class="para" label-module="para">概况</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">类型</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E5%9C%B0%E9%93%81/21266" data-lemmaid="21266">地铁</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">所属系统</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81/408485" data-lemmaid="408485">北京地铁</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">起止站</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E5%9B%9B%E6%83%A0%E7%AB%99">四惠站</a>——<a target=_blank href="/item/%E5%9C%9F%E6%A1%A5%E7%AB%99/4536893" data-lemmaid="4536893">土桥站</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">车站数</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">13</div>
+</td></tr><tr><td align="center" valign="middle" colspan="2"><div class="para" label-module="para">运营</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">营运地区</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E4%B8%AD%E5%9B%BD/22516505" data-lemmaid="22516505">中国</a><a target=_blank href="/item/%E5%8C%97%E4%BA%AC/128981" data-lemmaid="128981">北京</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">运营状态</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">运营中</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">开通日期</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">2003年12月27日</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">运营方</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E8%BF%90%E8%90%A5%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京地铁运营有限公司</a>第二分公司</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">线路标识色</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">红色</div>
+</td></tr><tr><td align="center" valign="middle" colspan="2"><div class="para" label-module="para">技术</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">全长</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">18.964km</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">双线</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">全线</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">轨距</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">1435mm</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E7%94%B5%E6%B0%94%E5%8C%96/2453838" data-lemmaid="2453838">电气化</a></div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">直流750V，<a target=_blank href="/item/%E7%AC%AC%E4%B8%89%E8%BD%A8%E4%BE%9B%E7%94%B5/10803055" data-lemmaid="10803055">第三轨供电</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">最高时速</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">70km/h</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">编组</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">准B型车6节编组</div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para"><a target=_blank href="/item/%E8%BD%A6%E8%BE%86%E6%AE%B5/7416940" data-lemmaid="7416940">车辆段</a></div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">1处 <a target=_blank href="/item/%E5%9C%9F%E6%A1%A5%E8%BD%A6%E8%BE%86%E6%AE%B5">土桥车辆段</a></div>
+</td></tr><tr><td align="center" valign="middle"><div class="para" label-module="para">使用车型</div>
+</td><td align="center" valign="middle"><div class="para" label-module="para">SFX01（TQ401-TQ408 TQ415-TQ424）</div>
+<div class="para" label-module="para">SFX02（TQ409-TQ414）</div>
+<div class="para" label-module="para">SFX07（TQ425-TQ430）</div>
+</td></tr></table><table log-set-param="table_view" width="-82" class="table-view log-set-param" data-sort="sortDisabled"><caption>北京地铁八通线车站列表</caption><tr><th align="center" valign="middle" colspan="2" rowspan="1">车站名称</th><th width="61" align="center" valign="middle">所属区段</th><th width="61" align="center" valign="middle">开通日期</th><th align="center" valign="middle" colspan="2" rowspan="1">换乘线路</th><th width="61" align="center" valign="middle">所在行政区</th></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%9B%9B%E6%83%A0%E7%AB%99">四惠站</a></div>
+</td><td height="0" align="center" valign="middle" rowspan="13" class="coloredcell">全线</td><td height="0" align="center" valign="middle" rowspan="13" class="coloredcell">2003年12月27日</td><td align="center" valign="middle" colspan="2" rowspan="2" class="coloredcell"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF">北京地铁1号线</a></div>
+</td><td height="0" align="center" valign="middle" rowspan="7"><a target=_blank href="/item/%E6%9C%9D%E9%98%B3%E5%8C%BA/2134" data-lemmaid="2134">朝阳区</a></td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%9B%9B%E6%83%A0%E4%B8%9C%E7%AB%99">四惠东站</a></div>
+</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E9%AB%98%E7%A2%91%E5%BA%97%E7%AB%99/15410420" data-lemmaid="15410420">高碑店站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="1" class="coloredcell">无</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E7%AB%99">传媒大学站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8118%E5%8F%B7%E7%BA%BF">北京地铁18号线</a></td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8F%8C%E6%A1%A5%E7%AB%99/16513778" data-lemmaid="16513778">双桥站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="1">无</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E7%AE%A1%E5%BA%84%E7%AB%99">管庄站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8118%E5%8F%B7%E7%BA%BF">北京地铁18号线</a></td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%85%AB%E9%87%8C%E6%A1%A5%E7%AB%99">八里桥站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="3">无</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E9%80%9A%E5%B7%9E%E5%8C%97%E8%8B%91%E7%AB%99">通州北苑站</a></div>
+</td><td align="center" valign="middle" colspan="1" rowspan="8"><a target=_blank href="/item/%E9%80%9A%E5%B7%9E%E5%8C%BA/5203" data-lemmaid="5203">通州区</a></td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E6%9E%9C%E5%9B%AD%E7%AB%99">果园站</a></div>
+</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E4%B9%9D%E6%A3%B5%E6%A0%91%E7%AB%99">九棵树站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="1">市郊铁路S6线</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E6%A2%A8%E5%9B%AD%E7%AB%99/17955" data-lemmaid="17955">梨园站</a></div>
+</td><td align="center" valign="middle" colspan="2" rowspan="3">无</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E4%B8%B4%E6%B2%B3%E9%87%8C%E7%AB%99">临河里站</a></div>
+</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%9C%9F%E6%A1%A5%E7%AB%99/4536893" data-lemmaid="4536893">土桥站</a></div>
+</td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1">施园站</td><td align="center" valign="middle" colspan="1" rowspan="2"><div class="para" label-module="para">南延</div>
+</td><td align="center" valign="middle" colspan="1" rowspan="2">2019年9月</td><td align="center" valign="middle" colspan="2" rowspan="2"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%817%E5%8F%B7%E7%BA%BF">北京地铁7号线</a></td></tr><tr><td align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E7%AB%99">环球影城站</a></td></tr></table><div class="para" label-module="para">注释：</div>
+<ol class="custom_num  para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">已开通的车站和区段用格底色表示，未开通的车站和区段无格底色。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">“可换乘线路”中仅包含2020年北京轨道交通规划中的线路，括号内为在建线路开通年份。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">为方便内链，车站名称以“站名+‘站’”的形式呈现。</div>
+</li><li class="list-num-1-4 list-num-paddingleft-1"><div class="para" label-module="para">此线暂时不能与1号线贯通运营，需要在四惠站、四惠东站分散换乘。但是由于2018年8月一号线与八通线贯通工程获得审批，以后两线将贯通。预计2019年年底贯通。</div>
+</li></ol><div class="anchor-list">
+<a name="2_2" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_2_2" class="lemma-anchor " ></a>
+<a name="站间公里数" class="lemma-anchor " ></a>
+<a name="2-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>站间公里数</h3>
+</div>
+<table log-set-param="table_view" width="658" class="bt"><caption>八通线相邻站间距信息统计表</caption><tr><th align="center" valign="middle">起始/终到车站</th><th align="center" valign="middle">区间距离</th><th align="center" valign="middle">方向</th></tr><tr><th align="center" valign="middle">四惠——四惠东</th><td width="198" align="center" valign="middle">1715米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">四惠东——高碑店</th><td width="198" align="center" valign="middle">1375米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">高碑店——传媒大学</th><td width="198" align="center" valign="middle">2002米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">传媒大学——双桥</th><td width="198" align="center" valign="middle">1894米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">双桥——管庄</th><td width="198" align="center" valign="middle">1912米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">管庄——八里桥</th><td width="198" align="center" valign="middle">1763米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">八里桥——通州北苑</th><td width="198" align="center" valign="middle">1700米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">通州北苑——果园</th><td width="198" align="center" valign="middle">1465米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">果园——九棵树</th><td width="198" align="center" valign="middle">990米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">九棵树——梨园</th><td width="198" align="center" valign="middle">1225米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">梨园——临河里</th><td width="198" align="center" valign="middle">1257米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">临河里——土桥</th><td width="198" align="center" valign="middle">776米</td><td width="198" align="center" valign="middle">上行/下行</td></tr></table><div class="para" label-module="para"><i>（</i><i>相邻站间距信息</i><i>参考资料<sup class="sup--normal" data-sup="50" data-ctrmap=":50,">
+[50]</sup><a class="sup-anchor" name="ref_[50]_1752175">&nbsp;</a>
+</i><i>）</i></div><div class="anchor-list">
+<a name="2_3" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_2_3" class="lemma-anchor " ></a>
+<a name="首末车时间" class="lemma-anchor " ></a>
+<a name="2-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>首末车时间</h3>
+</div>
+<table log-set-param="table_view" width="658" class="bt" data-sort="sortDisabled"><caption>八通线首末车时刻表</caption><tr><th align="center" valign="middle">车站名称</th><th align="center" valign="middle" colspan="2">开往土桥（上行）</th><th align="center" valign="middle" colspan="2">开往四惠（下行）</th></tr><tr><th align="center" valign="middle">车站名称</th><td width="110" align="center" valign="middle" colspan="1" rowspan="1">首车时间</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">末车时间</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">首车时间</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">末车时间</td></tr><tr><th align="center" valign="middle">四惠</th><td width="110" align="center" valign="middle">6:00</td><td width="110" align="center" valign="middle">23:22</td><td width="110" align="center" valign="middle">——</td><td width="110" align="center" valign="middle">——</td></tr><tr><th align="center" valign="middle">四惠东</th><td width="110" align="center" valign="middle">6:02</td><td width="110" align="center" valign="middle">23:24</td><td width="110" align="center" valign="middle">5:48</td><td width="110" align="center" valign="middle">23:10</td></tr><tr><th align="center" valign="middle">高碑店</th><td width="110" align="center" valign="middle">6:05</td><td width="110" align="center" valign="middle">23:27</td><td width="110" align="center" valign="middle">5:46</td><td width="110" align="center" valign="middle">23:08</td></tr><tr><th align="center" valign="middle">传媒大学</th><td width="110" align="center" valign="middle">6:08</td><td width="110" align="center" valign="middle">23:30</td><td width="110" align="center" valign="middle">5:43</td><td width="110" align="center" valign="middle">23:05</td></tr><tr><th align="center" valign="middle">双桥</th><td width="110" align="center" valign="middle">6:11</td><td width="110" align="center" valign="middle">23:33</td><td width="110" align="center" valign="middle">5:40</td><td width="110" align="center" valign="middle">23:02</td></tr><tr><th align="center" valign="middle">管庄</th><td width="110" align="center" valign="middle">6:13</td><td width="110" align="center" valign="middle">23:35</td><td width="110" align="center" valign="middle">5:37</td><td width="110" align="center" valign="middle">22:59</td></tr><tr><th align="center" valign="middle">八里桥</th><td width="110" align="center" valign="middle">6:16</td><td width="110" align="center" valign="middle">23:38</td><td width="110" align="center" valign="middle">5:33</td><td width="110" align="center" valign="middle">22:55</td></tr><tr><th align="center" valign="middle">通州北苑</th><td width="110" align="center" valign="middle">6:19</td><td width="110" align="center" valign="middle">23:41</td><td width="110" align="center" valign="middle">5:31</td><td width="110" align="center" valign="middle">22:53</td></tr><tr><th align="center" valign="middle">果园</th><td width="110" align="center" valign="middle">6:22</td><td width="110" align="center" valign="middle">23:44</td><td width="110" align="center" valign="middle">5:28</td><td width="110" align="center" valign="middle">22:50</td></tr><tr><th align="center" valign="middle">九棵树</th><td width="110" align="center" valign="middle">6:24</td><td width="110" align="center" valign="middle">23:46</td><td width="110" align="center" valign="middle">5:26</td><td width="110" align="center" valign="middle">22:48</td></tr><tr><th align="center" valign="middle">梨园</th><td width="110" align="center" valign="middle">6:26</td><td width="110" align="center" valign="middle">23:48</td><td width="110" align="center" valign="middle">5:24</td><td width="110" align="center" valign="middle">22:46</td></tr><tr><th align="center" valign="middle">临河里</th><td width="110" align="center" valign="middle">6:29</td><td width="110" align="center" valign="middle">23:50</td><td width="110" align="center" valign="middle">5:21</td><td width="110" align="center" valign="middle">22:43</td></tr><tr><th align="center" valign="middle">土桥</th><td width="110" align="center" valign="middle">——</td><td width="110" align="center" valign="middle">——</td><td width="110" align="center" valign="middle">5:20</td><td width="110" align="center" valign="middle">22:42</td></tr></table><div class="para" label-module="para"><b></b></div>
+<div class="para" label-module="para">※遇特殊情况需临时调整时，以北京市地铁运营有限公司公告为准。</div>
+<div class="para" label-module="para"><i>（首末车时间参考资料<sup class="sup--normal" data-sup="51" data-ctrmap=":51,">
+[51]</sup><a class="sup-anchor" name="ref_[51]_1752175">&nbsp;</a>
+）</i></div><div class="anchor-list">
+<a name="2_4" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_2_4" class="lemma-anchor " ></a>
+<a name="车站信息" class="lemma-anchor " ></a>
+<a name="2-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>车站信息</h3>
+</div>
+<table log-set-param="table_view" width="658" class="table-view log-set-param" data-sort="sortDisabled"><caption>北京地铁八通线车站信息</caption><tr><th width="93" height="0"><div class="para" label-module="para">车站名称</div>
+</th><th width="93">敷设方式</th><th width="148">站厅形式</th><th width="139" height="0"><div class="para" label-module="para">月台形式</div>
+</th><th width="93">开门方向</th><th width="93">参考资料</th></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">四惠</div>
+</td><td width="93" align="center" valign="middle" colspan="1" rowspan="2">地面</td><td width="148" align="center" valign="middle" colspan="1" rowspan="2"><div class="para" label-module="para">整体式站厅</div>
+<div class="para" label-module="para">（与1号线共用）</div>
+</td><td width="139" height="57" align="center" valign="middle"><div class="para" label-module="para">双岛式月台</div>
+</td><td width="93" align="center" valign="middle">左侧</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="52" data-ctrmap=":52,">
+[52]</sup><a class="sup-anchor" name="ref_[52]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">四惠东</div>
+</td><td width="139" height="57" align="center" valign="middle"><div class="para" label-module="para">一岛两侧式月台</div>
+</td><td width="93" align="center" valign="middle" colspan="1" rowspan="12">右侧</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="53" data-ctrmap=":53,">
+[53]</sup><a class="sup-anchor" name="ref_[53]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">高碑店</div>
+</td><td width="93" align="center" valign="middle">高架</td><td width="148" align="center" valign="middle" colspan="1" rowspan="2">整体式站厅</td><td width="139" align="center" valign="middle" colspan="1" rowspan="11"><div class="para" label-module="para">侧式月台</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="54" data-ctrmap=":54,">
+[54]</sup><a class="sup-anchor" name="ref_[54]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">传媒大学</div>
+</td><td width="93" align="center" valign="middle">地面</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="55" data-ctrmap=":55,">
+[55]</sup><a class="sup-anchor" name="ref_[55]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">双桥</div>
+</td><td width="93" align="center" valign="middle" colspan="1" rowspan="8">高架</td><td width="148" align="center" valign="middle">分离式站厅</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="56" data-ctrmap=":56,">
+[56]</sup><a class="sup-anchor" name="ref_[56]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">管庄</div>
+</td><td width="148" align="center" valign="middle" colspan="1" rowspan="7">整体式站厅</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="57" data-ctrmap=":57,">
+[57]</sup><a class="sup-anchor" name="ref_[57]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">八里桥</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="58" data-ctrmap=":58,">
+[58]</sup><a class="sup-anchor" name="ref_[58]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">通州北苑</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="59" data-ctrmap=":59,">
+[59]</sup><a class="sup-anchor" name="ref_[59]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">果园</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="60" data-ctrmap=":60,">
+[60]</sup><a class="sup-anchor" name="ref_[60]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">九棵树</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="61" data-ctrmap=":61,">
+[61]</sup><a class="sup-anchor" name="ref_[61]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">梨园</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="62" data-ctrmap=":62,">
+[62]</sup><a class="sup-anchor" name="ref_[62]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">临河里</div>
+</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="63" data-ctrmap=":63,">
+[63]</sup><a class="sup-anchor" name="ref_[63]_1752175">&nbsp;</a>
+</td></tr><tr><td width="93" height="57" align="center" valign="middle"><div class="para" label-module="para">土桥</div>
+</td><td width="93" align="center" valign="middle">地面</td><td width="148" align="center" valign="middle">分离式站厅</td><td width="93" align="center" valign="middle"><sup class="sup--normal" data-sup="64" data-ctrmap=":64,">
+[64]</sup><a class="sup-anchor" name="ref_[64]_1752175">&nbsp;</a>
+</td></tr></table><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_3" class="lemma-anchor " ></a>
+<a name="现运列车" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁八通线</span>现运列车</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">为配合八通线南延工程接入新信号，八通线将更换为CBTC信号，由于原车驾驶室过小且不支持CBTC，自2016年起，八通线SFM01/02型进入北京地铁车辆装备有限公司进行改造，新型号尚未知。</div><div class="anchor-list">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_3_1" class="lemma-anchor " ></a>
+<a name="SFX01型地铁电动客车" class="lemma-anchor " ></a>
+<a name="3-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>SFX01型地铁电动客车</h3>
+</div>
+<div class="para" label-module="para">主词条：<a target=_blank href="/item/SFX01%E5%9E%8B%E5%9C%B0%E9%93%81%E7%94%B5%E5%8A%A8%E5%AE%A2%E8%BD%A6/15631728" data-lemmaid="15631728">SFX01型地铁电动客车</a>（TQ401-TQ408 TQ415-TQ424）于2000年设计完成，碳钢车体，由四方/北京地铁车辆厂联合制造，目前在北京地铁八通线运营。TQ401~414为四方厂生产，TQ415~424为北京地铁车辆厂生产。2003年12月27日八通线开通的时候只有TQ401、402、415，后来陆续共投入21组，共24组列车。随着客流增加，八通线扩编并购进6组SFX07型电动客车。</div><div class="anchor-list">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_3_2" class="lemma-anchor " ></a>
+<a name="SFX02型地铁电动客车" class="lemma-anchor " ></a>
+<a name="3-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>SFX02型地铁电动客车</h3>
+</div>
+<div class="para" label-module="para">车号：TQ409~414，是不锈钢车体,。目前所有车辆已经改成六节编组。</div>
+<ul class="custom_dot para-list list-paddingleft-1"></ul><div class="anchor-list">
+<a name="3_3" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_3_3" class="lemma-anchor " ></a>
+<a name="SFX07型地铁电动客车" class="lemma-anchor " ></a>
+<a name="3-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>SFX07型地铁电动客车</h3>
+</div>
+<div class="para" label-module="para">车号：TQ425-TQ430，随着客流增加，八通线扩编并购进6组SFX07型电动客车。</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_4" class="lemma-anchor " ></a>
+<a name="曾用列车" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁八通线</span>曾用列车</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">主词条：<a target=_blank href="/item/DK3%E5%9E%8B%E5%9C%B0%E9%93%81%E7%94%B5%E5%8A%A8%E5%AE%A2%E8%BD%A6/2361171" data-lemmaid="2361171">DK3型地铁电动客车</a></div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF/4561974/0/4bed2e738bd4b31ce68202a289d6277f9e2ff869?fr=lemma&ct=single" target="_blank"
+		title="" style="width:220px;height:123px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=f6a8772e3bfae6cd08b4ac633fb20f9e/4bed2e738bd4b31ce68202a289d6277f9e2ff869.jpg"  alt="" style="width:220px;height:123px;"/>
+</a>
+</div>这是北京地铁列车寿命最长的车型，DK3型由长春轨道客车在1971年生产，共50辆，每节车厢共3对车门，为内藏门，列车两端设有紧急出口。初期为2编组营运，后改为4编组。主要在一期工程和后来的1号线运营（编号G101-G107），也一度在13号线（编号H101-H114）和八通线（编号TQ101-TQ114）运营过。另外部分列车还支援过天津轨道交通（编号104-106）。</div><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_5" class="lemma-anchor " ></a>
+<a name="线路后期建设" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁八通线</span>线路后期建设</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="5_1" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_5_1" class="lemma-anchor " ></a>
+<a name="线路南延" class="lemma-anchor " ></a>
+<a name="5-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>线路南延</h3>
+</div>
+<div class="para" label-module="para">八通线将向东南方向至环球影城站，目的是通达未来将建成的&quot;环球影城&quot;项目。环球影城项目于2009年12月份正式签署，项目位于通州梨园镇东南端，毗邻万盛南街东端，项目征地的拆迁工作于2011年已经结束，预计2019年底正式开通运营。</div><div class="anchor-list">
+<a name="5_2" class="lemma-anchor para-title" ></a>
+<a name="sub1752175_5_2" class="lemma-anchor " ></a>
+<a name="与一号线贯通" class="lemma-anchor " ></a>
+<a name="5-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁八通线</span>与一号线贯通</h3>
+</div>
+<div class="para" label-module="para">8月8日上午，据北京地铁公司消息，地铁日均客流已超1160万，换乘站压力大，多个地铁站将于近日进行改造。地铁1号线、八通线贯通工程进入审批阶段，届时乘坐八通线的乘客无须再通过四惠站换乘1号线。<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_1752175">&nbsp;</a>
+</div>
+<div class="para" label-module="para">据北京地铁公司相关负责人介绍，目前地铁八通线日均客流达到30万，除临河里等三站不限流外，其他站点均常态限流。这30万客流中大多为通勤客流，高达83%比例的人员在地铁四惠站、四惠东站换乘，换乘站压力非常大。未来贯通之后，乘坐八通线的乘客无须再在两站换乘地铁1号线。目前，工程已经进入审批阶段，但具体完工日期尚未确定。</div>
+<div class="para" label-module="para">同时该负责人透露，地铁八通线正在进行信号改造，未来地铁八通线有望进一步缩短列车发车间隔。</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_1752175_10469" class="anchor-2"></a>
+<div id="rs-container-1752175-10469" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-1752175-10469'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":10469,"fentryTableName":"\u5317\u4eac\u5730\u94c1\u7ebf\u8def","fentryTableType":1,"entryId":2364425,"templateId":0,"entryTitle":"\u5317\u4eac\u5730\u94c1","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([1752175, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-1752175-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_1752175" id="refIndex_1_1752175" title="向上跳转" href="#ref_[1]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/073c3wCn9zw_rzoQfA8-6QK7mmuDXNBcRWyWihtCtT1pyBMujlNHf-YikBqoSAQxhwpjPiZVMKnXiej8qFMWn50dOLLgMdyS0sohkXJOSNenBmck272s0aAxwNNjlSWYEA" target="_blank" class="text">北京3号线八通线南延今年开工 平谷线力争开工<span class="linkout">&nbsp;</span></a>
+<span class="site">．中国经济网</span><span>．2016-01-22</span><span>&#91;引用日期2016-01-22&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-1752175-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_1752175" id="refIndex_2_1752175" title="向上跳转" href="#ref_[2]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/bf8fWcqMxsskUtghr30VOD3drZvH9jknRDOXbSdO5xQmYM0Pv62ByzpJ9wX38Qviz9U9XeXxJOSrO164Y7mOzNJ8l9OdeHACEMzvWzWv" target="_blank" class="text">北京地铁1号线、八通线贯通工程进入审批阶段<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>&#91;引用日期2018-08-08&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-1752175-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_1752175" id="refIndex_3_1752175" title="向上跳转" href="#ref_[3]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/b7c6ZeCCtIM4fS6Yu4yf6OtcxsH3ZIkh-O3snCpolS6TYwYvvT9lsaSilJgjpCEUNG1o_6w5Lv2JPMW6OSstS8faEdp-2RpZtsWWMmhF46ak8ZXVB2qQ" target="_blank" class="text">北京地铁八通线开工建设<span class="linkout">&nbsp;</span></a>
+<span class="site">．人民网</span><span>．2001-12-31</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[4]-1752175-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_1752175" id="refIndex_4_1752175" title="向上跳转" href="#ref_[4]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/fa32n2ZgA-ILZ2F2JJEErcwXXyjP0z6oTbZTYmhA3JA6Ak63Gj6BC3GDDMyf8reee8ayw0aAm3RzWdMCWYa42tjOqiannGvxTftbryWJLDg-zZx11quhfrPq" target="_blank" class="text">北京地铁八通线开工建设<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2001-12-31</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-1752175-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_1752175" id="refIndex_5_1752175" title="向上跳转" href="#ref_[5]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/44c0CrP55fBtl-DISFVP55BJxaJc-b7JG9CQQaRaa35NOqG-KREhkrBQHQwKCV_NxsRCm71S0SC_Jb8V3gOCFd1QezmfNUEki5Ax-eBomTU7" target="_blank" class="text">八通线挺起“第一梁”<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2002-09-21</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-1752175-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_1752175" id="refIndex_6_1752175" title="向上跳转" href="#ref_[6]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/d280aRbWV0rmvmx6cRQob45RYCI3UMuJFNktFpgPWNrIAUu0oMriVN6Z0cdQ6cKiYYPWHdXnDFBZoPp9Zgek91Y0h36ifwO0ya3rqysBx11EgEUs1oOjfMcFYnSKxVlCRfPTCN45o5YUxA" target="_blank" class="text">八通线指挥中心动工<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市规划委员会</span><span>．2002-11-26</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-1752175-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_1752175" id="refIndex_7_1752175" title="向上跳转" href="#ref_[7]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/5a94nakcIlAQfnWZxK877-CnZBtC8mFKP8Z02x9Or-M3hLvAmUc1peW-60YPEVni5Q44pFlupFMU8A4Sp2OKp2UaWytFDt6rXRUVWbxNnsHOYl5pqa5PqyHsWDdxUAaHzYc" target="_blank" class="text">京城地铁八通线开始铺轨<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网北京频道</span><span>．2003-01-27</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-1752175-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_1752175" id="refIndex_8_1752175" title="向上跳转" href="#ref_[8]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/ac7aqazPQMdD3ytpjVsFMVNkR2ICFJDJa3Ncw0uoOTzHAgYo4TIGRy2i-U84TcApf7k-CO_6sdaK7_mkUMvzjPkH0lyfmG8JW4Ph" target="_blank" class="text">北京地铁八通线年底通车 新车更宽更知温暖(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2003-02-19</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[9]-1752175-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor"  name="refIndex_9_1752175" id="refIndex_9_1752175" title="向上跳转" href="#ref_[9]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/4400eWVPT-pkn3osPxd30P6uYCM6h5U0MzM6aEwP4aLyKigxr97CQeQVGGcyLJMnbU692E7b3Hg__SfovHHKcGPvZjC3INI7t9TwIGakSGiPGuo" target="_blank" class="text">八通线全线铺轨 将成连接北京东西部交通动脉<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2003-04-20</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[10]-1752175-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor"  name="refIndex_10_1752175" id="refIndex_10_1752175" title="向上跳转" href="#ref_[10]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/0f2c33dcuAg9KdyOQfIJkyU0ImrJ8b0Gcoz1lbrrk9yX0dKZD-cSu4KM2DMfK2FuzJBPHtAeM3v7DciCThyzAcA0R-KbUgQ8tBiv1x8J9en4ZWE47zimtTf9Qy4rTQE" target="_blank" class="text">八通线进入最后冲刺 沿途站名公示征求市民意见<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2003-05-25</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-1752175-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor"  name="refIndex_11_1752175" id="refIndex_11_1752175" title="向上跳转" href="#ref_[11]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/368dvo6r3uxiPijYjTdzE7u61uR7YPPvQv0SSNLH7pa8a9Mcm9IaNVntS3DO_-KQQJ37qJcueOoHXV6Efs3E74X-5Ra7Rrb7XJ3mUl2YHgG5hbM" target="_blank" class="text">八通线铺轨完工<span class="linkout">&nbsp;</span></a>
+<span class="site">．人民网</span><span>．2003-05-29</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-1752175-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor"  name="refIndex_12_1752175" id="refIndex_12_1752175" title="向上跳转" href="#ref_[12]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/74dczdfd0xhRKGEVF_a4gylO3TaIqR1VJFC-WW2Byw2zRi0IfYDWlrqBILlG0tK97uJfiGlSJsqDWlq82Qfker-qh4KnUddJtiRPkFHp9acRShI" target="_blank" class="text">八通线全程无障碍<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2003-07-20</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-1752175-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor"  name="refIndex_13_1752175" id="refIndex_13_1752175" title="向上跳转" href="#ref_[13]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/5845wFOpj5Pgn19kgGKf0Nsr_h6105RJ3eOY3gpea--h9aI6n2MLeiWAWH5zg0BsfJ4JGDJ9bk7r45wavS3CXYjLFLydLC-Hpp8YyldL-zKR65miHE7gutplHw" target="_blank" class="text">北京地铁八通线指挥中心本月交用<span class="linkout">&nbsp;</span></a>
+<span class="site">．中国建设报</span><span>．2003-11-18</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-1752175-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor"  name="refIndex_14_1752175" id="refIndex_14_1752175" title="向上跳转" href="#ref_[14]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/54063xn69p1iPVaBi7gNIqO-KwqoqKgEsToqaL7K8AP7c0rXPo7vuVcg7s8QhZSi-oXZ8MEWmWi5HEsEhl6qTGmXf8Mvf0-eY7mfb9_ENkL93z8jWN_0ziGqDF0awiMA" target="_blank" class="text">北京八通线将空载试运行 地铁运营员工接管八通线<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2003-11-29</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-1752175-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor"  name="refIndex_15_1752175" id="refIndex_15_1752175" title="向上跳转" href="#ref_[15]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/f060Zp2EwwSStTE0aUhKZ4U6GPKbLInlDTHTVV-MF-ygR_UYo3IgSivyzWQI5iwaDrCtu6hdf2BbI6Bsd7mi5OEVfNwau97in0QPMvqyr1WgMbg" target="_blank" class="text">北京八通线新型城轨列车下线 配备超薄空调(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2003-11-28</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-1752175-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor"  name="refIndex_16_1752175" id="refIndex_16_1752175" title="向上跳转" href="#ref_[16]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/293cdYD_RYQCDuetJ5nGFFfBZEUVGky926EfGiZm333v5fq9NSfIE5fkTIWmjqvvQhrutdJnRQFNGWCXTB4bu4TAxjMKVGxBTIpAc4oR-BqNccDi" target="_blank" class="text">八通线热身最怕闯入者(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2003-12-09</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-1752175-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor"  name="refIndex_17_1752175" id="refIndex_17_1752175" title="向上跳转" href="#ref_[17]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/701fb97Q1o5vOMqzL9fiTET4KY-QQxRUOvXgrGywaOvlscqdnd74rlnagYbtGkpmQ3RanLTJtEeVDRaAkrkA9OmJCWRvnDSgMp2iIgO1ZwDilTdgqoPfC1nmiwht" target="_blank" class="text">北京八通线票价今听证 全线空载试运行同日进行<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2003-12-12</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[18]-1752175-wrap">
+<span class="index">18.</span>
+<a class="gotop anchor"  name="refIndex_18_1752175" id="refIndex_18_1752175" title="向上跳转" href="#ref_[18]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/5823_o8SucRct0xDWmKKtPljS8nJzFtlw5y_eDifOgQAwhEbI5sLEh5icqNrY4RqFLk5xUc6BNJmGYF3TQyEaTlymq4ebliS2If_rM38g8ti77Iz" target="_blank" class="text">北京地铁八通线迎来首辆北京产新车 28日起迎客(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2003-12-23</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[19]-1752175-wrap">
+<span class="index">19.</span>
+<a class="gotop anchor"  name="refIndex_19_1752175" id="refIndex_19_1752175" title="向上跳转" href="#ref_[19]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/85623l3NqqRazhB4scnvsiXjkocmra5jvxj_1isfVfC5AXM3eMhfKrm6p2pLIWg6U0dQBZs_-Sbm25uY7gxZV1lIlK4sHSYKS2NXMSou5QbPz_DDt3hD-WXbx6Dy1wBO" target="_blank" class="text">北京八通线将提前一天迎客 票价为单程2元换乘4元<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2003-12-26</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[20]-1752175-wrap">
+<span class="index">20.</span>
+<a class="gotop anchor"  name="refIndex_20_1752175" id="refIndex_20_1752175" title="向上跳转" href="#ref_[20]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/e3991lb-pMvlAHjmpGTOuJeApsXGZkUoiAy2Td6yfKu_6sKujdvFCX4palxhxxBjSAilYNI4IjQATL7_djoxG6oKmfRasy9hoIKDhHVwqNH-ODHaBTmuOn9wOv1mRXcg" target="_blank" class="text">北京地铁：今起可乘八通线 站站能存自行车<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2003-12-27</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[21]-1752175-wrap">
+<span class="index">21.</span>
+<a class="gotop anchor"  name="refIndex_21_1752175" id="refIndex_21_1752175" title="向上跳转" href="#ref_[21]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/a31aiLq28xzPhwCaIEfAaT5WOFbei99zf8tVjUmbXp2C-8FHmqeBCII6dJ6O0K0tNPEDN47BW160w_CFJTRKts8b6Kyab2l4ORxjHUuynst0_u7p" target="_blank" class="text">八通线昨夜首次故障晚点<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2004-01-07</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[22]-1752175-wrap">
+<span class="index">22.</span>
+<a class="gotop anchor"  name="refIndex_22_1752175" id="refIndex_22_1752175" title="向上跳转" href="#ref_[22]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/0225w5nVJ1qgZ3v9QGc7taZXlu751uimsgF05nxH0fuJ9bXsXfUwPvILDE2vO1qdqJgBSYJ-jCy1tuBbUTH5UHW3KaLvg8D0IvH-XsEIHlA5A4c" target="_blank" class="text">北京八通线缩短高峰发车间隔 高峰时7分半一趟<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2004-01-20</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[23]-1752175-wrap">
+<span class="index">23.</span>
+<a class="gotop anchor"  name="refIndex_23_1752175" id="refIndex_23_1752175" title="向上跳转" href="#ref_[23]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/5a74z4_zWa0IalXfHXqpPeZzskJ5AgX3HHP8p7yy-HOyDno_f9TdxeHkyMFEWupVb5sufKgTS2oAOodwsiCGWShmEddT7dcFOySNo0Ejdjz2-2ttxw" target="_blank" class="text">八通线早高峰车改6分钟一趟<span class="linkout">&nbsp;</span></a>
+<span class="site">．人民网</span><span>．2004-08-05</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[24]-1752175-wrap">
+<span class="index">24.</span>
+<a class="gotop anchor"  name="refIndex_24_1752175" id="refIndex_24_1752175" title="向上跳转" href="#ref_[24]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/526dWW5fcGuovjoctdi2-yL1uHz7pxa3I3hGGsnwIFG9Wb7JnqWSl0sefJhg8ItMK-CmorMmBn4OPmDNCMdyKesmvKqs0sILkcGaplD1jZNkVdVE" target="_blank" class="text">八通线今起全改空调车<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2005-04-28</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[25]-1752175-wrap">
+<span class="index">25.</span>
+<a class="gotop anchor"  name="refIndex_25_1752175" id="refIndex_25_1752175" title="向上跳转" href="#ref_[25]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/73c7qVzrYooYm8Q95GP2I0BSEsx6BcevJO_tJ1y_XxEP9ANFpjtp2ZTPsxqfTORJKz4KAtCRgAjkQunPFIUYsiY37ihKNSsVsd3trrqFVXmJdqYE" target="_blank" class="text">八通线下周按线候车<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2005-05-14</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[26]-1752175-wrap">
+<span class="index">26.</span>
+<a class="gotop anchor"  name="refIndex_26_1752175" id="refIndex_26_1752175" title="向上跳转" href="#ref_[26]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/3c3f0J49kDMxSiYgWdl66gqIoNRerzkmCcv_O2XNAMT5cu0v40kSpACEnTJRIoVyYtY2xgIoqFxIEbkHD3YdREQVtbIMkjz_Od6TMcR6qRr819dB" target="_blank" class="text">八通线全线周一按线候车<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2005-06-04</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[27]-1752175-wrap">
+<span class="index">27.</span>
+<a class="gotop anchor"  name="refIndex_27_1752175" id="refIndex_27_1752175" title="向上跳转" href="#ref_[27]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/763f0W2QtnN4yowTvEjRdHgjsRJiyk-CHALplbzI1Ih5EyPAyY0rHL1yB9mcN0ILjOuXS2GwnjgC1yGteV6fke4gwvqm" target="_blank" class="text">八通线最小发车间隔缩至5分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯新闻</span><span>．2005-09-06</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[28]-1752175-wrap">
+<span class="index">28.</span>
+<a class="gotop anchor"  name="refIndex_28_1752175" id="refIndex_28_1752175" title="向上跳转" href="#ref_[28]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/5590mu8kWjBsOZ9fttRob7GG9F7IkUIEwxsxE-3wjegtaQhpkOBYJ_PrhE5AW2o2X-0Vr913DkW8-ylIvoXfBYaVcCthkLJSeGQMzlCOJL1Wh-cDTeWKFCXu4K6V_d9KDw" target="_blank" class="text">列车故障 北京八通线“短路”20分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪财经</span><span>．2006-04-25</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[29]-1752175-wrap">
+<span class="index">29.</span>
+<a class="gotop anchor"  name="refIndex_29_1752175" id="refIndex_29_1752175" title="向上跳转" href="#ref_[29]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/72f9BHoalL06aBC5TUJ6bqdfhzRYTFZlzI6OhJUWe9CyNiXaHbQg4Gaj3egnwM1afthwxmlVAH4DGddZQi2cpSZ0y7UGhxQkGbVH4flMcdivmtkP" target="_blank" class="text">八通线下周一按点发车<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2006-06-15</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[30]-1752175-wrap">
+<span class="index">30.</span>
+<a class="gotop anchor"  name="refIndex_30_1752175" id="refIndex_30_1752175" title="向上跳转" href="#ref_[30]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/c8e8LrEZwUJ254tFkjxi1O4V1bmgnBFqrcc3FVVbpN15_8VqdzcZsxLdWOAtjNnDYaAlKGU6mY7t6ZETM7BObXahoXVnyvzv-LRq" target="_blank" class="text">北京地铁八通线拟将“广播学院站”更新名<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2006-11-01</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[31]-1752175-wrap">
+<span class="index">31.</span>
+<a class="gotop anchor"  name="refIndex_31_1752175" id="refIndex_31_1752175" title="向上跳转" href="#ref_[31]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/eddeNv9k3JtyDTXJ8KmgFAeA_HMYXJ1S8cmwsKjfzn9JS7ut87cM11K2eUeB__qMI_UznejCiiOb7AKYo8OQgwsXxo3SYNl_SEzKsp1siOiNlqPdDg" target="_blank" class="text">城铁站改名 传媒大学占上风<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2006-11-03</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[32]-1752175-wrap">
+<span class="index">32.</span>
+<a class="gotop anchor"  name="refIndex_32_1752175" id="refIndex_32_1752175" title="向上跳转" href="#ref_[32]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/8bf5r5iQaZNlJxgpznvSLDaGj9Oc6ZbM2iKRG_p6GucCxor6iQYPe9rJOiHg0Qlw8HPajDdaAsLpLGQvxWV5Z-2zqmBKscZc2dVOZLQ-iCGT" target="_blank" class="text">“广播学院”？“传媒大学”！<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>．2007-04-03</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[33]-1752175-wrap">
+<span class="index">33.</span>
+<a class="gotop anchor"  name="refIndex_33_1752175" id="refIndex_33_1752175" title="向上跳转" href="#ref_[33]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/1297l_h2zjPhIwBsSTkNMTEXK39D2xqOvZCelrseUSfJQcieQuSaEk8ckJDEHDuLHqisP1V5vL9cXnVrE3TdCCamF4xRdSGPFd1VqtMNppDijT01MJGsIU8R-fyR" target="_blank" class="text">北京市地铁八通线因车门出现故障停运21分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>．2006-12-13</span><span>&#91;引用日期2015-08-04&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[34]-1752175-wrap">
+<span class="index">34.</span>
+<a class="gotop anchor"  name="refIndex_34_1752175" id="refIndex_34_1752175" title="向上跳转" href="#ref_[34]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/d250llG_Fpf-DNKSBWLW6Tg2hVxStbbuXoh64oyV4uPc33HQ3rvyl-4nYVw-pl5uejfWWWR6hnlfMF7Yf8HAB_TKLM5P_7m2b58z" target="_blank" class="text">八通线高峰期间隔缩短1分钟 由5分钟调为4分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2007-05-16</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[35]-1752175-wrap">
+<span class="index">35.</span>
+<a class="gotop anchor"  name="refIndex_35_1752175" id="refIndex_35_1752175" title="向上跳转" href="#ref_[35]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/c54c55Ei-H3PLkDmXa-et4it_6NCNt5Gbi30q6KSGPEt7i8AbjJB56MIzg7lKcv4OTveSsxbJLSuG1-ISmxaJjPobd-iPpRS6uxzUzAMmIIHjVuNDA" target="_blank" class="text">地铁13号线八通线开装移动电视<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2007-05-28</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[36]-1752175-wrap">
+<span class="index">36.</span>
+<a class="gotop anchor"  name="refIndex_36_1752175" id="refIndex_36_1752175" title="向上跳转" href="#ref_[36]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/a739_QIwMG3aCuQOULO_4dCAyHDPj60s4zFZZ3vAYCbAntXYyiq5Wm7Y4znpHuX0C1Y_L4mDPQbbfwACgx2Fbub6vYIL40-PSzwoCO_9bw" target="_blank" class="text">北京地铁调整运营时间 1线2线八通线延长1小时<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐财经</span><span>．2007-09-25</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[37]-1752175-wrap">
+<span class="index">37.</span>
+<a class="gotop anchor"  name="refIndex_37_1752175" id="refIndex_37_1752175" title="向上跳转" href="#ref_[37]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/4613QtD8Nl3ixc1-gstVqTdO6XWcw6IAS3YeCAoCL33mCP9sZABN3ALOIGxE4WQerpU-OTv0ekcQvo3_cCUcYWudJJMZ" target="_blank" class="text">从5月21日开始 八通线末班时间延长37分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯新闻</span><span>．2009-05-15</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[38]-1752175-wrap">
+<span class="index">38.</span>
+<a class="gotop anchor"  name="refIndex_38_1752175" id="refIndex_38_1752175" title="向上跳转" href="#ref_[38]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/1ec9L0fi1uzi9tFnWDLmAvlPXMetT1qbYOPEJN_LfdI147y6QHgbGFTMoz-ogteO81NCdI9vtLgpLEZZsGi2D71oQOnkZvSrEQYyf5XYLcmHPZdDDrGF2XOczqcTOnI" target="_blank" class="text">女子酒后坠轨八通线停运半小时<span class="linkout">&nbsp;</span></a>
+<span class="site">．京华时报</span><span>．2010-01-12</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[39]-1752175-wrap">
+<span class="index">39.</span>
+<a class="gotop anchor"  name="refIndex_39_1752175" id="refIndex_39_1752175" title="向上跳转" href="#ref_[39]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/9343TkfJbq2byqeZxj1bwLBndKexhSiX2mEJjtd1v6hsy4efZdK3c165t0_5MfOg6cCL7QfK68HS-5akxElYhphb1uEeEDW6EveC_Jyl0fzZen2kZWggaA" target="_blank" class="text">地铁八通线全线停驶10分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．京华时报</span><span>．2010-05-29</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[40]-1752175-wrap">
+<span class="index">40.</span>
+<a class="gotop anchor"  name="refIndex_40_1752175" id="refIndex_40_1752175" title="向上跳转" href="#ref_[40]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/f1e1J4s-V7kjc1RGgZSpeiDhOScDacbnMHx1FoGI_Naxqv38Y6KKSO0Id0rzAHNUC35Pkqa_u2omLWC_OWhlmj-U0gbLtlHxYmlkkDwwp8mqWUmapN_sac3-" target="_blank" class="text">八通线道岔故障<span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2010-08-06</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[41]-1752175-wrap">
+<span class="index">41.</span>
+<a class="gotop anchor"  name="refIndex_41_1752175" id="refIndex_41_1752175" title="向上跳转" href="#ref_[41]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/ec7ayEjyZDgZRlz6de4RUUHVZ8jsLeLuU8vc3F1oetDXnYxXUM9U4C0xcNX1AlBWYqA1NJj0rL_5frL3LbpXIcLcd7BzKeO2cN3x1UYXM1Q4VeX2cUYBUXDF0ho" target="_blank" class="text">明起 八通线发小圈区间车<span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2011-06-27</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[42]-1752175-wrap">
+<span class="index">42.</span>
+<a class="gotop anchor"  name="refIndex_42_1752175" id="refIndex_42_1752175" title="向上跳转" href="#ref_[42]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/ae4fXXpwDmUIJwhDdJgxKbvJJ5w0-WH2nJMAMxHCOzLZkr0HSSZkcVi7wGV7JnV-Yf4f9iLL3MzYeTzg7ePoaXpAoQOJlkg-YfoVvn3DDnZ-" target="_blank" class="text">八通线有多挤？请看“拥挤度提示”<span class="linkout">&nbsp;</span></a>
+<span class="site">．新京报</span><span>．2011-09-06</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[43]-1752175-wrap">
+<span class="index">43.</span>
+<a class="gotop anchor"  name="refIndex_43_1752175" id="refIndex_43_1752175" title="向上跳转" href="#ref_[43]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/eccdABZPViBdOGLIQJF8Zs-aQExdCgfEWK3WNVhkRMsm8IRVwEcZARsxveJM_mvmUyJ_IVmBUHgBSk8YnXeGvqtgp_LzEkmSCSLvgg" target="_blank" class="text">13号线八通线装屏蔽门 获批4.2亿<span class="linkout">&nbsp;</span></a>
+<span class="site">．和讯新闻</span><span>．2011-10-17</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[44]-1752175-wrap">
+<span class="index">44.</span>
+<a class="gotop anchor"  name="refIndex_44_1752175" id="refIndex_44_1752175" title="向上跳转" href="#ref_[44]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/4a58QWhdG934ydJQcTE_92rC03mYgHn0G2Xa5Zy8RT_2O320-p3psejfG7Hmdv_06XBjKwtx0oEMn5A_CfoYbTyWmSsKO4xND1JsyKmJAczdszgy5HXQRw" target="_blank" class="text">13号线八通线开装屏蔽门<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2012-08-11</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[45]-1752175-wrap">
+<span class="index">45.</span>
+<a class="gotop anchor"  name="refIndex_45_1752175" id="refIndex_45_1752175" title="向上跳转" href="#ref_[45]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/e90bxpgZxPVmKNqe60KCt4YhLOCXVQSx6rlad6juTOWS6RErAvjFOUUYXso-8KFQ8pdKGSe0kxYpQZnpEAo3TdYA4jrRaNSAyk0Pz1HODnLw42OQPCRu6dhn0w" target="_blank" class="text">13号线八通线　屏蔽门拟年底启用<span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2013-11-13</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[46]-1752175-wrap">
+<span class="index">46.</span>
+<a class="gotop anchor"  name="refIndex_46_1752175" id="refIndex_46_1752175" title="向上跳转" href="#ref_[46]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/6aaef6MEs-hdwGoxIVrmbOczI3LnypYSbsQSJ9-CoyTkBDZrC-Z6sZltgsVqONXBzAvbM_yKZkz3EMAOV5QaGRt2mEPvRbiQ1GWyLk_cCI3q3VU3jYdHKg" target="_blank" class="text">北京地铁13号八通线屏蔽门手动开关试运行<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2014-04-15</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[47]-1752175-wrap">
+<span class="index">47.</span>
+<a class="gotop anchor"  name="refIndex_47_1752175" id="refIndex_47_1752175" title="向上跳转" href="#ref_[47]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/10fbc4ZcZV2sak5z7x9TxqXiu4Hu7edRaqF1S1syEEzvVC8yqv1cuxFIeo9Kdn6e7O7eIa7YgtHTUhGiZ92NdbwYQpjpgb2HWC5lOO--wM3Sl70Hd1Z7hLc" target="_blank" class="text">北京地铁13号线和八通线正加装激光探测装置<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网北京频道</span><span>．2015-04-23</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[48]-1752175-wrap">
+<span class="index">48.</span>
+<a class="gotop anchor"  name="refIndex_48_1752175" id="refIndex_48_1752175" title="向上跳转" href="#ref_[48]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/31c7px_1oRwAIRdD9DWch_hliaTvjiAVZur4mBDUw20-nffzGk1IvLUFRFyzcVysPKzVaXZb01MfHHP6Fu2qix0WBm2B_BSZ257_SVS6bQub" target="_blank" class="text">八通线13号线屏蔽门 今运行(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>．2015-06-09</span><span>&#91;引用日期2015-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[49]-1752175-wrap">
+<span class="index">49.</span>
+<a class="gotop anchor"  name="refIndex_49_1752175" id="refIndex_49_1752175" title="向上跳转" href="#ref_[49]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/1478ET0I3VjdzB5pFpjamtRozl8zm4FkApL4xYlfJKy2egUyzDVsXTlC9iS4lVX5Rhq-zSiXGTQTBO2qBKVxhWcflb9CyK_hUp-Mzbv6qEEF" target="_blank" class="text">男子误入轨道致地铁八通线停滞<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>&#91;引用日期2015-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[50]-1752175-wrap">
+<span class="index">50.</span>
+<a class="gotop anchor"  name="refIndex_50_1752175" id="refIndex_50_1752175" title="向上跳转" href="#ref_[50]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/cb0eAlm-OTWA4X72WdsA2mUalk4-2vLOkPd7uIzobA3kpAldjKSKkxBewu_M967GHdoGbqhxG25YWOTcnLZfZW40Bg" target="_blank" class="text">站间公里数<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>&#91;引用日期2015-06-13&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[51]-1752175-wrap">
+<span class="index">51.</span>
+<a class="gotop anchor"  name="refIndex_51_1752175" id="refIndex_51_1752175" title="向上跳转" href="#ref_[51]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/35019sTxANT8Jf3xMtyYVM2c33uj6UGOi_6Ec7MmyiMIdzix2m5jHEKeh8dNAOV2OwqoAG6TwKHvvcimPoFKaeMDL39IQgv5AXMvSOklJKhuZsnaR1iy" target="_blank" class="text">首末车时间<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>&#91;引用日期2014-08-01&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[52]-1752175-wrap">
+<span class="index">52.</span>
+<a class="gotop anchor"  name="refIndex_52_1752175" id="refIndex_52_1752175" title="向上跳转" href="#ref_[52]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/2ba6L2rxmCAaYYgnpFNJB9waszhRoBUJ06YVIa9Ic2bj7wtu9EO2XdsXQziX73QMQP6ARDnzihVbaZppGgf9oNd7jS5IO015EtKbKxh0VRrTu6Au7RYkJgC5Bj0" target="_blank" class="text">八通线四惠站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[53]-1752175-wrap">
+<span class="index">53.</span>
+<a class="gotop anchor"  name="refIndex_53_1752175" id="refIndex_53_1752175" title="向上跳转" href="#ref_[53]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/3012abYj4PRXY7bIi9w7TZkuP7YGTYy5PhtORhGPPB9TH50coJBnfbxCiVbvpyVtfrLE7s1c96WONVT4XisLpD8RoLzfaSW9xso8dmkkkI-tzccgSxfVKZjz3Lw" target="_blank" class="text">八通线四惠东站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[54]-1752175-wrap">
+<span class="index">54.</span>
+<a class="gotop anchor"  name="refIndex_54_1752175" id="refIndex_54_1752175" title="向上跳转" href="#ref_[54]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/6ce39eYM8JfIXMJFrtKO7Q_e2gTMfW1YyX8c9aGk40JHuVeeM0hHJpCgVFe_Y-g-K1lwFGIU_vSsCBxejaXWsfJveA7TDcz-v-mV3MpHTjCJ19uDRcM7wmfmiqE" target="_blank" class="text">八通线高碑店站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[55]-1752175-wrap">
+<span class="index">55.</span>
+<a class="gotop anchor"  name="refIndex_55_1752175" id="refIndex_55_1752175" title="向上跳转" href="#ref_[55]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/e273DjuHG341jujkzBZYZd-EjH5VXWRqv4ppYtgdb-njHBa5Xs6v-rqCunTkMp85G0t50y8Heoh2OZQayE-FFISQqn8caxa12wiOVeFO_KPm-deegOJEq8h4GWc" target="_blank" class="text">八通线传媒大学站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[56]-1752175-wrap">
+<span class="index">56.</span>
+<a class="gotop anchor"  name="refIndex_56_1752175" id="refIndex_56_1752175" title="向上跳转" href="#ref_[56]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/12a74-5soo190nDoXPZ7A_j1f5-sGabZNtjn8zboqOgEQGmGCZ45xovXkiwhVq1PqKBch6NsLr2PjUOcrrhomwezFFnck7cP0WwyPKKVm_y9_GibHe_SqG9JZj8" target="_blank" class="text">八通线双桥站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[57]-1752175-wrap">
+<span class="index">57.</span>
+<a class="gotop anchor"  name="refIndex_57_1752175" id="refIndex_57_1752175" title="向上跳转" href="#ref_[57]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/c630zbatRyNgsTMLO5T50FM2Nz1I0Vv6VpfmkJfJuexICgHTg4JHxO5_DSSd1G94PHgI5RisWGCg_wMZIGRseSe6jqoUweVByOiQAGtyDbfCtK2gPWCdVgtoUHM" target="_blank" class="text">八通线管庄站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[58]-1752175-wrap">
+<span class="index">58.</span>
+<a class="gotop anchor"  name="refIndex_58_1752175" id="refIndex_58_1752175" title="向上跳转" href="#ref_[58]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/0c47nHaByVgyOdUCflQ8nfI9Z9_DZR1JZEClhH2PGi8rexSeNsLKomRJDCbGUp_d02PnVLzgC3J5vj0oTyY805F4bZR1loPQACojqsXv9X_Ia4YdSXgKCIQmFr4" target="_blank" class="text">八通线八里桥站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[59]-1752175-wrap">
+<span class="index">59.</span>
+<a class="gotop anchor"  name="refIndex_59_1752175" id="refIndex_59_1752175" title="向上跳转" href="#ref_[59]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/b584gpyUe1Up0WR6EU4DhNk75tSeIVACv0R6_INOmcp11HOu2MBSAPHRMy-bHpBG0fzawODDH14O6X6YUiiEOMqul0vAaq6tZvxSgUvGSsfzvUAPPWA-uXcAyeY" target="_blank" class="text">八通线通州北苑站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[60]-1752175-wrap">
+<span class="index">60.</span>
+<a class="gotop anchor"  name="refIndex_60_1752175" id="refIndex_60_1752175" title="向上跳转" href="#ref_[60]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/8569-k0i3cz3fKHjeBZ1mqkAI_4-GRt_hT8a76BPKS5Ro35dOlqrG60KdK4d5ZB77x0-1FExzFmWOwVGuJEvVnNoX_chHVleo5pvsH3qngKePjK-HzYELiaTLho" target="_blank" class="text">八通线果园站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[61]-1752175-wrap">
+<span class="index">61.</span>
+<a class="gotop anchor"  name="refIndex_61_1752175" id="refIndex_61_1752175" title="向上跳转" href="#ref_[61]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/88a9tdaiRd5UkcpF_xElJYYx74WaVBTX_hmKqUhFHrQXLw-5b_BnuggDvo5ZJ87P79omsRbz96urMH19h0NAUiERtOjRq9byUMlNod_uIrzCJNChVdZyrGy7z-8" target="_blank" class="text">八通线九棵树站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[62]-1752175-wrap">
+<span class="index">62.</span>
+<a class="gotop anchor"  name="refIndex_62_1752175" id="refIndex_62_1752175" title="向上跳转" href="#ref_[62]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/57a8MA1ybMogpomk-UH_zxFX-eUyrvEgTRDbOMeVK-s9moHhR9pX0IdmG3sZY3l8aVDPLPf8IvPGv2u8DzFqJHFsb0rJ4BW5otFm-qP9nA6X07lGWl0wFZLytCw" target="_blank" class="text">八通线梨园站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[63]-1752175-wrap">
+<span class="index">63.</span>
+<a class="gotop anchor"  name="refIndex_63_1752175" id="refIndex_63_1752175" title="向上跳转" href="#ref_[63]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/c9b7b767Xe4TjR44X8qnyhgGFlP9FEsjJAAIeLWtNx9-6mQvqalYu-H9X7WLKgsIBdP3URjKlw7VbsJxeOqs-XONUj3qiUK0Po1c8CkNuTmZxZLf0X88f7kKoNk" target="_blank" class="text">八通线临河里站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[64]-1752175-wrap">
+<span class="index">64.</span>
+<a class="gotop anchor"  name="refIndex_64_1752175" id="refIndex_64_1752175" title="向上跳转" href="#ref_[64]_1752175">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/4561974/6fa91_BHOVslSOJz33VEim62UCX0WQg84_yQ3Wkx3ntr5ltZCfvIN9CQLmF9ntcWQH_qQjic4F8xQPJQu6iGZMtcAh7G5ly6ye9IWoVXgBjafG7bN87cLgHSQsU" target="_blank" class="text">八通线土桥站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-20</span><span>&#91;引用日期2014-07-17&#93;</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+地理
+</span>
+，<span class="taglist">
+地点
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF/4561974/0/728da9773912b31b4b63f0d08018367adab4e138?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=433c732552e736d158138b0ea36b28ff/728da9773912b31b4b63f0d08018367adab4e138.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>北京地铁八通线图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="4561974" data-lemmaTitle="北京地铁八通线"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="4561974">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：115次<a href="/historylist/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF/4561974" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="700842098" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=123456789qbh6&from=lemma"
+                    nslog-type="1022">123456789qbh6</a><span class="j-modified-time" style="display:none">（2019-07-10）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="181242991" username="小浪花朵朵开" target="_blank" href="/usercenter/userpage?uname=%E5%B0%8F%E6%B5%AA%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80&from=lemma">小浪花朵朵开</a>
+<a href="https://baike.baidu.com/item/百科热词团队" 
+                        title="百科热词团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-2_eb180f9.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_4fe3af1.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="6599442" username="南瓜过山车" target="_blank" href="/usercenter/userpage?uname=%E5%8D%97%E7%93%9C%E8%BF%87%E5%B1%B1%E8%BD%A6&from=lemma">南瓜过山车</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">历史沿革</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#1_1" class="title-link">
+<span class="text">
+<span class="title-index">1.1</span>
+<span class="title-link" nslog-type="10002802">规划时期</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#1_2" class="title-link">
+<span class="text">
+<span class="title-index">1.2</span>
+<span class="title-link" nslog-type="10002802">建设时期</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#1_3" class="title-link">
+<span class="text">
+<span class="title-index">1.3</span>
+<span class="title-link" nslog-type="10002802">运营时期</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">线路资料</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#2_1" class="title-link">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">线路数据</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_2" class="title-link">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">站间公里数</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_3" class="title-link">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">首末车时间</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_4" class="title-link">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">车站信息</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">现运列车</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#3_1" class="title-link">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">SFX01型地铁电动客车</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_2" class="title-link">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">SFX02型地铁电动客车</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_3" class="title-link">
+<span class="text">
+<span class="title-index">3.3</span>
+<span class="title-link" nslog-type="10002802">SFX07型地铁电动客车</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">曾用列车</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">线路后期建设</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#5_1" class="title-link">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">线路南延</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_2" class="title-link">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">与一号线贯通</span>
+</span>
+</a>
+</dd>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="北京地铁八通线" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2019&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="北京地铁八通线" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-discussion button j-discussion-link" href="/planet/talk?lemmaId=4561974" target="_blank" nslog-type="90000103"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-hollow"></em>讨论&nbsp;<span class="num">66</span></a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+<script>
+      window['__abbaidu_2020_subidgetf'] = function () {
+          var subid = 01000000;
+          return subid;
+      };
+    </script>
+<script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_3a154ae.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_363b44d.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_8d43709.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_ea4d2ff.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('4561974', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '4561974',                    lemmaTitle:"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf",                    lemmaDesc:null,                    versionId: '138677694',                    subLemmaId: '1752175'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('4561974', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"4561974",
+			lemmaId:"1752175",
+			subLemmaId:"1752175"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '4561974'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');              
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');  
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                + '词条锁定，暂时无法编辑</h2>' 
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=4561974&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=4561974', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
+                $('.j-discussion-link .num').text(numText).show();
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            $(this).find('.num').remove();
+        });
+        // 讨论按钮展现量
+        nsLog(90000101, window.location.href, {
+            lemmaid: 4561974
+        });
+    }
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('4561974', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "1752175",
+                newLemmaId: "4561974",
+                subLemmaId: "1752175",
+                lemmaTitle: "北京地铁八通线"
+            });
+        });
+    }();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"1752175"
+			});
+			new ReferenceTip({
+				subLemmaId:"4561974",
+				lemmaTitle:"北京地铁八通线",
+				reference:[{"type":"1","title":"\u5317\u4eac3\u53f7\u7ebf\u516b\u901a\u7ebf\u5357\u5ef6\u4eca\u5e74\u5f00\u5de5 \u5e73\u8c37\u7ebf\u529b\u4e89\u5f00\u5de5","url":"\/reference\/4561974\/073c3wCn9zw_rzoQfA8-6QK7mmuDXNBcRWyWihtCtT1pyBMujlNHf-YikBqoSAQxhwpjPiZVMKnXiej8qFMWn50dOLLgMdyS0sohkXJOSNenBmck272s0aAxwNNjlSWYEA","site":"\u4e2d\u56fd\u7ecf\u6d4e\u7f51","publishDate":"2016-01-22","refDate":"2016-01-22","index":1},{"type":"1","title":"\u5317\u4eac\u5730\u94c11\u53f7\u7ebf\u3001\u516b\u901a\u7ebf\u8d2f\u901a\u5de5\u7a0b\u8fdb\u5165\u5ba1\u6279\u9636\u6bb5","url":"\/reference\/4561974\/bf8fWcqMxsskUtghr30VOD3drZvH9jknRDOXbSdO5xQmYM0Pv62ByzpJ9wX38Qviz9U9XeXxJOSrO164Y7mOzNJ8l9OdeHACEMzvWzWv","site":"\u51e4\u51f0\u7f51","publishDate":"","refDate":"2018-08-08","index":2},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u5f00\u5de5\u5efa\u8bbe","url":"\/reference\/4561974\/b7c6ZeCCtIM4fS6Yu4yf6OtcxsH3ZIkh-O3snCpolS6TYwYvvT9lsaSilJgjpCEUNG1o_6w5Lv2JPMW6OSstS8faEdp-2RpZtsWWMmhF46ak8ZXVB2qQ","site":"\u4eba\u6c11\u7f51","publishDate":"2001-12-31","refDate":"2015-08-04","index":3,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u5f00\u5de5\u5efa\u8bbe","url":"\/reference\/4561974\/fa32n2ZgA-ILZ2F2JJEErcwXXyjP0z6oTbZTYmhA3JA6Ak63Gj6BC3GDDMyf8reee8ayw0aAm3RzWdMCWYa42tjOqiannGvxTftbryWJLDg-zZx11quhfrPq","site":"\u65b0\u534e\u7f51","publishDate":"2001-12-31","refDate":"2015-08-04","index":4,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u633a\u8d77\u201c\u7b2c\u4e00\u6881\u201d","url":"\/reference\/4561974\/44c0CrP55fBtl-DISFVP55BJxaJc-b7JG9CQQaRaa35NOqG-KREhkrBQHQwKCV_NxsRCm71S0SC_Jb8V3gOCFd1QezmfNUEki5Ax-eBomTU7","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2002-09-21","refDate":"2015-08-04","index":5,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u6307\u6325\u4e2d\u5fc3\u52a8\u5de5","url":"\/reference\/4561974\/d280aRbWV0rmvmx6cRQob45RYCI3UMuJFNktFpgPWNrIAUu0oMriVN6Z0cdQ6cKiYYPWHdXnDFBZoPp9Zgek91Y0h36ifwO0ya3rqysBx11EgEUs1oOjfMcFYnSKxVlCRfPTCN45o5YUxA","site":"\u5317\u4eac\u5e02\u89c4\u5212\u59d4\u5458\u4f1a","publishDate":"2002-11-26","refDate":"2015-08-04","index":6,"count":"1"},{"type":"1","title":"\u4eac\u57ce\u5730\u94c1\u516b\u901a\u7ebf\u5f00\u59cb\u94fa\u8f68","url":"\/reference\/4561974\/5a94nakcIlAQfnWZxK877-CnZBtC8mFKP8Z02x9Or-M3hLvAmUc1peW-60YPEVni5Q44pFlupFMU8A4Sp2OKp2UaWytFDt6rXRUVWbxNnsHOYl5pqa5PqyHsWDdxUAaHzYc","site":"\u65b0\u534e\u7f51\u5317\u4eac\u9891\u9053","publishDate":"2003-01-27","refDate":"2015-08-04","index":7,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u5e74\u5e95\u901a\u8f66 \u65b0\u8f66\u66f4\u5bbd\u66f4\u77e5\u6e29\u6696(\u56fe)","url":"\/reference\/4561974\/ac7aqazPQMdD3ytpjVsFMVNkR2ICFJDJa3Ncw0uoOTzHAgYo4TIGRy2i-U84TcApf7k-CO_6sdaK7_mkUMvzjPkH0lyfmG8JW4Ph","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2003-02-19","refDate":"2015-08-04","index":8,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u5168\u7ebf\u94fa\u8f68 \u5c06\u6210\u8fde\u63a5\u5317\u4eac\u4e1c\u897f\u90e8\u4ea4\u901a\u52a8\u8109","url":"\/reference\/4561974\/4400eWVPT-pkn3osPxd30P6uYCM6h5U0MzM6aEwP4aLyKigxr97CQeQVGGcyLJMnbU692E7b3Hg__SfovHHKcGPvZjC3INI7t9TwIGakSGiPGuo","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2003-04-20","refDate":"2015-08-04","index":9,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u8fdb\u5165\u6700\u540e\u51b2\u523a \u6cbf\u9014\u7ad9\u540d\u516c\u793a\u5f81\u6c42\u5e02\u6c11\u610f\u89c1","url":"\/reference\/4561974\/0f2c33dcuAg9KdyOQfIJkyU0ImrJ8b0Gcoz1lbrrk9yX0dKZD-cSu4KM2DMfK2FuzJBPHtAeM3v7DciCThyzAcA0R-KbUgQ8tBiv1x8J9en4ZWE47zimtTf9Qy4rTQE","site":"\u65b0\u534e\u7f51","publishDate":"2003-05-25","refDate":"2015-08-04","index":10},{"type":"1","title":"\u516b\u901a\u7ebf\u94fa\u8f68\u5b8c\u5de5","url":"\/reference\/4561974\/368dvo6r3uxiPijYjTdzE7u61uR7YPPvQv0SSNLH7pa8a9Mcm9IaNVntS3DO_-KQQJ37qJcueOoHXV6Efs3E74X-5Ra7Rrb7XJ3mUl2YHgG5hbM","site":"\u4eba\u6c11\u7f51","publishDate":"2003-05-29","refDate":"2015-08-04","index":11,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u5168\u7a0b\u65e0\u969c\u788d","url":"\/reference\/4561974\/74dczdfd0xhRKGEVF_a4gylO3TaIqR1VJFC-WW2Byw2zRi0IfYDWlrqBILlG0tK97uJfiGlSJsqDWlq82Qfker-qh4KnUddJtiRPkFHp9acRShI","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2003-07-20","refDate":"2015-08-04","index":12,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u6307\u6325\u4e2d\u5fc3\u672c\u6708\u4ea4\u7528","url":"\/reference\/4561974\/5845wFOpj5Pgn19kgGKf0Nsr_h6105RJ3eOY3gpea--h9aI6n2MLeiWAWH5zg0BsfJ4JGDJ9bk7r45wavS3CXYjLFLydLC-Hpp8YyldL-zKR65miHE7gutplHw","site":"\u4e2d\u56fd\u5efa\u8bbe\u62a5","publishDate":"2003-11-18","refDate":"2015-08-04","index":13,"count":"1"},{"type":"1","title":"\u5317\u4eac\u516b\u901a\u7ebf\u5c06\u7a7a\u8f7d\u8bd5\u8fd0\u884c \u5730\u94c1\u8fd0\u8425\u5458\u5de5\u63a5\u7ba1\u516b\u901a\u7ebf","url":"\/reference\/4561974\/54063xn69p1iPVaBi7gNIqO-KwqoqKgEsToqaL7K8AP7c0rXPo7vuVcg7s8QhZSi-oXZ8MEWmWi5HEsEhl6qTGmXf8Mvf0-eY7mfb9_ENkL93z8jWN_0ziGqDF0awiMA","site":"\u65b0\u534e\u7f51","publishDate":"2003-11-29","refDate":"2015-08-04","index":14},{"type":"1","title":"\u5317\u4eac\u516b\u901a\u7ebf\u65b0\u578b\u57ce\u8f68\u5217\u8f66\u4e0b\u7ebf \u914d\u5907\u8d85\u8584\u7a7a\u8c03(\u56fe)","url":"\/reference\/4561974\/f060Zp2EwwSStTE0aUhKZ4U6GPKbLInlDTHTVV-MF-ygR_UYo3IgSivyzWQI5iwaDrCtu6hdf2BbI6Bsd7mi5OEVfNwau97in0QPMvqyr1WgMbg","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2003-11-28","refDate":"2015-08-04","index":15,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u70ed\u8eab\u6700\u6015\u95ef\u5165\u8005(\u56fe)","url":"\/reference\/4561974\/293cdYD_RYQCDuetJ5nGFFfBZEUVGky926EfGiZm333v5fq9NSfIE5fkTIWmjqvvQhrutdJnRQFNGWCXTB4bu4TAxjMKVGxBTIpAc4oR-BqNccDi","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2003-12-09","refDate":"2015-08-04","index":16,"count":"1"},{"type":"1","title":"\u5317\u4eac\u516b\u901a\u7ebf\u7968\u4ef7\u4eca\u542c\u8bc1 \u5168\u7ebf\u7a7a\u8f7d\u8bd5\u8fd0\u884c\u540c\u65e5\u8fdb\u884c","url":"\/reference\/4561974\/701fb97Q1o5vOMqzL9fiTET4KY-QQxRUOvXgrGywaOvlscqdnd74rlnagYbtGkpmQ3RanLTJtEeVDRaAkrkA9OmJCWRvnDSgMp2iIgO1ZwDilTdgqoPfC1nmiwht","site":"\u65b0\u534e\u7f51","publishDate":"2003-12-12","refDate":"2015-08-04","index":17},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u8fce\u6765\u9996\u8f86\u5317\u4eac\u4ea7\u65b0\u8f66 28\u65e5\u8d77\u8fce\u5ba2(\u56fe)","url":"\/reference\/4561974\/5823_o8SucRct0xDWmKKtPljS8nJzFtlw5y_eDifOgQAwhEbI5sLEh5icqNrY4RqFLk5xUc6BNJmGYF3TQyEaTlymq4ebliS2If_rM38g8ti77Iz","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2003-12-23","refDate":"2015-08-04","index":18,"count":"1"},{"type":"1","title":"\u5317\u4eac\u516b\u901a\u7ebf\u5c06\u63d0\u524d\u4e00\u5929\u8fce\u5ba2 \u7968\u4ef7\u4e3a\u5355\u7a0b2\u5143\u6362\u4e584\u5143","url":"\/reference\/4561974\/85623l3NqqRazhB4scnvsiXjkocmra5jvxj_1isfVfC5AXM3eMhfKrm6p2pLIWg6U0dQBZs_-Sbm25uY7gxZV1lIlK4sHSYKS2NXMSou5QbPz_DDt3hD-WXbx6Dy1wBO","site":"\u65b0\u534e\u7f51","publishDate":"2003-12-26","refDate":"2015-08-04","index":19},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\uff1a\u4eca\u8d77\u53ef\u4e58\u516b\u901a\u7ebf \u7ad9\u7ad9\u80fd\u5b58\u81ea\u884c\u8f66","url":"\/reference\/4561974\/e3991lb-pMvlAHjmpGTOuJeApsXGZkUoiAy2Td6yfKu_6sKujdvFCX4palxhxxBjSAilYNI4IjQATL7_djoxG6oKmfRasy9hoIKDhHVwqNH-ODHaBTmuOn9wOv1mRXcg","site":"\u65b0\u534e\u7f51","publishDate":"2003-12-27","refDate":"2015-08-04","index":20},{"type":"1","title":"\u516b\u901a\u7ebf\u6628\u591c\u9996\u6b21\u6545\u969c\u665a\u70b9","url":"\/reference\/4561974\/a31aiLq28xzPhwCaIEfAaT5WOFbei99zf8tVjUmbXp2C-8FHmqeBCII6dJ6O0K0tNPEDN47BW160w_CFJTRKts8b6Kyab2l4ORxjHUuynst0_u7p","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2004-01-07","refDate":"2015-08-04","index":21,"count":"1"},{"type":"1","title":"\u5317\u4eac\u516b\u901a\u7ebf\u7f29\u77ed\u9ad8\u5cf0\u53d1\u8f66\u95f4\u9694 \u9ad8\u5cf0\u65f67\u5206\u534a\u4e00\u8d9f","url":"\/reference\/4561974\/0225w5nVJ1qgZ3v9QGc7taZXlu751uimsgF05nxH0fuJ9bXsXfUwPvILDE2vO1qdqJgBSYJ-jCy1tuBbUTH5UHW3KaLvg8D0IvH-XsEIHlA5A4c","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2004-01-20","refDate":"2015-08-04","index":22},{"type":"1","title":"\u516b\u901a\u7ebf\u65e9\u9ad8\u5cf0\u8f66\u65396\u5206\u949f\u4e00\u8d9f","url":"\/reference\/4561974\/5a74z4_zWa0IalXfHXqpPeZzskJ5AgX3HHP8p7yy-HOyDno_f9TdxeHkyMFEWupVb5sufKgTS2oAOodwsiCGWShmEddT7dcFOySNo0Ejdjz2-2ttxw","site":"\u4eba\u6c11\u7f51","publishDate":"2004-08-05","refDate":"2015-08-04","index":23,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u4eca\u8d77\u5168\u6539\u7a7a\u8c03\u8f66","url":"\/reference\/4561974\/526dWW5fcGuovjoctdi2-yL1uHz7pxa3I3hGGsnwIFG9Wb7JnqWSl0sefJhg8ItMK-CmorMmBn4OPmDNCMdyKesmvKqs0sILkcGaplD1jZNkVdVE","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2005-04-28","refDate":"2015-08-04","index":24,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u4e0b\u5468\u6309\u7ebf\u5019\u8f66","url":"\/reference\/4561974\/73c7qVzrYooYm8Q95GP2I0BSEsx6BcevJO_tJ1y_XxEP9ANFpjtp2ZTPsxqfTORJKz4KAtCRgAjkQunPFIUYsiY37ihKNSsVsd3trrqFVXmJdqYE","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2005-05-14","refDate":"2015-08-04","index":25,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u5168\u7ebf\u5468\u4e00\u6309\u7ebf\u5019\u8f66","url":"\/reference\/4561974\/3c3f0J49kDMxSiYgWdl66gqIoNRerzkmCcv_O2XNAMT5cu0v40kSpACEnTJRIoVyYtY2xgIoqFxIEbkHD3YdREQVtbIMkjz_Od6TMcR6qRr819dB","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2005-06-04","refDate":"2015-08-04","index":26,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u6700\u5c0f\u53d1\u8f66\u95f4\u9694\u7f29\u81f35\u5206\u949f","url":"\/reference\/4561974\/763f0W2QtnN4yowTvEjRdHgjsRJiyk-CHALplbzI1Ih5EyPAyY0rHL1yB9mcN0ILjOuXS2GwnjgC1yGteV6fke4gwvqm","site":"\u817e\u8baf\u65b0\u95fb","publishDate":"2005-09-06","refDate":"2015-08-04","index":27},{"type":"1","title":"\u5217\u8f66\u6545\u969c \u5317\u4eac\u516b\u901a\u7ebf\u201c\u77ed\u8def\u201d20\u5206\u949f","url":"\/reference\/4561974\/5590mu8kWjBsOZ9fttRob7GG9F7IkUIEwxsxE-3wjegtaQhpkOBYJ_PrhE5AW2o2X-0Vr913DkW8-ylIvoXfBYaVcCthkLJSeGQMzlCOJL1Wh-cDTeWKFCXu4K6V_d9KDw","site":"\u65b0\u6d6a\u8d22\u7ecf","publishDate":"2006-04-25","refDate":"2015-08-04","index":28},{"type":"1","title":"\u516b\u901a\u7ebf\u4e0b\u5468\u4e00\u6309\u70b9\u53d1\u8f66","url":"\/reference\/4561974\/72f9BHoalL06aBC5TUJ6bqdfhzRYTFZlzI6OhJUWe9CyNiXaHbQg4Gaj3egnwM1afthwxmlVAH4DGddZQi2cpSZ0y7UGhxQkGbVH4flMcdivmtkP","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2006-06-15","refDate":"2015-08-04","index":29},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\u62df\u5c06\u201c\u5e7f\u64ad\u5b66\u9662\u7ad9\u201d\u66f4\u65b0\u540d","url":"\/reference\/4561974\/c8e8LrEZwUJ254tFkjxi1O4V1bmgnBFqrcc3FVVbpN15_8VqdzcZsxLdWOAtjNnDYaAlKGU6mY7t6ZETM7BObXahoXVnyvzv-LRq","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2006-11-01","refDate":"2015-08-05","index":30,"count":"1"},{"type":"1","title":"\u57ce\u94c1\u7ad9\u6539\u540d \u4f20\u5a92\u5927\u5b66\u5360\u4e0a\u98ce","url":"\/reference\/4561974\/eddeNv9k3JtyDTXJ8KmgFAeA_HMYXJ1S8cmwsKjfzn9JS7ut87cM11K2eUeB__qMI_UznejCiiOb7AKYo8OQgwsXxo3SYNl_SEzKsp1siOiNlqPdDg","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2006-11-03","refDate":"2015-08-05","index":31},{"type":"1","title":"\u201c\u5e7f\u64ad\u5b66\u9662\u201d\uff1f\u201c\u4f20\u5a92\u5927\u5b66\u201d\uff01","url":"\/reference\/4561974\/8bf5r5iQaZNlJxgpznvSLDaGj9Oc6ZbM2iKRG_p6GucCxor6iQYPe9rJOiHg0Qlw8HPajDdaAsLpLGQvxWV5Z-2zqmBKscZc2dVOZLQ-iCGT","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"2007-04-03","refDate":"2015-08-05","index":32,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5e02\u5730\u94c1\u516b\u901a\u7ebf\u56e0\u8f66\u95e8\u51fa\u73b0\u6545\u969c\u505c\u8fd021\u5206\u949f","url":"\/reference\/4561974\/1297l_h2zjPhIwBsSTkNMTEXK39D2xqOvZCelrseUSfJQcieQuSaEk8ckJDEHDuLHqisP1V5vL9cXnVrE3TdCCamF4xRdSGPFd1VqtMNppDijT01MJGsIU8R-fyR","site":"\u65b0\u534e\u7f51","publishDate":"2006-12-13","refDate":"2015-08-04","index":33},{"type":"1","title":"\u516b\u901a\u7ebf\u9ad8\u5cf0\u671f\u95f4\u9694\u7f29\u77ed1\u5206\u949f \u75315\u5206\u949f\u8c03\u4e3a4\u5206\u949f","url":"\/reference\/4561974\/d250llG_Fpf-DNKSBWLW6Tg2hVxStbbuXoh64oyV4uPc33HQ3rvyl-4nYVw-pl5uejfWWWR6hnlfMF7Yf8HAB_TKLM5P_7m2b58z","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2007-05-16","refDate":"2015-08-05","index":34},{"type":"1","title":"\u5730\u94c113\u53f7\u7ebf\u516b\u901a\u7ebf\u5f00\u88c5\u79fb\u52a8\u7535\u89c6","url":"\/reference\/4561974\/c54c55Ei-H3PLkDmXa-et4it_6NCNt5Gbi30q6KSGPEt7i8AbjJB56MIzg7lKcv4OTveSsxbJLSuG1-ISmxaJjPobd-iPpRS6uxzUzAMmIIHjVuNDA","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2007-05-28","refDate":"2015-08-05","index":35},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u8c03\u6574\u8fd0\u8425\u65f6\u95f4 1\u7ebf2\u7ebf\u516b\u901a\u7ebf\u5ef6\u957f1\u5c0f\u65f6","url":"\/reference\/4561974\/a739_QIwMG3aCuQOULO_4dCAyHDPj60s4zFZZ3vAYCbAntXYyiq5Wm7Y4znpHuX0C1Y_L4mDPQbbfwACgx2Fbub6vYIL40-PSzwoCO_9bw","site":"\u641c\u72d0\u8d22\u7ecf","publishDate":"2007-09-25","refDate":"2015-08-05","index":36,"count":"1"},{"type":"1","title":"\u4ece5\u670821\u65e5\u5f00\u59cb \u516b\u901a\u7ebf\u672b\u73ed\u65f6\u95f4\u5ef6\u957f37\u5206\u949f","url":"\/reference\/4561974\/4613QtD8Nl3ixc1-gstVqTdO6XWcw6IAS3YeCAoCL33mCP9sZABN3ALOIGxE4WQerpU-OTv0ekcQvo3_cCUcYWudJJMZ","site":"\u817e\u8baf\u65b0\u95fb","publishDate":"2009-05-15","refDate":"2015-08-05","index":37,"count":"2"},{"type":"1","title":"\u5973\u5b50\u9152\u540e\u5760\u8f68\u516b\u901a\u7ebf\u505c\u8fd0\u534a\u5c0f\u65f6","url":"\/reference\/4561974\/1ec9L0fi1uzi9tFnWDLmAvlPXMetT1qbYOPEJN_LfdI147y6QHgbGFTMoz-ogteO81NCdI9vtLgpLEZZsGi2D71oQOnkZvSrEQYyf5XYLcmHPZdDDrGF2XOczqcTOnI","site":"\u4eac\u534e\u65f6\u62a5","publishDate":"2010-01-12","refDate":"2015-08-05","index":38},{"type":"1","title":"\u5730\u94c1\u516b\u901a\u7ebf\u5168\u7ebf\u505c\u9a7610\u5206\u949f","url":"\/reference\/4561974\/9343TkfJbq2byqeZxj1bwLBndKexhSiX2mEJjtd1v6hsy4efZdK3c165t0_5MfOg6cCL7QfK68HS-5akxElYhphb1uEeEDW6EveC_Jyl0fzZen2kZWggaA","site":"\u4eac\u534e\u65f6\u62a5","publishDate":"2010-05-29","refDate":"2015-08-05","index":39},{"type":"1","title":"\u516b\u901a\u7ebf\u9053\u5c94\u6545\u969c","url":"\/reference\/4561974\/f1e1J4s-V7kjc1RGgZSpeiDhOScDacbnMHx1FoGI_Naxqv38Y6KKSO0Id0rzAHNUC35Pkqa_u2omLWC_OWhlmj-U0gbLtlHxYmlkkDwwp8mqWUmapN_sac3-","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2010-08-06","refDate":"2015-08-05","index":40},{"type":"1","title":"\u660e\u8d77 \u516b\u901a\u7ebf\u53d1\u5c0f\u5708\u533a\u95f4\u8f66","url":"\/reference\/4561974\/ec7ayEjyZDgZRlz6de4RUUHVZ8jsLeLuU8vc3F1oetDXnYxXUM9U4C0xcNX1AlBWYqA1NJj0rL_5frL3LbpXIcLcd7BzKeO2cN3x1UYXM1Q4VeX2cUYBUXDF0ho","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2011-06-27","refDate":"2015-08-05","index":41},{"type":"1","title":"\u516b\u901a\u7ebf\u6709\u591a\u6324\uff1f\u8bf7\u770b\u201c\u62e5\u6324\u5ea6\u63d0\u793a\u201d","url":"\/reference\/4561974\/ae4fXXpwDmUIJwhDdJgxKbvJJ5w0-WH2nJMAMxHCOzLZkr0HSSZkcVi7wGV7JnV-Yf4f9iLL3MzYeTzg7ePoaXpAoQOJlkg-YfoVvn3DDnZ-","site":"\u65b0\u4eac\u62a5","publishDate":"2011-09-06","refDate":"2015-08-05","index":42},{"type":"1","title":"13\u53f7\u7ebf\u516b\u901a\u7ebf\u88c5\u5c4f\u853d\u95e8 \u83b7\u62794.2\u4ebf","url":"\/reference\/4561974\/eccdABZPViBdOGLIQJF8Zs-aQExdCgfEWK3WNVhkRMsm8IRVwEcZARsxveJM_mvmUyJ_IVmBUHgBSk8YnXeGvqtgp_LzEkmSCSLvgg","site":"\u548c\u8baf\u65b0\u95fb","publishDate":"2011-10-17","refDate":"2015-08-05","index":43},{"type":"1","title":"13\u53f7\u7ebf\u516b\u901a\u7ebf\u5f00\u88c5\u5c4f\u853d\u95e8","url":"\/reference\/4561974\/4a58QWhdG934ydJQcTE_92rC03mYgHn0G2Xa5Zy8RT_2O320-p3psejfG7Hmdv_06XBjKwtx0oEMn5A_CfoYbTyWmSsKO4xND1JsyKmJAczdszgy5HXQRw","site":"\u5343\u9f99\u7f51","publishDate":"2012-08-11","refDate":"2015-08-05","index":44},{"type":"1","title":"13\u53f7\u7ebf\u516b\u901a\u7ebf\u3000\u5c4f\u853d\u95e8\u62df\u5e74\u5e95\u542f\u7528","url":"\/reference\/4561974\/e90bxpgZxPVmKNqe60KCt4YhLOCXVQSx6rlad6juTOWS6RErAvjFOUUYXso-8KFQ8pdKGSe0kxYpQZnpEAo3TdYA4jrRaNSAyk0Pz1HODnLw42OQPCRu6dhn0w","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2013-11-13","refDate":"2015-08-05","index":45},{"type":"1","title":"\u5317\u4eac\u5730\u94c113\u53f7\u516b\u901a\u7ebf\u5c4f\u853d\u95e8\u624b\u52a8\u5f00\u5173\u8bd5\u8fd0\u884c","url":"\/reference\/4561974\/6aaef6MEs-hdwGoxIVrmbOczI3LnypYSbsQSJ9-CoyTkBDZrC-Z6sZltgsVqONXBzAvbM_yKZkz3EMAOV5QaGRt2mEPvRbiQ1GWyLk_cCI3q3VU3jYdHKg","site":"\u5343\u9f99\u7f51","publishDate":"2014-04-15","refDate":"2015-08-05","index":46,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c113\u53f7\u7ebf\u548c\u516b\u901a\u7ebf\u6b63\u52a0\u88c5\u6fc0\u5149\u63a2\u6d4b\u88c5\u7f6e","url":"\/reference\/4561974\/10fbc4ZcZV2sak5z7x9TxqXiu4Hu7edRaqF1S1syEEzvVC8yqv1cuxFIeo9Kdn6e7O7eIa7YgtHTUhGiZ92NdbwYQpjpgb2HWC5lOO--wM3Sl70Hd1Z7hLc","site":"\u65b0\u534e\u7f51\u5317\u4eac\u9891\u9053","publishDate":"2015-04-23","refDate":"2015-08-05","index":47},{"type":"1","title":"\u516b\u901a\u7ebf13\u53f7\u7ebf\u5c4f\u853d\u95e8 \u4eca\u8fd0\u884c(\u56fe)","url":"\/reference\/4561974\/31c7px_1oRwAIRdD9DWch_hliaTvjiAVZur4mBDUw20-nffzGk1IvLUFRFyzcVysPKzVaXZb01MfHHP6Fu2qix0WBm2B_BSZ257_SVS6bQub","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"2015-06-09","refDate":"2015-08-05","index":48},{"type":"1","title":"\u7537\u5b50\u8bef\u5165\u8f68\u9053\u81f4\u5730\u94c1\u516b\u901a\u7ebf\u505c\u6ede","url":"\/reference\/4561974\/1478ET0I3VjdzB5pFpjamtRozl8zm4FkApL4xYlfJKy2egUyzDVsXTlC9iS4lVX5Rhq-zSiXGTQTBO2qBKVxhWcflb9CyK_hUp-Mzbv6qEEF","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"","refDate":"2015-07-22","index":49,"count":"1"},{"type":"1","title":"\u7ad9\u95f4\u516c\u91cc\u6570","url":"\/reference\/4561974\/cb0eAlm-OTWA4X72WdsA2mUalk4-2vLOkPd7uIzobA3kpAldjKSKkxBewu_M967GHdoGbqhxG25YWOTcnLZfZW40Bg","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"","refDate":"2015-06-13","index":50},{"type":"1","title":"\u9996\u672b\u8f66\u65f6\u95f4","url":"\/reference\/4561974\/35019sTxANT8Jf3xMtyYVM2c33uj6UGOi_6Ec7MmyiMIdzix2m5jHEKeh8dNAOV2OwqoAG6TwKHvvcimPoFKaeMDL39IQgv5AXMvSOklJKhuZsnaR1iy","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"","refDate":"2014-08-01","index":51,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u56db\u60e0\u7ad9","url":"\/reference\/4561974\/2ba6L2rxmCAaYYgnpFNJB9waszhRoBUJ06YVIa9Ic2bj7wtu9EO2XdsXQziX73QMQP6ARDnzihVbaZppGgf9oNd7jS5IO015EtKbKxh0VRrTu6Au7RYkJgC5Bj0","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":52,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u56db\u60e0\u4e1c\u7ad9","url":"\/reference\/4561974\/3012abYj4PRXY7bIi9w7TZkuP7YGTYy5PhtORhGPPB9TH50coJBnfbxCiVbvpyVtfrLE7s1c96WONVT4XisLpD8RoLzfaSW9xso8dmkkkI-tzccgSxfVKZjz3Lw","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":53,"count":"1"},{"type":"1","title":"\u516b\u901a\u7ebf\u9ad8\u7891\u5e97\u7ad9","url":"\/reference\/4561974\/6ce39eYM8JfIXMJFrtKO7Q_e2gTMfW1YyX8c9aGk40JHuVeeM0hHJpCgVFe_Y-g-K1lwFGIU_vSsCBxejaXWsfJveA7TDcz-v-mV3MpHTjCJ19uDRcM7wmfmiqE","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":54},{"type":"1","title":"\u516b\u901a\u7ebf\u4f20\u5a92\u5927\u5b66\u7ad9","url":"\/reference\/4561974\/e273DjuHG341jujkzBZYZd-EjH5VXWRqv4ppYtgdb-njHBa5Xs6v-rqCunTkMp85G0t50y8Heoh2OZQayE-FFISQqn8caxa12wiOVeFO_KPm-deegOJEq8h4GWc","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":55},{"type":"1","title":"\u516b\u901a\u7ebf\u53cc\u6865\u7ad9","url":"\/reference\/4561974\/12a74-5soo190nDoXPZ7A_j1f5-sGabZNtjn8zboqOgEQGmGCZ45xovXkiwhVq1PqKBch6NsLr2PjUOcrrhomwezFFnck7cP0WwyPKKVm_y9_GibHe_SqG9JZj8","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":56,"count":"2"},{"type":"1","title":"\u516b\u901a\u7ebf\u7ba1\u5e84\u7ad9","url":"\/reference\/4561974\/c630zbatRyNgsTMLO5T50FM2Nz1I0Vv6VpfmkJfJuexICgHTg4JHxO5_DSSd1G94PHgI5RisWGCg_wMZIGRseSe6jqoUweVByOiQAGtyDbfCtK2gPWCdVgtoUHM","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":57,"count":"2"},{"type":"1","title":"\u516b\u901a\u7ebf\u516b\u91cc\u6865\u7ad9","url":"\/reference\/4561974\/0c47nHaByVgyOdUCflQ8nfI9Z9_DZR1JZEClhH2PGi8rexSeNsLKomRJDCbGUp_d02PnVLzgC3J5vj0oTyY805F4bZR1loPQACojqsXv9X_Ia4YdSXgKCIQmFr4","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":58,"count":"2"},{"type":"1","title":"\u516b\u901a\u7ebf\u901a\u5dde\u5317\u82d1\u7ad9","url":"\/reference\/4561974\/b584gpyUe1Up0WR6EU4DhNk75tSeIVACv0R6_INOmcp11HOu2MBSAPHRMy-bHpBG0fzawODDH14O6X6YUiiEOMqul0vAaq6tZvxSgUvGSsfzvUAPPWA-uXcAyeY","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":59},{"type":"1","title":"\u516b\u901a\u7ebf\u679c\u56ed\u7ad9","url":"\/reference\/4561974\/8569-k0i3cz3fKHjeBZ1mqkAI_4-GRt_hT8a76BPKS5Ro35dOlqrG60KdK4d5ZB77x0-1FExzFmWOwVGuJEvVnNoX_chHVleo5pvsH3qngKePjK-HzYELiaTLho","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":60},{"type":"1","title":"\u516b\u901a\u7ebf\u4e5d\u68f5\u6811\u7ad9","url":"\/reference\/4561974\/88a9tdaiRd5UkcpF_xElJYYx74WaVBTX_hmKqUhFHrQXLw-5b_BnuggDvo5ZJ87P79omsRbz96urMH19h0NAUiERtOjRq9byUMlNod_uIrzCJNChVdZyrGy7z-8","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":61},{"type":"1","title":"\u516b\u901a\u7ebf\u68a8\u56ed\u7ad9","url":"\/reference\/4561974\/57a8MA1ybMogpomk-UH_zxFX-eUyrvEgTRDbOMeVK-s9moHhR9pX0IdmG3sZY3l8aVDPLPf8IvPGv2u8DzFqJHFsb0rJ4BW5otFm-qP9nA6X07lGWl0wFZLytCw","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":62},{"type":"1","title":"\u516b\u901a\u7ebf\u4e34\u6cb3\u91cc\u7ad9","url":"\/reference\/4561974\/c9b7b767Xe4TjR44X8qnyhgGFlP9FEsjJAAIeLWtNx9-6mQvqalYu-H9X7WLKgsIBdP3URjKlw7VbsJxeOqs-XONUj3qiUK0Po1c8CkNuTmZxZLf0X88f7kKoNk","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":63},{"type":"1","title":"\u516b\u901a\u7ebf\u571f\u6865\u7ad9","url":"\/reference\/4561974\/6fa91_BHOVslSOJz33VEim62UCX0WQg84_yQ3Wkx3ntr5ltZCfvIN9CQLmF9ntcWQH_qQjic4F8xQPJQu6iGZMtcAh7G5ly6ye9IWoVXgBjafG7bN87cLgHSQsU","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-20","refDate":"2014-07-17","index":64,"count":"1"}]
+			});
+		});
+	}();
+!function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            4561974,
+            '北京地铁八通线'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"2ad338d319a214cdacfbe9b9"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "4561974",
+                lemmaTitle: "北京地铁八通线",
+                encodeLemmaTitle: "%B1%B1%BE%A9%B5%D8%CC%FA%B0%CB%CD%A8%CF%DF",
+                adManager: {"wapRelatedBusiness":1}
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '北京地铁八通线',
+                adManager: {"wapRelatedBusiness":1}
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('北京地铁八通线') + '/' + '4561974';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=4561974';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-top: 10px;margin-bottom: 20px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=4561974&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;margin-top: 10px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=4561974&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('4561974', '北京地铁八通线', '北京的一条地铁线路', '138677694', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
+    feedback({el: '#J-bk-feedback-main',
+      proData: {
+        "extend_feedback_channel": null
+      }
+    });
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: false,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"1752175",
+            subLemmaId:"1752175",
+            newLemmaId:"4561974"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require.async(['wiki-lemma:widget/tools/newSideShare/qzopensl']);
+    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '北京地铁八通线',
+            desc: "\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u516b\u901a\u7ebf\u201d\uff09\uff0c\u662f\u5317\u4eac\u7684\u4e00\u6761\u5730\u94c1\u7ebf\u8def\uff0c\u8fde\u63a5\u5317\u4eac\u4e2d\u5fc3\u57ce\u533a\u53ca\u4e1c\u90e8\u7684\u901a\u5dde\u65b0\u57ce\u3002\u8be5\u7ebf\u897f\u8d77\u56db\u60e0\u7ad9\uff0c\u4e1c\u81f3\u571f\u6865\u7ad9\u3002\u5168\u957f18.964km\uff0c\u8bbe13\u5ea7\u8f66\u7ad9\u548c1\u5ea7\u8f66\u8f86\u6bb5\uff0c\u7ebf\u8def\u6807\u8bc6\u8272\u4e3a\u7ea2\u8272\u3002\u8be5\u7ebf\u4e8e2003\u5e7412\u670827\u65e5\u5168\u7ebf\u5f00\u901a\u3002\u516b\u901a\u7ebf\u5357\u5ef6\u9879\u76ee\u4e8e2016\u5e74\u5f00\u5de5\u3002\u5357\u5ef6\u9879\u76ee\uff1a\u7ebf\u8def\u8d77\u4e8e\u516b\u901a\u7ebf\u571f\u6865\u7ad9\uff0c\u7ec8\u70b9\u4e3a\u89c4\u5212\u4e2d\u7684\u73af\u7403\u5f71\u57ce\u7ad9\u3002\u7ebf\u8def\u5168\u957f\u7ea64\u516c\u91cc\uff0c\u5168\u7ebf\u65b0\u8bbe2\u5ea7\u8f66\u7ad9\u3002\u5728\u8fd9\u65f6\uff0c\u516b\u901a\u7ebf\u5c06\u4e0d\u518d\u6210\u4e3a\u5168\u5730\u4e0a\u7ebf\u8def\u30022018\u5e748\u6708\uff0c\u5730\u94c11\u53f7\u7ebf\u3001\u516b\u901a\u7ebf\u8d2f\u901a\u5de5\u7a0b\u8fdb\u5165\u5ba1\u6279\u9636\u6bb5\uff0c\u5c4a\u65f6\u4e58\u5750\u516b\u901a\u7ebf\u7684\u4e58\u5ba2\u65e0\u987b\u518d\u901a\u8fc7\u56db\u60e0\u7ad9\u6362\u4e581\u53f7\u7ebf\u30022018\u5e7412\u670814\u65e5\uff0c\u516b\u901a\u7ebf\u5357\u5ef6\u65bd\u56ed\u7ad9\u4e3b\u4f53\u7ed3\u6784\u5c01\u9876\uff0c\u4e3a2019\u5e74\u5e74\u5e95\u901a\u8f66\u6253\u4e0b\u57fa\u7840\uff0d\u65bd\u56ed\u7ad9\u662f2016\u5e74\u5f00\u5de5\u540e\u589e\u52a0\u7684\u65b0\u589e\u8f66\u7ad9\u3002",
+            pic: 'https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=1dff734098510fb378197091e132c893\/728da9773912b31b4b63f0d08018367adab4e138.jpg',
+            url: '',
+            qqPic: 'https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D398%2C398%2C50\/sign=4d32323a3c87e9504242a02c7605607a\/728da9773912b31b4b63f0d08018367adab4e138.jpg',
+            newLemmaId: '4561974',
+            lemmaTitle: '北京地铁八通线'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "1752175",
+            newLemmaId: "4561974",
+            subLemmaId: "1752175",
+            lemmaTitle: "北京地铁八通线"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [{"tagId":0,"tagName":"\u5730\u7406"},{"tagId":0,"tagName":"\u5730\u70b9"}];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 4561974,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                                    } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                                        require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf_\u767e\u5ea6\u767e\u79d1\u3011\u5317\u4eac\u5730\u94c1\u516b\u901a\u7ebf\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u516b\u901a\u7ebf\u201d\uff09\uff0c\u662f\u5317\u4eac\u7684\u4e00\u6761\u5730\u94c1\u7ebf\u8def\uff0c\u8fde\u63a5\u5317\u4eac\u4e2d\u5fc3\u57ce\u533a\u53ca\u4e1c\u90e8\u7684\u901a\u5dde\u65b0\u57ce\u3002\u8be5\u7ebf\u897f\u8d77\u56db\u60e0\u7ad9\uff0c\u4e1c\u81f3\u571f\u6865\u7ad9\u3002\u5168\u957f18.964km\uff0c\u8bbe13\u5ea7\u8f66\u7ad9\u548c1\u5ea7\u8f66\u8f86\u6bb5\uff0c\u7ebf\u8def\u6807\u8bc6\u8272\u4e3a\u7ea2\u8272\u3002\u8be5\u7ebf\u4e8e2003\u5e7412\u670827\u65e5\u5168\u7ebf\u5f00\u901a\u3002\u516b\u901a\u7ebf\u5357\u5ef6\u9879\u76ee\u4e8e2016\u5e74\u5f00\u5de5\u3002\u5357\u5ef6\u9879\u76ee\uff1a\u7ebf\u8def\u8d77\u4e8e\u516b\u901a\u7ebf\u571f\u6865\u7ad9\uff0c\u7ec8\u70b9\u4e3a\u89c4\u5212\u4e2d\u7684\u73af\u7403\u5f71\u57ce\u7ad9\u3002\u7ebf\u8def\u5168\u957f\u7ea64\u516c\u91cc\uff0c\u5168\u7ebf\u65b0\u8bbe2\u5ea7\u8f66\u7ad9\u3002\u5728\u8fd9\u65f6\uff0c\u516b\u901a\u7ebf\u5c06\u4e0d\u518d\u6210\u4e3a\u5168\u5730\u4e0a\u7ebf\u8def\u30022018\u5e748\u6708\uff0c\u5730\u94c11\u53f7\u7ebf\u3001\u516b\u901a\u7ebf\u8d2f\u901a\u5de5\u7a0b\u8fdb\u5165\u5ba1\u6279\u9636\u6bb5\uff0c\u5c4a\u65f6\u4e58\u5750\u516b\u901a\u7ebf\u7684\u4e58\u5ba2\u65e0\u987b\u518d\u901a\u8fc7\u56db\u60e0\u7ad9\u6362\u4e581\u53f7\u7ebf\u30022018\u5e7412\u670814\u65e5\uff0c\u516b\u901a\u7ebf\u5357\u5ef6\u65bd\u56ed\u7ad9\u4e3b\u4f53\u7ed3\u6784\u5c01\u9876\uff0c\u4e3a2019\u5e74\u5e74\u5e95\u901a\u8f66\u6253\u4e0b\u57fa\u7840\uff0d\u65bd\u56ed\u7ad9\u662f2016\u5e74\u5f00\u5de5\u540e\u589e\u52a0\u7684\u65b0\u589e\u8f66\u7ad9\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF\/4561974',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AB%E9%80%9A%E7%BA%BF' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=18106" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>

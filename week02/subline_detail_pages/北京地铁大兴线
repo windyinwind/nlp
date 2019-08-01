@@ -1,0 +1,2475 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="北京地铁大兴线（以下简称“大兴线”），是北京地铁4号线向大兴区的延长线，连接北京市区和大兴新城，由北京京港地铁有限公司负责运营。该线于2010年12月30日全线开通，并与4号线实现贯通运营。虽然贯通运营，但是“大兴线”名称不会消失，仍是这一段路线的名称。截至2015年12月26日，该线运营区段为公益西桥站至天宫院站，途经丰台区和大兴区，运营里程21.8千米（两线贯通里程共计50千米），共开放11座车站（两条线路共计35座车站，其中换乘车站10座），拥有车辆基地1座（南兆路车辆段）。换乘车站全部在4号线区段，2019年该区段中的新宫站也将换乘19号线。...">
+<title>北京地铁大兴线_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="北京地铁大兴线 北京大兴线地铁 大兴线地铁 北京大兴线 大兴线 京港地铁大兴线 北京地铁大兴线历史沿革 北京地铁大兴线运营信息 北京地铁大兴线硬件设施 北京地铁大兴线线路标识 北京地铁大兴线管理机构 北京地铁大兴线票价规定 北京地铁大兴线建设意义">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2019-06-30 18:10:21" />
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_b406361.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_66a9374.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_2890903.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_ca51f18.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_1b0bc0e.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_496a30a.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&ie=utf-8&rsv_spt=17&wd=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="北京地铁大兴线" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank">艺术</a></div>
+<div><a href="/science" target="_blank">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt><a>秒懂百科</a></dt>
+<dd><div><a href="https://child.baidu.com/" target="_blank">懂啦</a></div>
+<div><a href="/item/秒懂星课堂" target="_blank">秒懂星课堂</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd><div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="https://shushuo.baidu.com/" target="_blank">百度数说</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool ">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1         data-url="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF"
+        data-name="baike.baidu.com"
+        >北京地铁大兴线</h1>
+<span style="display: none"></span>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">北京地铁大兴线（以下简称“大兴线”），是北京地铁4号线向大兴区的延长线，连接北京市区和大兴新城，由北京京港地铁有限公司负责运营。</div><div class="para" label-module="para">该线于2010年12月30日全线开通，并与4号线实现贯通运营。虽然贯通运营，但是“大兴线”名称不会消失，仍是这一段路线的名称<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
+[1]</sup><a class="sup-anchor" name="ref_[1]_1165558">&nbsp;</a>
+。</div><div class="para" label-module="para">截至2015年12月26日，该线运营区段为公益西桥站至天宫院站，途经丰台区和大兴区，运营里程21.8千米（两线贯通里程共计50千米），共开放11座车站（两条线路共计35座车站，其中换乘车站10座），拥有车辆基地1座（南兆路车辆段）。换乘车站全部在4号线区段，2019年该区段中的新宫站也将换乘19号线。</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+北京地铁大兴线
+</dd>
+<dt class="basicInfo-item name">外文名</dt>
+<dd class="basicInfo-item value">
+Beijing Subway DAXING Line
+</dd>
+<dt class="basicInfo-item name">营运地区</dt>
+<dd class="basicInfo-item value">
+北京市丰台区、<a target=_blank href="/item/%E5%A4%A7%E5%85%B4%E5%8C%BA">大兴区</a>
+</dd>
+<dt class="basicInfo-item name">服务类型</dt>
+<dd class="basicInfo-item value">
+城市轨道交通系统
+</dd>
+<dt class="basicInfo-item name">所属系统</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81/408485" data-lemmaid="408485">北京地铁</a>
+</dd>
+<dt class="basicInfo-item name">车站总数</dt>
+<dd class="basicInfo-item value">
+35（换乘站10座）
+</dd>
+<dt class="basicInfo-item name">起讫站点</dt>
+<dd class="basicInfo-item value">
+天宫院——公益西桥
+</dd>
+<dt class="basicInfo-item name">路线长度</dt>
+<dd class="basicInfo-item value">
+50.7千米
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">最高速度</dt>
+<dd class="basicInfo-item value">
+80千米/小时
+</dd>
+<dt class="basicInfo-item name">轨道数</dt>
+<dd class="basicInfo-item value">
+2
+</dd>
+<dt class="basicInfo-item name">轨道标准</dt>
+<dd class="basicInfo-item value">
+1435毫米
+</dd>
+<dt class="basicInfo-item name">动力方式</dt>
+<dd class="basicInfo-item value">
+直流750伏，<a target=_blank href="/item/%E7%AC%AC%E4%B8%89%E8%BD%A8%E4%BE%9B%E7%94%B5">第三轨供电</a>
+</dd>
+<dt class="basicInfo-item name">车辆基地</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8D%97%E5%85%86%E8%B7%AF%E8%BD%A6%E8%BE%86%E6%AE%B5">南兆路车辆段</a>
+</dd>
+<dt class="basicInfo-item name">列车编组</dt>
+<dd class="basicInfo-item value">
+B型车6节编组
+</dd>
+<dt class="basicInfo-item name">开通营运</dt>
+<dd class="basicInfo-item value">
+2010年12月30日
+</dd>
+<dt class="basicInfo-item name">运营单位</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E6%B8%AF%E5%9C%B0%E9%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京京港地铁有限公司</a>
+</dd>
+<dt class="basicInfo-item name">线路标识色</dt>
+<dd class="basicInfo-item value">
+青绿色
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">历史沿革</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">运营信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_1">线路数据</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_2">车站列表</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_3">站间公里数</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_4">首末车时间</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_5">车站信息</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#2_6">运营模式</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">硬件设施</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_1">列车</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#3_2">车辆基地</a></span>
+</li>
+<li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">线路标识</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">管理机构</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">票价规定</a></span>
+</li>
+<li class="level1">
+<span class="index">7</span>
+<span class="text"><a href="#7">建设意义</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_1" class="lemma-anchor " ></a>
+<a name="历史沿革" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>历史沿革</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">2007年5月29日，大兴线规划方案获得批复。<sup class="sup--normal" data-sup="2-3" data-ctrmap=":2,:3,">
+[2-3]</sup><a class="sup-anchor" name="ref_[2-3]_1165558">&nbsp;</a>
+当时的规划中，路线的走向和11座车站位置都已基本确定，有4座车站是地上车站<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
+[2]</sup><a class="sup-anchor" name="ref_[2]_1165558">&nbsp;</a>
+。后来，根据沿线居民的要求，在大兴区政府解决一定建设资金的前提下，3座车站改为地下车站，只有西红门站仍为地上车站。</div>
+<div class="para" label-module="para">12月8日上午，大兴线在宋家庄举行开工仪式。<sup class="sup--normal" data-sup="4" data-ctrmap=":4,">
+[4]</sup><a class="sup-anchor" name="ref_[4]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2008年4月15日，大兴线启动土地拆迁工作。<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+[5]</sup><a class="sup-anchor" name="ref_[5]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">6月1日，大兴线全面开工建设。<sup class="sup--normal" data-sup="6" data-ctrmap=":6,">
+[6]</sup><a class="sup-anchor" name="ref_[6]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月16日，大兴线开始盾构施工。<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
+[7]</sup><a class="sup-anchor" name="ref_[7]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月27日，京港地铁与北京市基础设施投资有限公司签署《北京轨道交通大兴线委托运营项目意向协议书》。<sup class="sup--normal" data-sup="8" data-ctrmap=":8,">
+[8]</sup><a class="sup-anchor" name="ref_[8]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2009年7月29日，南车青岛四方机车车辆股份有限公司与北京市轨道交通建设管理有限公司在北京签订大兴线车辆供货合同。<sup class="sup--normal" data-sup="9" data-ctrmap=":9,">
+[9]</sup><a class="sup-anchor" name="ref_[9]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">9月17日，大兴线黄村西大街站至黄村火车站区间双线贯通。<sup class="sup--normal" data-sup="10" data-ctrmap=":10,">
+[10]</sup><a class="sup-anchor" name="ref_[10]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">9月28日，大兴线开始铺轨。<sup class="sup--normal" data-sup="11" data-ctrmap=":11,">
+[11]</sup><a class="sup-anchor" name="ref_[11]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">10月16日，市规划委公布大兴线规划方案公告。<sup class="sup--normal" data-sup="12-13" data-ctrmap=":12,:13,">
+[12-13]</sup><a class="sup-anchor" name="ref_[12-13]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">10月29日，大兴线黄村火车站—义和庄站区间双向隧道贯通。<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月7日，大兴线跨京开高速路高架桥合拢。<sup class="sup--normal" data-sup="15" data-ctrmap=":15,">
+[15]</sup><a class="sup-anchor" name="ref_[15]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月23日，市规划委官方网站开始公示大兴线车站站名。<sup class="sup--normal" data-sup="16" data-ctrmap=":16,">
+[16]</sup><a class="sup-anchor" name="ref_[16]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月25日，大兴线新宫站封顶。<sup class="sup--normal" data-sup="17" data-ctrmap=":17,">
+[17]</sup><a class="sup-anchor" name="ref_[17]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">12月30日，北京轨道交通大兴线投资有限责任公司与北京京港地铁有限公司正式签署《北京轨道交通大兴线委托运营协议》。同日，北京轨道交通大兴线投资有限责任公司、北京京港地铁有限公司与北京市轨道交通建设管理有限公司签署《大兴线建设介入协议》。<sup class="sup--normal" data-sup="18-19" data-ctrmap=":18,:19,">
+[18-19]</sup><a class="sup-anchor" name="ref_[18-19]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="大兴线图片"  href="/pic/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF/7792898/18201605/caae680994432de42fddd466?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img class="picture" alt="大兴线图片" src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=4efa21a708fa513d55aa6bdc0d6c554c/3b87e950352ac65ccf4dd208fbf2b21193138a05.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+大兴线图片<span class="number">(4张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+2010年1月6日，大兴线全线隧道贯通。<sup class="sup--normal" data-sup="20" data-ctrmap=":20,">
+[20]</sup><a class="sup-anchor" name="ref_[20]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">4月9日，大兴线车站调整站名，“韩园子站”更名为“生物医药基地站”。<sup class="sup--normal" data-sup="21-22" data-ctrmap=":21,:22,">
+[21-22]</sup><a class="sup-anchor" name="ref_[21-22]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">4月28日，大兴线全线轨道贯通。<sup class="sup--normal" data-sup="23" data-ctrmap=":23,">
+[23]</sup><a class="sup-anchor" name="ref_[23]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">5月22日上午，大兴线首辆列车进入南兆路车辆段。</div>
+<div class="para" label-module="para">8月19日，大兴线开始空载试运行。<sup class="sup--normal" data-sup="24" data-ctrmap=":24,">
+[24]</sup><a class="sup-anchor" name="ref_[24]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">11月18日，大兴线与4号线开始进行贯通调试。<sup class="sup--normal" data-sup="25" data-ctrmap=":25,">
+[25]</sup><a class="sup-anchor" name="ref_[25]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">12月3日，大兴线南兆路车辆段开始竣工验收。<sup class="sup--normal" data-sup="26" data-ctrmap=":26,">
+[26]</sup><a class="sup-anchor" name="ref_[26]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">12月30日，大兴线全线开通试运营。<sup class="sup--normal" data-sup="27" data-ctrmap=":27,">
+[27]</sup><a class="sup-anchor" name="ref_[27]_1165558">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2" class="lemma-anchor " ></a>
+<a name="运营信息" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>运营信息</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="2_1" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_1" class="lemma-anchor " ></a>
+<a name="线路数据" class="lemma-anchor " ></a>
+<a name="2-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>线路数据</h3>
+</div>
+<table log-set-param="table_view" class="table-view log-set-param"><caption>北京地铁4号线、大兴线线路数据表</caption><tr><td height="0" align="center" valign="middle" colspan="2">概况</td></tr><tr><td height="22" align="center" valign="middle">类型</td><td height="22" align="center" valign="middle">地铁</td></tr><tr><td align="center" valign="middle">所属系统</td><td align="center" valign="middle"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81">北京地铁</a></td></tr><tr><td align="center" valign="middle">起止站</td><td align="center" valign="middle"><a target=_blank href="/item/%E5%A4%A9%E5%AE%AB%E9%99%A2%E7%AB%99">天宫院站</a>——<a target=_blank href="/item/%E5%AE%89%E6%B2%B3%E6%A1%A5%E5%8C%97%E7%AB%99">安河桥北站</a></td></tr><tr><td align="center" valign="middle">车站数</td><td align="center" valign="middle">35</td></tr><tr><td height="0" align="center" valign="middle" colspan="2">运营</td></tr><tr><td align="center" valign="middle">营运地区</td><td align="center" valign="middle">中国北京</td></tr><tr><td align="center" valign="middle">目前状态</td><td align="center" valign="middle">运营中</td></tr><tr><td align="center" valign="middle">开通日期</td><td align="center" valign="middle"><div class="para" label-module="para">2009年9月28日</div>
+<div class="para" label-module="para">（大兴线开通于2010年12月31日）</div>
+</td></tr><tr><td align="center" valign="middle">运营方</td><td align="center" valign="middle"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E4%BA%AC%E6%B8%AF%E5%9C%B0%E9%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8">北京京港地铁有限公司</a></td></tr><tr><td align="center" valign="middle">线路标识色</td><td align="center" valign="middle">青绿色</td></tr><tr><td height="0" align="center" valign="middle" colspan="2">技术</td></tr><tr><td align="center" valign="middle">全长</td><td align="center" valign="middle">50km（4号线+大兴线）</td></tr><tr><td align="center" valign="middle">双线</td><td align="center" valign="middle">全线</td></tr><tr><td align="center" valign="middle">轨距</td><td align="center" valign="middle">1435mm</td></tr><tr><td align="center" valign="middle">电气化</td><td align="center" valign="middle">直流750V第三轨供电</td></tr><tr><td align="center" valign="middle">最高时速</td><td align="center" valign="middle">80km/h</td></tr><tr><td align="center" valign="middle">编组</td><td align="center" valign="middle">B型车6节编组</td></tr><tr><td align="center" valign="middle">车辆段</td><td align="center" valign="middle">2处 马家堡车辆段 南兆路车辆段</td></tr><tr><td align="center" valign="middle" colspan="1" rowspan="1">停车场</td><td align="center" valign="middle" colspan="1" rowspan="1">1处 龙背村停车场</td></tr><tr><td align="center" valign="middle">使用车型</td><td align="center" valign="middle"><div class="para" label-module="para">SFM05 共91列</div>
+<div class="para" label-module="para">配属4号线：（001-058）</div>
+<div class="para" label-module="para">配属大兴线：（061-093）</div>
+</td></tr></table><table log-set-param="table_view" class="table-view log-set-param" data-sort="sortDisabled"><caption>北京地铁4号线、大兴线车站列表</caption><tr><th>车站编号</th><th width="89" align="center" valign="middle" colspan="2" rowspan="1">车站名称</th><th width="62" align="center" valign="middle">所属区段</th><th width="61" align="center" valign="middle"><div class="para" label-module="para">开通日期</div>
+</th><th align="center" valign="middle" colspan="2" rowspan="1"><div class="para" label-module="para">可换乘线路</div>
+</th><th width="69" align="center" valign="middle">所在行政区</th></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX01</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%A4%A9%E5%AE%AB%E9%99%A2%E7%AB%99">天宫院站</a></td><td width="62" align="center" valign="middle" rowspan="11"><div class="para" label-module="para">大兴线</div>
+</td><td width="61" align="center" valign="middle" rowspan="11">2010年12月30日</td><td align="center" valign="middle" colspan="2" rowspan="3">无</td><td width="69" align="center" valign="middle" rowspan="10"><a target=_blank href="/item/%E5%A4%A7%E5%85%B4%E5%8C%BA">大兴区</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX02</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF%E5%9F%BA%E5%9C%B0%E7%AB%99">生物医药基地站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX03</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E4%B9%89%E5%92%8C%E5%BA%84%E7%AB%99">义和庄站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX04</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%BB%84%E6%9D%91%E7%81%AB%E8%BD%A6%E7%AB%99/15808190" data-lemmaid="15808190">黄村火车站</a></td><td width="89" align="center" valign="middle">北京地铁21号线（规划）</td><td align="center" valign="middle" colspan="1" rowspan="1">（出站换乘：国铁）</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX05</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%BB%84%E6%9D%91%E8%A5%BF%E5%A4%A7%E8%A1%97%E7%AB%99">黄村西大街站</a></td><td align="center" valign="middle" colspan="2" rowspan="5">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX06</td><td width="67" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E6%B8%85%E6%BA%90%E8%B7%AF%E7%AB%99">清源路站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX07</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E6%9E%A3%E5%9B%AD%E7%AB%99/14213182" data-lemmaid="14213182">枣园站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX08</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%AB%98%E7%B1%B3%E5%BA%97%E5%8D%97%E7%AB%99">高米店南站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX08</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%AB%98%E7%B1%B3%E5%BA%97%E5%8C%97%E7%AB%99">高米店北站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX10</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A5%BF%E7%BA%A2%E9%97%A8%E7%AB%99">西红门站</a></td><td width="89" align="center" valign="middle" colspan="1">北京地铁29号线</td><td align="center" valign="middle" colspan="1" rowspan="5">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">DX11</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E6%96%B0%E5%AE%AB%E7%AB%99">新宫站</a></td><td width="89" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8119%E5%8F%B7%E7%BA%BF">北京地铁19号线</a>（2020）<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1165558">&nbsp;</a>
+</td><td width="61" align="center" valign="middle" rowspan="5"><a target=_blank href="/item/%E4%B8%B0%E5%8F%B0%E5%8C%BA">丰台区</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">401</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%85%AC%E7%9B%8A%E8%A5%BF%E6%A1%A5%E7%AB%99">公益西桥站</a></td><td width="62" height="0" align="center" valign="middle" rowspan="24"><div class="para" label-module="para">4号线</div>
+</td><td width="61" align="center" valign="middle" colspan="1" rowspan="24">2009年9月28日</td><td width="92" align="center" valign="middle" colspan="1" rowspan="1">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">402</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A7%92%E9%97%A8%E8%A5%BF%E7%AB%99">角门西站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8110%E5%8F%B7%E7%BA%BF">北京地铁10号线</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">403</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%A9%AC%E5%AE%B6%E5%A0%A1%E7%AB%99">马家堡站</a></td><td width="92" align="center" valign="middle" colspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8111%E5%8F%B7%E7%BA%BF/5249472" data-lemmaid="5249472">北京地铁11号线</a></div>
+（规划）</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">404</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%8D%97%E7%AB%99/17646674" data-lemmaid="17646674">北京南站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8114%E5%8F%B7%E7%BA%BF">北京地铁14号线</a><sup class="sup--normal" data-sup="15" data-ctrmap=":15,">
+[15]</sup><a class="sup-anchor" name="ref_[15]_1165558">&nbsp;</a>
+</td><td align="center" valign="middle" colspan="1" rowspan="1">（出站换乘：<a target=_blank href="/item/%E4%BA%AC%E6%B4%A5%E5%9F%8E%E9%99%85%E9%93%81%E8%B7%AF">京津城际铁路</a>、<a target=_blank href="/item/%E4%BA%AC%E6%B2%AA%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF">京沪高速铁路</a>）</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">405</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%99%B6%E7%84%B6%E4%BA%AD%E7%AB%99">陶然亭站</a></td><td width="92" align="center" valign="middle" colspan="1">无</td><td width="61" align="center" valign="middle" colspan="1" rowspan="8">无</td><td width="61" align="center" valign="middle" rowspan="10"><a target=_blank href="/item/%E8%A5%BF%E5%9F%8E%E5%8C%BA/10234" data-lemmaid="10234">西城区</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">406</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%8F%9C%E5%B8%82%E5%8F%A3%E7%AB%99">菜市口站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%817%E5%8F%B7%E7%BA%BF">北京地铁7号线</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">407</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%AE%A3%E6%AD%A6%E9%97%A8%E7%AB%99">宣武门站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%812%E5%8F%B7%E7%BA%BF">北京地铁2号线</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">408</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A5%BF%E5%8D%95%E7%AB%99">西单站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF">北京地铁1号线</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">409</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E7%81%B5%E5%A2%83%E8%83%A1%E5%90%8C%E7%AB%99">灵境胡同站</a></td><td width="92" align="center" valign="middle" colspan="1" rowspan="2">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">410</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A5%BF%E5%9B%9B%E7%AB%99">西四站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">411</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%B9%B3%E5%AE%89%E9%87%8C%E7%AB%99">平安里站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%816%E5%8F%B7%E7%BA%BF">北京地铁6号线</a>、<div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%813%E5%8F%B7%E7%BA%BF">北京地铁3号线</a><sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1165558">&nbsp;</a>
+（规划）、</div>
+<div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8119%E5%8F%B7%E7%BA%BF">北京地铁19号线</a>（2019）<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1165558">&nbsp;</a>
+</div>
+</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">4123</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E6%96%B0%E8%A1%97%E5%8F%A3%E7%AB%99/13989035" data-lemmaid="13989035">新街口站</a></td><td width="92" align="center" valign="middle" colspan="1">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">413</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A5%BF%E7%9B%B4%E9%97%A8%E7%AB%99/2612279" data-lemmaid="2612279">西直门站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%812%E5%8F%B7%E7%BA%BF">北京地铁2号线</a>、<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8113%E5%8F%B7%E7%BA%BF">北京地铁13号线</a>、<div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%88%BF%E5%B1%B1%E7%BA%BF">北京地铁房山线</a>（北延规划中）</div>
+</td><td align="center" valign="middle" colspan="1" rowspan="1">（出站换乘：国铁、<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%B8%82%E9%83%8A%E9%93%81%E8%B7%AFS2%E7%BA%BF">北京市郊铁路S2线</a>）</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">414</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%AB%99/13465936" data-lemmaid="13465936">动物园站</a></td><td width="92" align="center" valign="middle" colspan="1">无</td><td align="center" valign="middle" colspan="1" rowspan="11">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">415</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%AB%99">国家图书馆站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%819%E5%8F%B7%E7%BA%BF">北京地铁9号线</a>、<div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8116%E5%8F%B7%E7%BA%BF">北京地铁16号线</a>（2021）、<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E6%98%8C%E5%B9%B3%E7%BA%BF">北京地铁昌平线</a><sup class="sup--normal" data-sup="16" data-ctrmap=":16,">
+[16]</sup><a class="sup-anchor" name="ref_[16]_1165558">&nbsp;</a>
+</div>
+</td><td width="61" align="center" valign="middle" rowspan="10"><a target=_blank href="/item/%E6%B5%B7%E6%B7%80%E5%8C%BA">海淀区</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">416</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E9%AD%8F%E5%85%AC%E6%9D%91%E7%AB%99">魏公村站</a></td><td width="92" align="center" valign="middle" colspan="1">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">417</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E7%AB%99">人民大学站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8112%E5%8F%B7%E7%BA%BF">北京地铁12号线</a>（2021）<sup class="sup--normal" data-sup="14" data-ctrmap=":14,">
+[14]</sup><a class="sup-anchor" name="ref_[14]_1165558">&nbsp;</a>
+</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">418</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E6%B5%B7%E6%B7%80%E9%BB%84%E5%BA%84%E7%AB%99">海淀黄庄站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8110%E5%8F%B7%E7%BA%BF">北京地铁10号线</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">419</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E4%B8%AD%E5%85%B3%E6%9D%91%E7%AB%99">中关村站</a></td><td width="92" align="center" valign="middle" colspan="1" rowspan="2">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">420</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%B8%9C%E9%97%A8%E7%AB%99">北京大学东门站</a></td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">421</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%9C%86%E6%98%8E%E5%9B%AD%E7%AB%99">圆明园站</a></td><td width="92" align="center" valign="middle" colspan="1"><div class="para" label-module="para"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8115%E5%8F%B7%E7%BA%BF/1188284" data-lemmaid="1188284">北京地铁15号线</a></div>
+（规划）</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">422</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E8%A5%BF%E8%8B%91%E7%AB%99">西苑站</a></td><td width="92" align="center" valign="middle" colspan="1"><a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%8116%E5%8F%B7%E7%BA%BF">北京地铁16号线</a><sup class="sup--normal" data-sup="16" data-ctrmap=":16,">
+[16]</sup><a class="sup-anchor" name="ref_[16]_1165558">&nbsp;</a>
+</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">423</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%8C%97%E5%AE%AB%E9%97%A8%E7%AB%99">北宫门站</a></td><td width="92" align="center" valign="middle" colspan="1" rowspan="2">无</td></tr><tr><td width="69" align="center" valign="middle" colspan="1" rowspan="1">424</td><td width="89" align="center" valign="middle" colspan="2" rowspan="1"><a target=_blank href="/item/%E5%AE%89%E6%B2%B3%E6%A1%A5%E5%8C%97%E7%AB%99">安河桥北站</a></td></tr></table><div class="anchor-list">
+<a name="2_2" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_2" class="lemma-anchor " ></a>
+<a name="车站列表" class="lemma-anchor " ></a>
+<a name="2-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>车站列表</h3>
+</div>
+<div class="para" label-module="para">由于大兴线所有北行方向的列车都要开至4号线的<a target=_blank href="/item/%E5%AE%89%E6%B2%B3%E6%A1%A5%E5%8C%97%E7%AB%99">安河桥北站</a>，故将4号线各站一并显示。</div>
+<div class="para" label-module="para">注释：</div>
+<ol class="custom_num  para-list list-paddingleft-1"><li class="list-num-1-1 list-num-paddingleft-1"><div class="para" label-module="para">各车站详细资料请点击内链查看。</div>
+</li><li class="list-num-1-2 list-num-paddingleft-1"><div class="para" label-module="para">“可换乘路线”中括号内为在建路线开通年份。</div>
+</li><li class="list-num-1-3 list-num-paddingleft-1"><div class="para" label-module="para">为方便内链，车站名称以“站名+‘站’”的形式呈现，但“北京南站”和“黄村火车站”的“站”指火车站，后面不额外加“站”，以“站名”的形式呈现，是两个例外。</div>
+</li></ol><div class="anchor-list">
+<a name="2_3" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_3" class="lemma-anchor " ></a>
+<a name="站间公里数" class="lemma-anchor " ></a>
+<a name="2-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>站间公里数</h3>
+</div>
+<table log-set-param="table_view" width="658" class="four"><caption>大兴线相邻站间距信息统计表</caption><tr><th height="22" align="center" valign="middle">起始/终到车站</th><th height="22" align="center" valign="middle">区间距离</th><th height="22" align="center" valign="middle">方向</th></tr><tr><th align="center" valign="middle">公益西桥——新宫</th><td width="198" align="center" valign="middle">2798米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">新宫——西红门</th><td width="198" align="center" valign="middle">5102米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">西红门——高米店北</th><td width="198" align="center" valign="middle">1810米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">高米店北——高米店南</th><td width="198" align="center" valign="middle">1128米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">高米店南——枣园</th><td width="198" align="center" valign="middle">1096米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">枣园——清源路</th><td width="198" align="center" valign="middle">1189米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">清源路——黄村西大街</th><td width="198" align="center" valign="middle">1214米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">黄村西大街——黄村火车站</th><td width="198" align="center" valign="middle">987米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">黄村火车站——义和庄</th><td width="198" align="center" valign="middle">2035米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">义和庄——生物医药基地</th><td width="198" align="center" valign="middle">2918米</td><td width="198" align="center" valign="middle">上行/下行</td></tr><tr><th align="center" valign="middle">生物医药基地——天宫院</th><td width="198" align="center" valign="middle">1811米</td><td width="198" align="center" valign="middle">上行/下行</td></tr></table><div class="para" label-module="para"><i>（相邻站间距信息参考资料<sup class="sup--normal" data-sup="28" data-ctrmap=":28,">
+[28]</sup><a class="sup-anchor" name="ref_[28]_1165558">&nbsp;</a>
+）</i></div><div class="anchor-list">
+<a name="2_4" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_4" class="lemma-anchor " ></a>
+<a name="首末车时间" class="lemma-anchor " ></a>
+<a name="2-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>首末车时间</h3>
+</div>
+<table log-set-param="table_view" width="658" class="table-view log-set-param"><caption>北京地铁4号线、大兴线首末车时间表</caption><tr><th height="0" align="center" valign="middle" colspan="3">开往安河桥北（上行）</th><th height="0" align="center" valign="middle" colspan="4">开往天宫院（下行）</th></tr><tr><td width="72" height="0" align="center" valign="middle" rowspan="2">车站名称</td><td width="72" height="0" align="center" valign="middle" rowspan="2">首车时间</td><td width="72" height="0" align="center" valign="middle" rowspan="2">末车时间</td><td width="72" height="0" align="center" valign="middle" rowspan="2">车站名称</td><td width="72" height="0" align="center" valign="middle" rowspan="2">首车时间</td><td height="0" align="center" valign="middle" colspan="2">末车时间</td></tr><tr><td width="72" align="center" valign="middle"><div class="para" label-module="para">往天宫院</div>
+<div class="para" label-module="para">（全程）</div>
+</td><td width="72" align="center" valign="middle"><div class="para" label-module="para">往公益西桥</div>
+<div class="para" label-module="para">（半程）</div>
+</td></tr><tr><td width="72" align="center" valign="middle">天宫院</td><td width="72" align="center" valign="middle">5:30</td><td width="72" align="center" valign="middle">22:38</td><td width="72" align="center" valign="middle">安河桥北</td><td width="72" align="center" valign="middle">5:00</td><td width="72" align="center" valign="middle">22:20</td><td width="72" align="center" valign="middle">22:45</td></tr><tr><td width="72" align="center" valign="middle">生物医药基地</td><td width="72" align="center" valign="middle">5:32</td><td width="72" align="center" valign="middle">22:40</td><td width="72" align="center" valign="middle">北宫门</td><td width="72" align="center" valign="middle">5:01</td><td width="72" align="center" valign="middle">22:21</td><td width="72" align="center" valign="middle">22:46</td></tr><tr><td width="72" align="center" valign="middle">义和庄</td><td width="72" align="center" valign="middle">5:35</td><td width="72" align="center" valign="middle">22:43</td><td width="72" align="center" valign="middle">西苑</td><td width="72" align="center" valign="middle">5:04</td><td width="72" align="center" valign="middle">22:24</td><td width="72" align="center" valign="middle">22:49</td></tr><tr><td width="72" align="center" valign="middle">黄村火车站</td><td width="72" align="center" valign="middle">5:38</td><td width="72" align="center" valign="middle">22:46</td><td width="72" align="center" valign="middle">圆明园</td><td width="72" align="center" valign="middle">5:06</td><td width="72" align="center" valign="middle">22:26</td><td width="72" align="center" valign="middle">22:51</td></tr><tr><td width="72" align="center" valign="middle">黄村西大街</td><td width="72" align="center" valign="middle">5:40</td><td width="72" align="center" valign="middle">22:48</td><td width="72" align="center" valign="middle">北京大学东门</td><td width="72" align="center" valign="middle">5:09</td><td width="72" align="center" valign="middle">22:29</td><td width="72" align="center" valign="middle">22:54</td></tr><tr><td width="72" align="center" valign="middle">清源路</td><td width="72" align="center" valign="middle">5:42</td><td width="72" align="center" valign="middle">22:50</td><td width="72" align="center" valign="middle">中关村</td><td width="72" align="center" valign="middle">5:10</td><td width="72" align="center" valign="middle">22:30</td><td width="72" align="center" valign="middle">22:55</td></tr><tr><td width="72" align="center" valign="middle">枣园</td><td width="72" align="center" valign="middle">5:44</td><td width="72" align="center" valign="middle">22:52</td><td width="72" align="center" valign="middle">海淀黄庄</td><td width="72" align="center" valign="middle">5:13</td><td width="72" align="center" valign="middle">22:33</td><td width="72" align="center" valign="middle">22:58</td></tr><tr><td width="72" align="center" valign="middle">高米店南</td><td width="72" align="center" valign="middle">5:46</td><td width="72" align="center" valign="middle">22:54</td><td width="72" align="center" valign="middle">人民大学</td><td width="72" align="center" valign="middle">5:15</td><td width="72" align="center" valign="middle">22:35</td><td width="72" align="center" valign="middle">23:00</td></tr><tr><td width="72" align="center" valign="middle">高米店北</td><td width="72" align="center" valign="middle">5:48</td><td width="72" align="center" valign="middle">22:56</td><td width="72" align="center" valign="middle">魏公村</td><td width="72" align="center" valign="middle">5:17</td><td width="72" align="center" valign="middle">22:37</td><td width="72" align="center" valign="middle">23:02</td></tr><tr><td width="72" align="center" valign="middle">西红门</td><td width="72" align="center" valign="middle">5:51</td><td width="72" align="center" valign="middle">22:59</td><td width="72" align="center" valign="middle">国家图书馆</td><td width="72" align="center" valign="middle">5:19</td><td width="72" align="center" valign="middle">22:39</td><td width="72" align="center" valign="middle">23:04</td></tr><tr><td width="72" align="center" valign="middle">新宫</td><td width="72" align="center" valign="middle">5:57</td><td width="72" align="center" valign="middle">23:05</td><td width="72" align="center" valign="middle">动物园</td><td width="72" align="center" valign="middle">5:22</td><td width="72" align="center" valign="middle">22:42</td><td width="72" align="center" valign="middle">23:07</td></tr><tr><td width="72" align="center" valign="middle">公益西桥</td><td width="72" align="center" valign="middle">5:10</td><td width="72" align="center" valign="middle">23:10</td><td width="72" align="center" valign="middle">西直门</td><td width="72" align="center" valign="middle">5:25</td><td width="72" align="center" valign="middle">22:45</td><td width="72" align="center" valign="middle">23:10</td></tr><tr><td width="72" align="center" valign="middle">角门西</td><td width="72" align="center" valign="middle">5:11</td><td width="72" align="center" valign="middle">23:11</td><td width="72" align="center" valign="middle">新街口</td><td width="72" align="center" valign="middle">5:26</td><td width="72" align="center" valign="middle">22:46</td><td width="72" align="center" valign="middle">23:11</td></tr><tr><td width="72" align="center" valign="middle">马家堡</td><td width="72" align="center" valign="middle">5:13</td><td width="72" align="center" valign="middle">23:13</td><td width="72" align="center" valign="middle">平安里</td><td width="72" align="center" valign="middle">5:28</td><td width="72" align="center" valign="middle">22:48</td><td width="72" align="center" valign="middle">23:13</td></tr><tr><td width="72" align="center" valign="middle">北京南站</td><td width="72" align="center" valign="middle">5:15</td><td width="72" align="center" valign="middle">23:15</td><td width="72" align="center" valign="middle">西四</td><td width="72" align="center" valign="middle">5:30</td><td width="72" align="center" valign="middle">22:50</td><td width="72" align="center" valign="middle">23:15</td></tr><tr><td width="72" align="center" valign="middle">陶然亭</td><td width="72" align="center" valign="middle">5:18</td><td width="72" align="center" valign="middle">23:18</td><td width="72" align="center" valign="middle">灵境胡同</td><td width="72" align="center" valign="middle">5:32</td><td width="72" align="center" valign="middle">22:52</td><td width="72" align="center" valign="middle">23:17</td></tr><tr><td width="72" align="center" valign="middle">菜市口</td><td width="72" align="center" valign="middle">5:20</td><td width="72" align="center" valign="middle">23:20</td><td width="72" align="center" valign="middle">西单</td><td width="72" align="center" valign="middle">5:35</td><td width="72" align="center" valign="middle">22:55</td><td width="72" align="center" valign="middle">23:20</td></tr><tr><td width="72" align="center" valign="middle">宣武门</td><td width="72" align="center" valign="middle">5:23</td><td width="72" align="center" valign="middle">23:23</td><td width="72" align="center" valign="middle">宣武门</td><td width="72" align="center" valign="middle">5:37</td><td width="72" align="center" valign="middle">22:57</td><td width="72" align="center" valign="middle">23:22</td></tr><tr><td width="72" align="center" valign="middle">西单</td><td width="72" align="center" valign="middle">5:25</td><td width="72" align="center" valign="middle">23:25</td><td width="72" align="center" valign="middle">菜市口</td><td width="72" align="center" valign="middle">5:38</td><td width="72" align="center" valign="middle">22:58</td><td width="72" align="center" valign="middle">23:23</td></tr><tr><td width="72" align="center" valign="middle">灵境胡同</td><td width="72" align="center" valign="middle">5:26</td><td width="72" align="center" valign="middle">23:26</td><td width="72" align="center" valign="middle">陶然亭</td><td width="72" align="center" valign="middle">5:41</td><td width="72" align="center" valign="middle">23:01</td><td width="72" align="center" valign="middle">23:26</td></tr><tr><td width="72" align="center" valign="middle">西四</td><td width="72" align="center" valign="middle">5:28</td><td width="72" align="center" valign="middle">23:28</td><td width="72" align="center" valign="middle">北京南站</td><td width="72" align="center" valign="middle">5:43</td><td width="72" align="center" valign="middle">23:03</td><td width="72" align="center" valign="middle">23:28</td></tr><tr><td width="72" align="center" valign="middle">平安里</td><td width="72" align="center" valign="middle">5:30</td><td width="72" align="center" valign="middle">23:30</td><td width="72" align="center" valign="middle">马家堡</td><td width="72" align="center" valign="middle">5:46</td><td width="72" align="center" valign="middle">23:06</td><td width="72" align="center" valign="middle">23:31</td></tr><tr><td width="72" align="center" valign="middle">新街口</td><td width="72" align="center" valign="middle">5:32</td><td width="72" align="center" valign="middle">23:32</td><td width="72" align="center" valign="middle">角门西</td><td width="72" align="center" valign="middle">5:48</td><td width="72" align="center" valign="middle">23:08</td><td width="72" align="center" valign="middle">23:33</td></tr><tr><td width="72" align="center" valign="middle">西直门</td><td width="72" align="center" valign="middle">5:35</td><td width="72" align="center" valign="middle">23:35</td><td width="72" align="center" valign="middle">公益西桥</td><td width="72" align="center" valign="middle">5:50</td><td width="72" align="center" valign="middle">23:10</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">动物园</td><td width="72" align="center" valign="middle">5:37</td><td width="72" align="center" valign="middle">23:37</td><td width="72" align="center" valign="middle">新宫</td><td width="72" align="center" valign="middle">5:54</td><td width="72" align="center" valign="middle">23:14</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">国家图书馆</td><td width="72" align="center" valign="middle">5:39</td><td width="72" align="center" valign="middle">23:39</td><td width="72" align="center" valign="middle">西红门</td><td width="72" align="center" valign="middle">6:00</td><td width="72" align="center" valign="middle">23:19</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">魏公村</td><td width="72" align="center" valign="middle">5:42</td><td width="72" align="center" valign="middle">23:42</td><td width="72" align="center" valign="middle">高米店北</td><td width="72" align="center" valign="middle">6:02</td><td width="72" align="center" valign="middle">23:22</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">人民大学</td><td width="72" align="center" valign="middle">5:44</td><td width="72" align="center" valign="middle">23:44</td><td width="72" align="center" valign="middle">高米店南</td><td width="72" align="center" valign="middle">6:04</td><td width="72" align="center" valign="middle">23:24</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">海淀黄庄</td><td width="72" align="center" valign="middle">5:47</td><td width="72" align="center" valign="middle">23:47</td><td width="72" align="center" valign="middle">枣园</td><td width="72" align="center" valign="middle">6:06</td><td width="72" align="center" valign="middle">23:26</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">中关村</td><td width="72" align="center" valign="middle">5:48</td><td width="72" align="center" valign="middle">23:48</td><td width="72" align="center" valign="middle">清源路</td><td width="72" align="center" valign="middle">6:08</td><td width="72" align="center" valign="middle">23:28</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">北京大学东门</td><td width="72" align="center" valign="middle">5:50</td><td width="72" align="center" valign="middle">23:50</td><td width="72" align="center" valign="middle">黄村西大街</td><td width="72" align="center" valign="middle">6:10</td><td width="72" align="center" valign="middle">23:30</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">圆明园</td><td width="72" align="center" valign="middle">5:52</td><td width="72" align="center" valign="middle">23:52</td><td width="72" align="center" valign="middle">黄村火车站</td><td width="72" align="center" valign="middle">6:12</td><td width="72" align="center" valign="middle">23:32</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">西苑</td><td width="72" align="center" valign="middle">5:55</td><td width="72" align="center" valign="middle">23:55</td><td width="72" align="center" valign="middle">义和庄</td><td width="72" align="center" valign="middle">6:15</td><td width="72" align="center" valign="middle">23:35</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">北宫门</td><td width="72" align="center" valign="middle">5:57</td><td width="72" align="center" valign="middle">23:57</td><td width="72" align="center" valign="middle">生物医药基地</td><td width="72" align="center" valign="middle">6:19</td><td width="72" align="center" valign="middle">23:38</td><td width="72" align="center" valign="middle">N/A</td></tr><tr><td width="72" align="center" valign="middle">安河桥北</td><td width="72" align="center" valign="middle">N/A</td><td width="72" align="center" valign="middle">N/A</td><td width="72" align="center" valign="middle">天宫院</td><td width="72" align="center" valign="middle">N/A</td><td width="72" align="center" valign="middle">N/A</td><td width="72" align="center" valign="middle">N/A</td></tr></table><div class="para" label-module="para"><i>（首末车时间参考资料<sup class="sup--normal" data-sup="29" data-ctrmap=":29,">
+[29]</sup><a class="sup-anchor" name="ref_[29]_1165558">&nbsp;</a>
+）</i></div><div class="anchor-list">
+<a name="2_5" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_5" class="lemma-anchor " ></a>
+<a name="车站信息" class="lemma-anchor " ></a>
+<a name="2-5" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>车站信息</h3>
+</div>
+<table log-set-param="table_view" data-sort="sortDisabled"><caption>北京地铁大兴线车站信息</caption><tr><th>车站名称</th><th>敷设方式</th><th>站厅形式</th><th>站台形式</th><th width="28">开门方向</th><th width="98">参考资料</th></tr><tr><td width="88" align="center" valign="middle">新宫</td><td width="88" align="center" valign="middle">地下</td><td width="88" align="center" valign="middle" colspan="1" rowspan="11">整体式站厅</td><td width="88" align="center" valign="middle">双岛式站台</td><td width="116" align="center" valign="middle"><div class="para" label-module="para">非区间左、区间右侧</div>
+</td><td width="98" align="center" valign="middle"><sup class="sup--normal" data-sup="30" data-ctrmap=":30,">
+[30]</sup><a class="sup-anchor" name="ref_[30]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">西红门</td><td width="88" align="center" valign="middle">高架</td><td width="88" align="center" valign="middle"><a target=_blank href="/item/%E4%BE%A7%E5%BC%8F%E7%AB%99%E5%8F%B0">侧式站台</a></td><td width="88" align="center" valign="middle">右侧</td><td width="116" align="center" valign="middle"><sup class="sup--normal" data-sup="31" data-ctrmap=":31,">
+[31]</sup><a class="sup-anchor" name="ref_[31]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">高米店北</td><td width="88" align="center" valign="middle" colspan="1" rowspan="9">地下</td><td width="88" align="center" valign="middle" colspan="1" rowspan="9"><a target=_blank href="/item/%E5%B2%9B%E5%BC%8F%E7%AB%99%E5%8F%B0">岛式站台</a></td><td width="88" align="center" valign="middle" colspan="1" rowspan="9">左侧</td><td width="116" align="center" valign="middle"><sup class="sup--normal" data-sup="32" data-ctrmap=":32,">
+[32]</sup><a class="sup-anchor" name="ref_[32]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">高米店南</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="33" data-ctrmap=":33,">
+[33]</sup><a class="sup-anchor" name="ref_[33]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">枣园</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="34" data-ctrmap=":34,">
+[34]</sup><a class="sup-anchor" name="ref_[34]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">清源路</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="35" data-ctrmap=":35,">
+[35]</sup><a class="sup-anchor" name="ref_[35]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">黄村西大街</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="36" data-ctrmap=":36,">
+[36]</sup><a class="sup-anchor" name="ref_[36]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">黄村火车站</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="37" data-ctrmap=":37,">
+[37]</sup><a class="sup-anchor" name="ref_[37]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">义和庄</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="38" data-ctrmap=":38,">
+[38]</sup><a class="sup-anchor" name="ref_[38]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">生物医药基地</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="39" data-ctrmap=":39,">
+[39]</sup><a class="sup-anchor" name="ref_[39]_1165558">&nbsp;</a>
+</td></tr><tr><td width="88" align="center" valign="middle">天宫院</td><td width="88" align="center" valign="middle"><sup class="sup--normal" data-sup="40" data-ctrmap=":40,">
+[40]</sup><a class="sup-anchor" name="ref_[40]_1165558">&nbsp;</a>
+</td></tr></table><div class="anchor-list">
+<a name="2_6" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_2_6" class="lemma-anchor " ></a>
+<a name="运营模式" class="lemma-anchor " ></a>
+<a name="2-6" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>运营模式</h3>
+</div>
+<div class="para" label-module="para">4号线和大兴线贯通运营，贯通后全长近50千米。提供服务的列车有全程车（大交路）和区间车（小交路）两种，全程车运营区间为4号线安河桥北站至大兴线天宫院站，区间车运营区间为4号线安河桥北站至大兴线新宫站。区间车终点站新宫站为双岛式站台设计，乘客只需到对面站台即可继续乘坐开往西红门至天宫院方向的全程车。<sup class="sup--normal" data-sup="41" data-ctrmap=":41,">
+[41]</sup><a class="sup-anchor" name="ref_[41]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">自2013年12月27日起，大小交路比例改为2:1，即两班由天宫院站开出之大交路列车加一班由新宫站开出之小交路列车为一组。天宫院站至西红门站间隔平均为3分钟，而新宫站以北为2分钟。<sup class="sup--normal" data-sup="42" data-ctrmap=":42,">
+[42]</sup><a class="sup-anchor" name="ref_[42]_1165558">&nbsp;</a>
+新宫方向的车间隔约为12-15分钟。（大小交路仅限周一至周五）</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_3" class="lemma-anchor " ></a>
+<a name="硬件设施" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>硬件设施</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="3_1" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_3_1" class="lemma-anchor " ></a>
+<a name="列车" class="lemma-anchor " ></a>
+<a name="3-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>列车</h3>
+</div>
+<div class="para" label-module="para">主词条：<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81SFM05%E5%9E%8B%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BB%84">北京地铁SFM05型电动车组</a></div>
+<div class="para" label-module="para">大兴线列车采用SFM05型，由南车四方制造，每节车厢共4对车门，为外置滑轨门，列车两端拥有紧急出口。列车采用3动3拖6辆编组，车体宽度2.8米，高3.8米，最大载客量为1440人。初期配置30列共180辆（编号051-080）。<sup class="sup--normal" data-sup="41" data-ctrmap=":41,">
+[41]</sup><a class="sup-anchor" name="ref_[41]_1165558">&nbsp;</a>
+2011年增配13列(编号081-093)。</div><div class="anchor-list">
+<a name="3_2" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_3_2" class="lemma-anchor " ></a>
+<a name="车辆基地" class="lemma-anchor " ></a>
+<a name="3-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">北京地铁大兴线</span>车辆基地</h3>
+</div>
+<div class="para" label-module="para">大兴线拥有车辆基地1座：南兆路车辆段。其位置位于天宫院站以南。<sup class="sup--normal" data-sup="13" data-ctrmap=":13,">
+[13]</sup><a class="sup-anchor" name="ref_[13]_1165558">&nbsp;</a>
+负责4号线和大兴线的部分列车停放，修理工作主要在4号线<a target=_blank href="/item/%E9%A9%AC%E5%AE%B6%E5%A0%A1%E8%BD%A6%E8%BE%86%E6%AE%B5">马家堡车辆段</a>进行。<sup class="sup--normal" data-sup="41" data-ctrmap=":41,">
+[41]</sup><a class="sup-anchor" name="ref_[41]_1165558">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_4" class="lemma-anchor " ></a>
+<a name="线路标识" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>线路标识</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">大兴线的线路标识色为青绿色（同4号线）。<sup class="sup--normal" data-sup="43" data-ctrmap=":43,">
+[43]</sup><a class="sup-anchor" name="ref_[43]_1165558">&nbsp;</a>
+</div>
+<table log-set-param="table_view" width="658" class="table-view log-set-param" data-sort="sortDisabled"><caption>大兴线标志色数据</caption><tr><td width="110" align="center" valign="middle" colspan="1" rowspan="2">Pantone</td><td align="center" valign="middle" colspan="4" rowspan="1">CMYK</td></tr><tr><td width="110" align="center" valign="middle" colspan="1" rowspan="1">C</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">M</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">Y</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">K</td></tr><tr><td width="110" align="center" valign="middle" colspan="1" rowspan="1">321C</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">85</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">0</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">30</td><td width="110" align="center" valign="middle" colspan="1" rowspan="1">25</td></tr><tr><td align="center" valign="middle" colspan="5" rowspan="1">（参考资料<sup class="sup--normal" data-sup="43" data-ctrmap=":43,">
+[43]</sup><a class="sup-anchor" name="ref_[43]_1165558">&nbsp;</a>
+）</td></tr></table><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_5" class="lemma-anchor " ></a>
+<a name="管理机构" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>管理机构</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">大兴线由北京<a target=_blank href="/item/%E4%BA%AC%E6%B8%AF%E5%9C%B0%E9%93%81">京港地铁</a>有限公司“委托运营”，<a target=_blank href="/item/%E4%BA%AC%E6%B8%AF%E5%9C%B0%E9%93%81">京港地铁</a>在30年的委托运营期负责资产的运营管理和养护维修，提供客运服务。<sup class="sup--normal" data-sup="18" data-ctrmap=":18,">
+[18]</sup><a class="sup-anchor" name="ref_[18]_1165558">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_6" class="lemma-anchor " ></a>
+<a name="票价规定" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>票价规定</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">6公里（含）内3元；6-12公里（含）4元；12-22公里（含）5元；22-32公里（含）6元；32公里以上每加1元可乘20公里（对除机场线外的北京地铁线路均有效）。<sup class="sup--normal" data-sup="44-45" data-ctrmap=":44,:45,">
+[44-45]</sup><a class="sup-anchor" name="ref_[44-45]_1165558">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="7" class="lemma-anchor para-title" ></a>
+<a name="sub1165558_7" class="lemma-anchor " ></a>
+<a name="建设意义" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">北京地铁大兴线</span>建设意义</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">大兴线是大兴新城与中心城之间的快速联系通道，能够有效地改善大兴新城的交通环境，发挥城市建设的引导功能，加快大兴新城建设，有效疏解中心城人口和产业，推动城市功能布局优化。<sup class="sup--normal" data-sup="27" data-ctrmap=":27,:41,">
+[27]</sup><a class="sup-anchor" name="ref_[27]_1165558">&nbsp;</a>
+<sup class="sup--normal" data-sup="41" data-ctrmap=":27,:41,">
+[41]</sup><a class="sup-anchor" name="ref_[41]_1165558">&nbsp;</a>
+</div>
+<div class="para" label-module="para">大兴线与4号线共同构成贯穿城区的一条南北向交通客运走廊。该走廊加强了大兴新城与中心城的连接，实现了<a target=_blank href="/item/%E4%B8%AD%E5%85%B3%E6%9D%91/170054" data-lemmaid="170054">中关村</a>产业带与大兴产业带的优势互补，联络了<a target=_blank href="/item/%E5%8A%A8%E7%89%A9%E5%9B%AD">动物园</a>、<a target=_blank href="/item/%E8%A5%BF%E7%9B%B4%E9%97%A8">西直门</a>、<a target=_blank href="/item/%E5%8C%97%E4%BA%AC%E5%8D%97%E7%AB%99/5908768" data-lemmaid="5908768">北京南站</a>等交通枢纽，沟通了新街口、<a target=_blank href="/item/%E8%A5%BF%E5%8D%95/3795722" data-lemmaid="3795722">西单</a>及大兴区，成为北京市南北客运的大动脉。<sup class="sup--normal" data-sup="13" data-ctrmap=":13,">
+[13]</sup><a class="sup-anchor" name="ref_[13]_1165558">&nbsp;</a>
+</div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF/7792898?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_1165558_10469" class="anchor-2"></a>
+<div id="rs-container-1165558-10469" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-1165558-10469'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":10469,"fentryTableName":"\u5317\u4eac\u5730\u94c1\u7ebf\u8def","fentryTableType":1,"entryId":2364425,"templateId":0,"entryTitle":"\u5317\u4eac\u5730\u94c1","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([1165558, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-1165558-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_1165558" id="refIndex_1_1165558" title="向上跳转" href="#ref_[1]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/65d1NYnYRcWHPALwY7mBjWkSqFVNApFVU5URE9F6Aj_g4Q14Hpce1FOrcV2bUSUIe5W7Xz1YnNxmSA24nSzLUL18hNuhqWQxQGMZ6dC7g6eTYb3V1nFr_atYR4V8" target="_blank" class="text">相关负责人表示北京市地铁大兴线“不会消失”<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>．2010-10-29</span><span>&#91;引用日期2015-09-01&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-1165558-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_1165558" id="refIndex_2_1165558" title="向上跳转" href="#ref_[2]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/069cNibCUYOcpf_EY4b3bf_7YTrQKjfoWF7PhJAY7CJCKORFmvcrzrxDMYVyr0WeZ28TgAHtvfdXbWy0ebgCSVoOSVimzFeWGmUpfqSP6HpETlEtCSyviok" target="_blank" class="text">大兴线共设12座车站 新地铁规划方案已获批复<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2007-05-30</span><span>&#91;引用日期2015-09-01&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-1165558-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_1165558" id="refIndex_3_1165558" title="向上跳转" href="#ref_[3]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/888ctkjpjla24uaBk5PmWx_Hm87k-nfBuVf4ScPFudhV5A7tpLvGOhBrwXlY9O0X21DnbsBY7WPBFg1vfIxi5i3jCcssvb5PKdmh1INpBWGzb7cCKa8SR6B6AVnXaE7NyMhIC9DznTpiwQ" target="_blank" class="text">北京轨道交通大兴线线路规划方案获批复<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市规划委员会</span><span>．2007-06-08</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[4]-1165558-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_1165558" id="refIndex_4_1165558" title="向上跳转" href="#ref_[4]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/de85C1P5QjwxAJ86IHKCFPzPnWd_1jHyp90fS5APy9plNyiZ88U4tG7Xv-3lYB_iofYk3aTkS1BJ0d5w5pUIdyUd_NxotNYyYTCd" target="_blank" class="text">北京5条地铁今日上午开工 2015年全部完工(图)<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐新闻</span><span>．2007-12-08</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-1165558-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_1165558" id="refIndex_5_1165558" title="向上跳转" href="#ref_[5]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/2bde547jwl47AKpaDTfWYmGFCqOBn-7T4R9cZFuXaUSlkL079uMPpnz3SOPdTzXmxFka59rHy6_XDHvAbD-AlqdrGdqB3QeafLskbQUYgp8H24MdNg" target="_blank" class="text">地铁大兴线拆迁工作启动<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2008-04-16</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-1165558-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_1165558" id="refIndex_6_1165558" title="向上跳转" href="#ref_[6]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/db25Au9wjl6Ju6KSPMcne9gmUH0T3DKbsvWPcO9CriRU1S8MMetkf232ABCZcbDk2iQ_OI_wQfNLVPwjPT8kkhrs_MniRXaInJV8T0-oXqCrNVyQr7Qx8Ko" target="_blank" class="text">地铁大兴线今起全面开工建设 将新添6个公交枢纽<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2008-06-01</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-1165558-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_1165558" id="refIndex_7_1165558" title="向上跳转" href="#ref_[7]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/8139y9dIcf0wrgXjHB06tjng-gipTF6EKZa6BBjnGeru3CkBfRzwfvQr8gvox829yxzOdBnfvdL7nUAyA2CopY75akKoxpnCrU9S6ArnkWaCPIjF0myhxZRPWg" target="_blank" class="text">北京地铁大兴线第一台盾构机成功下井开挖<span class="linkout">&nbsp;</span></a>
+<span class="site">．中国新闻网</span><span>．2008-11-16</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-1165558-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_1165558" id="refIndex_8_1165558" title="向上跳转" href="#ref_[8]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/9059eWAXr_bde6W5S6kLN002MnVUYWgDQc8qLzbZrHX2Q0Hr12t2f0A0hqMNWC4WPuteL2il8UIN1Dd4XkvNqmCCpwxwWqRn_1IgXbG8kUMa" target="_blank" class="text">轨道线路再次引进社会运营商 京港地铁管理大兴线<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>．2008-11-28</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[9]-1165558-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor"  name="refIndex_9_1165558" id="refIndex_9_1165558" title="向上跳转" href="#ref_[9]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/b4bf7ZTVXz7G3gtKUjmuiKbSUuyY3KQaE2q4bgvl0VHORElL1pjX4hiPcVs5ZVLuuLFLW4efiw-LjJlAp4x1TErxYY3yIHCpAlS-2xZqXe-xm6j02g9Q0l6juJmVNo103js" target="_blank" class="text">中国南车签北京地铁大兴线、八号线车辆供货合同<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪财经</span><span>．2009-07-30</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[10]-1165558-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor"  name="refIndex_10_1165558" id="refIndex_10_1165558" title="向上跳转" href="#ref_[10]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/ca6c8lfR4C4xySaENssuHFHer5EelsnsBl9BaqYlMQL9FW5xU4EU0yT3Vaw2PUs5tUFr5KwjuJS7S9MnYzoHQxBXZE58aYGT1KZfblyFOqHD28tKatMPtiOgDXjf" target="_blank" class="text">北京：地铁大兴线黄村西大街站至黄村火车站区间提前双线贯通<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网北京频道</span><span>．2009-09-17</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-1165558-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor"  name="refIndex_11_1165558" id="refIndex_11_1165558" title="向上跳转" href="#ref_[11]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/f9d464afzYpC2uFe1oYxf-kBroNAJBfL2Kgw92EYX6EAq7G7Yw3wHH0xRBzgNQM8G7PKKqmewOgImJPOrYBemtKlWjnNlGbd3kL-8GtiGWl7ACxipolbaln5hWqQDJqdAA" target="_blank" class="text">北京地铁大兴线开始铺轨<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网北京频道</span><span>．2009-09-29</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-1165558-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor"  name="refIndex_12_1165558" id="refIndex_12_1165558" title="向上跳转" href="#ref_[12]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/a72920NMdFdvu04CfVGg8lCXc4RAbpY7PocCHAG18nD90F1MNtHmGFud5FsReiQ2-tWp18vXmfD9Qqqo_XqYezLOxZaNe8tqp9wMTPpOhFo5HGaCmorS7x3new" target="_blank" class="text">五条地铁线发布规划公告<span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2009-10-16</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-1165558-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor"  name="refIndex_13_1165558" id="refIndex_13_1165558" title="向上跳转" href="#ref_[13]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/e766atZ6-5cvsggcnlmPu-jbptIP6MmnaeHphwNgIGc6JH1ohFbFOODhVbf6Vb6vP9pTBhI5jJBw5dhF7PVqCyfwGUdWA5wBX4FIciXR1rPIUaRQQIU-gb6ZHFNVmnBk_g55ub0dE4qt-OXNKM8VZhpdhJIJ7zWEW4L2KZL67A1Jad1fcuXMn-Ff60l5TcEKYBGuhaZyxk03HyduPZyYG2a1USg8" target="_blank" class="text">轨道交通大兴线规划方案公告<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市规划委员会</span><span>．2009-10-14</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-1165558-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor"  name="refIndex_14_1165558" id="refIndex_14_1165558" title="向上跳转" href="#ref_[14]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/0e76BM3_iaraB7hzrefUoFy14DnBT71QQfIbDVItD3Dx7gX9THHkTIhb-Znp1YqXtOoptLSRA1zbL5BTpV6u7yhCNjFl6vfHwpYNPC9IRhOq3S7wnwp3EfU" target="_blank" class="text">地铁大兴线最长双向隧道实现贯通<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2009-10-30</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-1165558-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor"  name="refIndex_15_1165558" id="refIndex_15_1165558" title="向上跳转" href="#ref_[15]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/a0bajjnNP7tl1mHvuKIlm9zGB8m3sriy8xSdJVKeuyDXsOg6eaxzVRDH49Tlo0TP68CJdJQyB41Dv9ILxuLte2H3t1lA" target="_blank" class="text">大兴线跨京开高速路桥架设完成 创多项第一<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯新闻</span><span>．2009-11-08</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-1165558-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor"  name="refIndex_16_1165558" id="refIndex_16_1165558" title="向上跳转" href="#ref_[16]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/0599mt14ZXxwIG8QT8yxN-oHsAGTETAftC3r0dqup9DDdUebp659cQL66lPp_MCR2_PZkCxx8DJn02hzh_Zru4gKAmQrnlDf" target="_blank" class="text">亦庄线大兴线9号线公示站名 2012年全部开通<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯财经</span><span>．2009-11-24</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-1165558-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor"  name="refIndex_17_1165558" id="refIndex_17_1165558" title="向上跳转" href="#ref_[17]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/feb1SEEwDSjwW_Fqsuv6hR8TWWN1L-V5axLmHzg8rl4pb6dCaJPogqNn5JLhBODvK-tLcz9R9ybF029wUE4O7Rx9vGKfNU4LFGvbA_d-gnTDjxQkmQ" target="_blank" class="text">地铁大兴线11车站主体完工<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2009-11-25</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[18]-1165558-wrap">
+<span class="index">18.</span>
+<a class="gotop anchor"  name="refIndex_18_1165558" id="refIndex_18_1165558" title="向上跳转" href="#ref_[18]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/c30c4m5HBZdqVj5DU870TuAVKgtcbKzhWols9apqG6xG5lv__nKGyK4AcYyUGptOwvYl4FJhzmd63_XN8EOH1m72LOZPM3QIEzRrHqZ2-ufc-gfnbTMvWjts" target="_blank" class="text">大兴线签约仪式<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市交通委员会</span><span>．2010-01-25</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[19]-1165558-wrap">
+<span class="index">19.</span>
+<a class="gotop anchor"  name="refIndex_19_1165558" id="refIndex_19_1165558" title="向上跳转" href="#ref_[19]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/bcf7-RhEhAzgqj9JT_z-Y2PbOIxEgy3WPNgHiIDappCmyuuIMUsOIDOhDxAB9LlVaO6QqccdsN1fmt6trNdDXmDUY7HEbPjjfWdCd2PV" target="_blank" class="text">《北京轨道交通大兴线委托运营协议》和《大兴线建设介入协议》在北京正式签署<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京京港地铁有限公司</span><span>．2009-12-30</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[20]-1165558-wrap">
+<span class="index">20.</span>
+<a class="gotop anchor"  name="refIndex_20_1165558" id="refIndex_20_1165558" title="向上跳转" href="#ref_[20]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/18f7E6LB9lZcF0OJzreFbZ1Ei_PHcqUspOaA8q7zqnQhhLjQyXLsK00cXo_V1hLB8BnFbK9CpRqBIi1wN-LH-ERXluD32ikAVc3P08aXb7wFiwR6YT0ZWeFgHFMfSRs7iA" target="_blank" class="text">轨道大兴线提前洞通 <span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网北京频道</span><span>．2010-01-07</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[21]-1165558-wrap">
+<span class="index">21.</span>
+<a class="gotop anchor"  name="refIndex_21_1165558" id="refIndex_21_1165558" title="向上跳转" href="#ref_[21]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/1efacMdI4C9vw3PZiy_ZvSQfH8nzz1TKs9MlWsVZln5HA1pahsPVmqmS-iOImd4kXbfJTkQ4399R9Nxcx-myB96jr-Cix7d4n2n_P-lDKQ8Cnai7hg" target="_blank" class="text">9号线、大兴线改站名<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪新闻中心</span><span>．2010-04-10</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[22]-1165558-wrap">
+<span class="index">22.</span>
+<a class="gotop anchor"  name="refIndex_22_1165558" id="refIndex_22_1165558" title="向上跳转" href="#ref_[22]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/8870vs079eZ6F_J5U3sHcV87aaPsrqzjWY6f5mPFBSmmZPDmB6NX8HqO0f0QVxI98YgggpwbgmAQDd-ZWy-sVMsAkx1kHYWaYzuMLa1Xs_AMkufLANr7xdx0wMHM_60UGBftEZAPQwdI301P-7DMr6ETCxVis6wwTfibSoIL_HbIkF-bBJAEfEWNKbMXM8INc_iaLx45dERi_nrmvN1JgfBloF_9" target="_blank" class="text">北京市规划委员会关于轨道交通9号线、亦庄线、大兴线沿线车站命名公众参与意见、建议采信情况的通告<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市规划委员会</span><span>．2010-04-08</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[23]-1165558-wrap">
+<span class="index">23.</span>
+<a class="gotop anchor"  name="refIndex_23_1165558" id="refIndex_23_1165558" title="向上跳转" href="#ref_[23]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/f4d8VWDwqVVN6mOH5CNyxcOQxzBHblOY5eDB73gqokBx42M63cGoQd20hg60tM04aa4s-2-2zNzjCNkEip9DEwAcGVxkm9E_2IbW5NP8n1Cb5kTlG9uPkw8fsw" target="_blank" class="text">亦庄线“样板段”轨道今贯通 <span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2010-04-29</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[24]-1165558-wrap">
+<span class="index">24.</span>
+<a class="gotop anchor"  name="refIndex_24_1165558" id="refIndex_24_1165558" title="向上跳转" href="#ref_[24]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/0504ghAw8mo8gqpjDiKJU5Ez7j9stvOCJ2altURdJhbMCGLrhPF3ULgAPr7N4BEhqG_rjTecLSuveEHLi7JJUzMG9ppenyTV-ushZsUeDCeTKnggxUyW6UM" target="_blank" class="text">大兴线开始空载试运行 年底贯通4号线<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2010-08-19</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[25]-1165558-wrap">
+<span class="index">25.</span>
+<a class="gotop anchor"  name="refIndex_25_1165558" id="refIndex_25_1165558" title="向上跳转" href="#ref_[25]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/041eSM65Z9-6qb0vh0_3acazwBK15I4xKNRu9fqIUQZPL4eHUHchADa8q_XdA1zC2mHLPAUYHSH9t-0mHvHZnfXkwpmWIIxqz0afp7Cyc9BDW3-RgVbOCGKJ3g" target="_blank" class="text">4号线与大兴线今起贯通调试<span class="linkout">&nbsp;</span></a>
+<span class="site">．法制晚报</span><span>．2010-11-18</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[26]-1165558-wrap">
+<span class="index">26.</span>
+<a class="gotop anchor"  name="refIndex_26_1165558" id="refIndex_26_1165558" title="向上跳转" href="#ref_[26]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/5085bS5ApVHsuzgoEkbANde-76KcV9R_J3eNUYRrMw-GxENSqLM-05YWjkA2xTzZGQU5bFNeKS-EYLiNj48eQkzAUYs-jx95kM0jEgaBT692CNbHe-b_WA" target="_blank" class="text">北京轨道交通大兴线车辆段工程开始竣工验收<span class="linkout">&nbsp;</span></a>
+<span class="site">．千龙网</span><span>．2010-12-03</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[27]-1165558-wrap">
+<span class="index">27.</span>
+<a class="gotop anchor"  name="refIndex_27_1165558" id="refIndex_27_1165558" title="向上跳转" href="#ref_[27]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/3c76yYnb2cINKb8hCuZHPh00nHWkpxvGfMEAr6XjOY4_a9XMN5FEV7B8IT0i9jOOWqG_RSLQOJhHzh8WLQFZM1a5pWPMLGBsMJMwYvm9RoRYg1lRVJAofmsH" target="_blank" class="text">大兴线、亦庄线、十五号线首开段、昌平线一期、房山线等五条轨道交通新线12月30日开通试运营<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市交通委员会</span><span>．2010-12-31</span><span>&#91;引用日期2015-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[28]-1165558-wrap">
+<span class="index">28.</span>
+<a class="gotop anchor"  name="refIndex_28_1165558" id="refIndex_28_1165558" title="向上跳转" href="#ref_[28]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/19ecBP6jmwATGCjpF50jsOZ57hUavpqf9taP8eqDZKdl7NxovmLJMiP5JNdZArvDvaNY5eXROXFPgYMOkywUs4vqgBo" target="_blank" class="text">站间公里数<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>&#91;引用日期2015-06-13&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[29]-1165558-wrap">
+<span class="index">29.</span>
+<a class="gotop anchor"  name="refIndex_29_1165558" id="refIndex_29_1165558" title="向上跳转" href="#ref_[29]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/e29blWb5hMkLdzAQTMFX90XZSiS1FIVp8_fnYBwM9Qv364LTz5uzA4x0ozL5cZNPUhwKpor8qkaT2LQkHNMjTFzEyOGuZoCA1Q" target="_blank" class="text">列车时刻表_乘车指南<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京京港地铁有限公司</span><span>．2010-12-30</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[30]-1165558-wrap">
+<span class="index">30.</span>
+<a class="gotop anchor"  name="refIndex_30_1165558" id="refIndex_30_1165558" title="向上跳转" href="#ref_[30]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/518162gHCEQvGc8n4M46yaw5f-eyGHYmOqiLKnJHP3XyMeZVjQ_ovrCkDAJpxFOfHQ6R9CnM1cDDhjeA3XhNEJ3XstYOUbBkHV5vCKb_2aRqd7VtZ4x2goFlJ8CA" target="_blank" class="text">大兴线新宫站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[31]-1165558-wrap">
+<span class="index">31.</span>
+<a class="gotop anchor"  name="refIndex_31_1165558" id="refIndex_31_1165558" title="向上跳转" href="#ref_[31]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/f5a8G6DhvUnluoY_SBIMyeuDgAF6gmpfiZMUjN8AnXYrOvMHecqvNSQuyxmbmjLYJ7dIOakDHZEDm6EAu5XN-FOzU7DdZCDfzclx4IVkOp6prR6uzpyCujIi2LEI" target="_blank" class="text">大兴线西红门站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[32]-1165558-wrap">
+<span class="index">32.</span>
+<a class="gotop anchor"  name="refIndex_32_1165558" id="refIndex_32_1165558" title="向上跳转" href="#ref_[32]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/4041D2PVFPZ-MLdoCp4YDB6DImLitGmz15SoEzFtzLvWKSm4nOxcC446ktWcSmuR8qPu6YGbvB0rlo-fjaVa97uIRDnYNDYASNKpbUsE6v8OVpJg7dt04KZzZVgg" target="_blank" class="text">大兴线高米店北站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[33]-1165558-wrap">
+<span class="index">33.</span>
+<a class="gotop anchor"  name="refIndex_33_1165558" id="refIndex_33_1165558" title="向上跳转" href="#ref_[33]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/efebpyBnTVh3aN7PBq9oTuk7SQ0o5NjD2Ryv1M1IpLQnsx8pjPonK3e2wUBwVh5bN5EZKnilWTNJ_Zn1Xa-ZgM34oAAS4GZ5hUN-q-1FyMkWzvhNR7AWInnyU_5k" target="_blank" class="text">大兴线高米店南站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[34]-1165558-wrap">
+<span class="index">34.</span>
+<a class="gotop anchor"  name="refIndex_34_1165558" id="refIndex_34_1165558" title="向上跳转" href="#ref_[34]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/6ce5IDwR_qWZU8MXN3ZvZphyR1lBh_VbEqZgMxpTc2_OkASdKanYiRV35F-8T24GKv3pqS_D_D025TkO1KQBgYOw3p3wPZqAmGXN1q-0EYUu8DL2Bcy_ghHAjSvR" target="_blank" class="text">大兴线枣园站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[35]-1165558-wrap">
+<span class="index">35.</span>
+<a class="gotop anchor"  name="refIndex_35_1165558" id="refIndex_35_1165558" title="向上跳转" href="#ref_[35]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/2e53MIf6L0P2DYapfZKlpFP0hW_LaWuana6xFl7QwZwokYjRi9UB-FwIMzxBxFoihIpQWb6zxglgx9Fvd8YuBISNCY9VDjR2fl24WRf0keI4JqL5evz6oMDdjyGX" target="_blank" class="text">大兴线清源路站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[36]-1165558-wrap">
+<span class="index">36.</span>
+<a class="gotop anchor"  name="refIndex_36_1165558" id="refIndex_36_1165558" title="向上跳转" href="#ref_[36]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/b81f16Dj5i2IpNhBRfRFE_TOEuPizgP5SlAmzT31k1hEtObMyT-IfjdxKuhzXJXPzuk98T4yDmGR0Bn5Z-tctwCABxCwwkAiEwCUsy7gMHQaXuVMVnnTz9YLpMw7" target="_blank" class="text">大兴线黄村西大街站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[37]-1165558-wrap">
+<span class="index">37.</span>
+<a class="gotop anchor"  name="refIndex_37_1165558" id="refIndex_37_1165558" title="向上跳转" href="#ref_[37]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/c07fOkJYsBExhzrSX9yyxrQ3bQSORjXBVPcjxhALaNGCYCm4LI40Ko9zbl-sSzrJAKNs-ul758SlV-6XCWhClfbs33K2tajyyo0ZXLxo0MsHAGiT9QkkWNbJCXnf" target="_blank" class="text">大兴线黄村火车站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[38]-1165558-wrap">
+<span class="index">38.</span>
+<a class="gotop anchor"  name="refIndex_38_1165558" id="refIndex_38_1165558" title="向上跳转" href="#ref_[38]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/808aGaCi6VvinzJsWWrwW5g2E0DK5xK6BsV7aTvNksECHYTIZfew9-HNsRL5kFolxvLvhdUkHufOgXzaMOOoDDKlv0P_uPLk_MOb1vXZ1A7UMU_0wZ2pu6XCbF_k" target="_blank" class="text">大兴线义和庄站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[39]-1165558-wrap">
+<span class="index">39.</span>
+<a class="gotop anchor"  name="refIndex_39_1165558" id="refIndex_39_1165558" title="向上跳转" href="#ref_[39]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/9675A_AI5GDj8IehREP7wjCcCwL_WA3LNCm8Smt53blSPOgAhuiP2yGzpablJ5-SUvo1Qd5M-3xrA_2Q5eERo_kMEWFHgHw_l8OEEd7nAc6te78htzlasRVhfycL" target="_blank" class="text">大兴线生物医药基地站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[40]-1165558-wrap">
+<span class="index">40.</span>
+<a class="gotop anchor"  name="refIndex_40_1165558" id="refIndex_40_1165558" title="向上跳转" href="#ref_[40]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/97b9d4VM_52aEhWn8C9PKUKBs4ElujET59YxV_133C5nM7lGbhQCpliJ0zDgXx3vFzQjJDbQqXn8YQx8Hm-MqLLFDm_hRkjLdamof2ZPps70L4ZObIhtqOHWyliZ" target="_blank" class="text">大兴线天宫院站<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京地铁官方网站</span><span>．2013-08-22</span><span>&#91;引用日期2014-07-22&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[41]-1165558-wrap">
+<span class="index">41.</span>
+<a class="gotop anchor"  name="refIndex_41_1165558" id="refIndex_41_1165558" title="向上跳转" href="#ref_[41]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/c63detQeAjECJlikxGNYimcfqB_CXsmLYP-cBJTof5-gsYbiVvUzqENNVRbaNnUSZ-585OpL4PFn-576gAniA6L6i591YstxmOP7CvuJLrZ4X5mrRtqsVbYE" target="_blank" class="text">走近轨道交通大兴线<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市交通委员会</span><span>．2010-10-29</span><span>&#91;引用日期2015-09-01&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[42]-1165558-wrap">
+<span class="index">42.</span>
+<a class="gotop anchor"  name="refIndex_42_1165558" id="refIndex_42_1165558" title="向上跳转" href="#ref_[42]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/3c6ad8Lh55F8huiZ1PaUb2V6so3i11UTRqvJayTeyRX7ZsFPbILcWUmnCx9z1mlyUacAFzWrunZvPPMLpMmoMrhu6Z-DU9h_ifk4rVjbGZqKGttRas8F3N8" target="_blank" class="text">京港地铁增购列车 大兴线早高峰行车间隔缩短至3分钟<span class="linkout">&nbsp;</span></a>
+<span class="site">．人民网</span><span>．2013-12-26</span><span>&#91;引用日期2015-09-01&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[43]-1165558-wrap">
+<span class="index">43.</span>
+<a class="gotop anchor"  name="refIndex_43_1165558" id="refIndex_43_1165558" title="向上跳转" href="#ref_[43]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/52392zzlGNGmC23sL8TuXtm5Ef-Vri-Ttt1ALMICky6EM5ZWHC1yKjjas5VEL3PpihmZvq1e1DSlumcmsYk_b8U-E7KlDQOareBpWS8FfT-j8OVViBg-My3E76uXRHC5CdlPxrU" target="_blank" class="text">【PDF文件】《公共交通客运标志 第2部分：轨道交通》DB11T 657.2-2015<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市交通委员会</span><span>．2016-05-04</span><span>&#91;引用日期2016-08-21&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[44]-1165558-wrap">
+<span class="index">44.</span>
+<a class="gotop anchor"  name="refIndex_44_1165558" id="refIndex_44_1165558" title="向上跳转" href="#ref_[44]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/0026bpuJ83VFMTX2C9XxhW-GrjJtGl1iuYCwrcIY--g9t0w7dY53QW6-XdNUA7wIA7Jd8z5BXi3gfWIL963A4ZtlhZs" target="_blank" class="text">票务信息<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京京港地铁有限公司</span><span>&#91;引用日期2015-09-01&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[45]-1165558-wrap">
+<span class="index">45.</span>
+<a class="gotop anchor"  name="refIndex_45_1165558" id="refIndex_45_1165558" title="向上跳转" href="#ref_[45]_1165558">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/reference/7792898/59e3GyguLm05VlLnccuKF9asqHJLsj5LXh6lWp_NY_JGvwW30ZombG8ahDg5-eXIGCLVtU6adMB0Di4Q-Y30xT3OX4oGHC2FL-eprw" target="_blank" class="text">北京市发展和改革委员会北京市交通委员会北京市财政局关于调整本市公共交通价格的通知<span class="linkout">&nbsp;</span></a>
+<span class="site">．北京市发展和改革委员会</span><span>．2014-11-27</span><span>&#91;引用日期2015-09-01&#93;</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+社会
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF/7792898/0/5ab5c9ea15ce36d32a63e66630f33a87e950b105?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=29d284598d94a4c20a23e02d36cf7ce8/5ab5c9ea15ce36d32a63e66630f33a87e950b105.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>北京地铁大兴线图册</div>
+</a>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="7792898" data-lemmaTitle="北京地铁大兴线"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="7792898">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：130次<a href="/historylist/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF/7792898" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="2118297378" title="查看此用户资料" target="_blank" href="/usercenter/userpage?uname=KevinXie90&from=lemma"
+                    nslog-type="1022">KevinXie90</a><span class="j-modified-time" style="display:none">（2019-06-30）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="12277083" username="弘和" target="_blank" href="/usercenter/userpage?uname=%E5%BC%98%E5%92%8C&from=lemma">弘和</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC"><img align="absmiddle" alt="创建版本" title="创建版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/create_c3f33b6.png"></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">历史沿革</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">运营信息</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#2_1" class="title-link">
+<span class="text">
+<span class="title-index">2.1</span>
+<span class="title-link" nslog-type="10002802">线路数据</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_2" class="title-link">
+<span class="text">
+<span class="title-index">2.2</span>
+<span class="title-link" nslog-type="10002802">车站列表</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_3" class="title-link">
+<span class="text">
+<span class="title-index">2.3</span>
+<span class="title-link" nslog-type="10002802">站间公里数</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_4" class="title-link">
+<span class="text">
+<span class="title-index">2.4</span>
+<span class="title-link" nslog-type="10002802">首末车时间</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_5" class="title-link">
+<span class="text">
+<span class="title-index">2.5</span>
+<span class="title-link" nslog-type="10002802">车站信息</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#2_6" class="title-link">
+<span class="text">
+<span class="title-index">2.6</span>
+<span class="title-link" nslog-type="10002802">运营模式</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">硬件设施</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#3_1" class="title-link">
+<span class="text">
+<span class="title-index">3.1</span>
+<span class="title-link" nslog-type="10002802">列车</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#3_2" class="title-link">
+<span class="text">
+<span class="title-index">3.2</span>
+<span class="title-link" nslog-type="10002802">车辆基地</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">线路标识</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">管理机构</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">票价规定</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#7" class="title-link">
+<span class="text">
+<span class="title-index">7</span>
+<span class="title-link" nslog-type="10002802">建设意义</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="北京地铁大兴线" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2019&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="北京地铁大兴线" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+<script>
+      window['__abbaidu_2020_subidgetf'] = function () {
+          var subid = 01000000;
+          return subid;
+      };
+    </script>
+<script async src="https://dlswbr.baidu.com/heicha/mw/abclite-2020-s.js"></script>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_3a154ae.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_363b44d.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_8d43709.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_ea4d2ff.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('7792898', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '7792898',                    lemmaTitle:"\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf",                    lemmaDesc:null,                    versionId: '138551251',                    subLemmaId: '1165558'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('7792898', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"7792898",
+			lemmaId:"1165558",
+			subLemmaId:"1165558"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '7792898'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');              
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');  
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                + '词条锁定，暂时无法编辑</h2>' 
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=7792898&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=7792898', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
+                $('.j-discussion-link .num').text(numText).show();
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            $(this).find('.num').remove();
+        });
+        // 讨论按钮展现量
+        nsLog(90000101, window.location.href, {
+            lemmaid: 7792898
+        });
+    }
+}();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('7792898', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"7792898",
+			lemmaTitle:"北京地铁大兴线",
+			lemmaId:"1165558",
+			subLemmaId:"1165558",
+			data:{"18201605":{"coverpic":"caae680994432de42fddd466","desc":"\u5927\u5174\u7ebf\u56fe\u7247","albumTag":"","height":146,"width":220,"total":4,"coverurl":"https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=869bbc2655fbb2fb302b5f117a4b2043\/3b87e950352ac65ccf4dd208fbf2b21193138a05.jpg","toppics":[{"src":"7787b9ef39881c5dfcfa3c44","owner":"QQ1527074719","desc":"\u897f\u7ea2\u95e8\u7ad9\u4ee5\u5927\u7ea2\u8272\u4e3a\u4e3b\u8272\u8c03\u7684\u201c\u5f69\u5e26\u95e8\u201d\u3002","height":266,"width":400},{"src":"caae680994432de42fddd466","owner":"QQ1527074719","desc":"\u5927\u5174\u7ebf\u65b0\u5bab\u8f66\u7ad9","height":266,"width":400},{"src":"42577322ec33a1ef4723e862","owner":"QQ1527074719","desc":"\u897f\u7ea2\u95e8\u7ad9\u5185\u6f14\u7ece\u7687\u5bb6\u9605\u5175\u573a\u9762\u7684\u96d5\u5851\u3002","height":266,"width":400}]},"0":{"coverpic":"5ab5c9ea15ce36d32a63e66630f33a87e950b105","width":622,"height":415,"desc":"\u8bcd\u6761\u56fe\u7247","total":2,"coverurl":"https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=9d8aa7659b8fa0ec7bc7630e1396594a\/5ab5c9ea15ce36d32a63e66630f33a87e950b105.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "1165558",
+                newLemmaId: "7792898",
+                subLemmaId: "1165558",
+                lemmaTitle: "北京地铁大兴线"
+            });
+        });
+    }();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"1165558"
+			});
+			new ReferenceTip({
+				subLemmaId:"7792898",
+				lemmaTitle:"北京地铁大兴线",
+				reference:[{"type":"1","title":"\u76f8\u5173\u8d1f\u8d23\u4eba\u8868\u793a\u5317\u4eac\u5e02\u5730\u94c1\u5927\u5174\u7ebf\u201c\u4e0d\u4f1a\u6d88\u5931\u201d","url":"\/reference\/7792898\/65d1NYnYRcWHPALwY7mBjWkSqFVNApFVU5URE9F6Aj_g4Q14Hpce1FOrcV2bUSUIe5W7Xz1YnNxmSA24nSzLUL18hNuhqWQxQGMZ6dC7g6eTYb3V1nFr_atYR4V8","site":"\u51e4\u51f0\u7f51","publishDate":"2010-10-29","refDate":"2015-09-01","index":1,"count":"2"},{"type":"1","title":"\u5927\u5174\u7ebf\u5171\u8bbe12\u5ea7\u8f66\u7ad9 \u65b0\u5730\u94c1\u89c4\u5212\u65b9\u6848\u5df2\u83b7\u6279\u590d","url":"\/reference\/7792898\/069cNibCUYOcpf_EY4b3bf_7YTrQKjfoWF7PhJAY7CJCKORFmvcrzrxDMYVyr0WeZ28TgAHtvfdXbWy0ebgCSVoOSVimzFeWGmUpfqSP6HpETlEtCSyviok","site":"\u5343\u9f99\u7f51","publishDate":"2007-05-30","refDate":"2015-09-01","index":2,"count":"2"},{"type":"1","title":"\u5317\u4eac\u8f68\u9053\u4ea4\u901a\u5927\u5174\u7ebf\u7ebf\u8def\u89c4\u5212\u65b9\u6848\u83b7\u6279\u590d","url":"\/reference\/7792898\/888ctkjpjla24uaBk5PmWx_Hm87k-nfBuVf4ScPFudhV5A7tpLvGOhBrwXlY9O0X21DnbsBY7WPBFg1vfIxi5i3jCcssvb5PKdmh1INpBWGzb7cCKa8SR6B6AVnXaE7NyMhIC9DznTpiwQ","site":"\u5317\u4eac\u5e02\u89c4\u5212\u59d4\u5458\u4f1a","publishDate":"2007-06-08","refDate":"2015-08-06","index":3,"count":"1"},{"type":"1","title":"\u5317\u4eac5\u6761\u5730\u94c1\u4eca\u65e5\u4e0a\u5348\u5f00\u5de5 2015\u5e74\u5168\u90e8\u5b8c\u5de5(\u56fe)","url":"\/reference\/7792898\/de85C1P5QjwxAJ86IHKCFPzPnWd_1jHyp90fS5APy9plNyiZ88U4tG7Xv-3lYB_iofYk3aTkS1BJ0d5w5pUIdyUd_NxotNYyYTCd","site":"\u641c\u72d0\u65b0\u95fb","publishDate":"2007-12-08","refDate":"2015-08-06","index":4,"count":"1"},{"type":"1","title":"\u5730\u94c1\u5927\u5174\u7ebf\u62c6\u8fc1\u5de5\u4f5c\u542f\u52a8","url":"\/reference\/7792898\/2bde547jwl47AKpaDTfWYmGFCqOBn-7T4R9cZFuXaUSlkL079uMPpnz3SOPdTzXmxFka59rHy6_XDHvAbD-AlqdrGdqB3QeafLskbQUYgp8H24MdNg","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2008-04-16","refDate":"2015-08-06","index":5,"count":"1"},{"type":"1","title":"\u5730\u94c1\u5927\u5174\u7ebf\u4eca\u8d77\u5168\u9762\u5f00\u5de5\u5efa\u8bbe \u5c06\u65b0\u6dfb6\u4e2a\u516c\u4ea4\u67a2\u7ebd","url":"\/reference\/7792898\/db25Au9wjl6Ju6KSPMcne9gmUH0T3DKbsvWPcO9CriRU1S8MMetkf232ABCZcbDk2iQ_OI_wQfNLVPwjPT8kkhrs_MniRXaInJV8T0-oXqCrNVyQr7Qx8Ko","site":"\u5343\u9f99\u7f51","publishDate":"2008-06-01","refDate":"2015-08-06","index":6,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf\u7b2c\u4e00\u53f0\u76fe\u6784\u673a\u6210\u529f\u4e0b\u4e95\u5f00\u6316","url":"\/reference\/7792898\/8139y9dIcf0wrgXjHB06tjng-gipTF6EKZa6BBjnGeru3CkBfRzwfvQr8gvox829yxzOdBnfvdL7nUAyA2CopY75akKoxpnCrU9S6ArnkWaCPIjF0myhxZRPWg","site":"\u4e2d\u56fd\u65b0\u95fb\u7f51","publishDate":"2008-11-16","refDate":"2015-08-06","index":7,"count":"1"},{"type":"1","title":"\u8f68\u9053\u7ebf\u8def\u518d\u6b21\u5f15\u8fdb\u793e\u4f1a\u8fd0\u8425\u5546 \u4eac\u6e2f\u5730\u94c1\u7ba1\u7406\u5927\u5174\u7ebf","url":"\/reference\/7792898\/9059eWAXr_bde6W5S6kLN002MnVUYWgDQc8qLzbZrHX2Q0Hr12t2f0A0hqMNWC4WPuteL2il8UIN1Dd4XkvNqmCCpwxwWqRn_1IgXbG8kUMa","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"2008-11-28","refDate":"2015-08-06","index":8,"count":"1"},{"type":"1","title":"\u4e2d\u56fd\u5357\u8f66\u7b7e\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf\u3001\u516b\u53f7\u7ebf\u8f66\u8f86\u4f9b\u8d27\u5408\u540c","url":"\/reference\/7792898\/b4bf7ZTVXz7G3gtKUjmuiKbSUuyY3KQaE2q4bgvl0VHORElL1pjX4hiPcVs5ZVLuuLFLW4efiw-LjJlAp4x1TErxYY3yIHCpAlS-2xZqXe-xm6j02g9Q0l6juJmVNo103js","site":"\u65b0\u6d6a\u8d22\u7ecf","publishDate":"2009-07-30","refDate":"2015-08-06","index":9,"count":"1"},{"type":"1","title":"\u5317\u4eac\uff1a\u5730\u94c1\u5927\u5174\u7ebf\u9ec4\u6751\u897f\u5927\u8857\u7ad9\u81f3\u9ec4\u6751\u706b\u8f66\u7ad9\u533a\u95f4\u63d0\u524d\u53cc\u7ebf\u8d2f\u901a","url":"\/reference\/7792898\/ca6c8lfR4C4xySaENssuHFHer5EelsnsBl9BaqYlMQL9FW5xU4EU0yT3Vaw2PUs5tUFr5KwjuJS7S9MnYzoHQxBXZE58aYGT1KZfblyFOqHD28tKatMPtiOgDXjf","site":"\u65b0\u534e\u7f51\u5317\u4eac\u9891\u9053","publishDate":"2009-09-17","refDate":"2015-08-06","index":10,"count":"1"},{"type":"1","title":"\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf\u5f00\u59cb\u94fa\u8f68","url":"\/reference\/7792898\/f9d464afzYpC2uFe1oYxf-kBroNAJBfL2Kgw92EYX6EAq7G7Yw3wHH0xRBzgNQM8G7PKKqmewOgImJPOrYBemtKlWjnNlGbd3kL-8GtiGWl7ACxipolbaln5hWqQDJqdAA","site":"\u65b0\u534e\u7f51\u5317\u4eac\u9891\u9053","publishDate":"2009-09-29","refDate":"2015-08-06","index":11,"count":"1"},{"type":"1","title":"\u4e94\u6761\u5730\u94c1\u7ebf\u53d1\u5e03\u89c4\u5212\u516c\u544a","url":"\/reference\/7792898\/a72920NMdFdvu04CfVGg8lCXc4RAbpY7PocCHAG18nD90F1MNtHmGFud5FsReiQ2-tWp18vXmfD9Qqqo_XqYezLOxZaNe8tqp9wMTPpOhFo5HGaCmorS7x3new","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2009-10-16","refDate":"2015-08-06","index":12,"count":"1"},{"type":"1","title":"\u8f68\u9053\u4ea4\u901a\u5927\u5174\u7ebf\u89c4\u5212\u65b9\u6848\u516c\u544a","url":"\/reference\/7792898\/e766atZ6-5cvsggcnlmPu-jbptIP6MmnaeHphwNgIGc6JH1ohFbFOODhVbf6Vb6vP9pTBhI5jJBw5dhF7PVqCyfwGUdWA5wBX4FIciXR1rPIUaRQQIU-gb6ZHFNVmnBk_g55ub0dE4qt-OXNKM8VZhpdhJIJ7zWEW4L2KZL67A1Jad1fcuXMn-Ff60l5TcEKYBGuhaZyxk03HyduPZyYG2a1USg8","site":"\u5317\u4eac\u5e02\u89c4\u5212\u59d4\u5458\u4f1a","publishDate":"2009-10-14","refDate":"2015-08-06","index":13,"count":"5"},{"type":"1","title":"\u5730\u94c1\u5927\u5174\u7ebf\u6700\u957f\u53cc\u5411\u96a7\u9053\u5b9e\u73b0\u8d2f\u901a","url":"\/reference\/7792898\/0e76BM3_iaraB7hzrefUoFy14DnBT71QQfIbDVItD3Dx7gX9THHkTIhb-Znp1YqXtOoptLSRA1zbL5BTpV6u7yhCNjFl6vfHwpYNPC9IRhOq3S7wnwp3EfU","site":"\u5343\u9f99\u7f51","publishDate":"2009-10-30","refDate":"2015-08-06","index":14,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u8de8\u4eac\u5f00\u9ad8\u901f\u8def\u6865\u67b6\u8bbe\u5b8c\u6210 \u521b\u591a\u9879\u7b2c\u4e00","url":"\/reference\/7792898\/a0bajjnNP7tl1mHvuKIlm9zGB8m3sriy8xSdJVKeuyDXsOg6eaxzVRDH49Tlo0TP68CJdJQyB41Dv9ILxuLte2H3t1lA","site":"\u817e\u8baf\u65b0\u95fb","publishDate":"2009-11-08","refDate":"2015-08-06","index":15,"count":"1"},{"type":"1","title":"\u4ea6\u5e84\u7ebf\u5927\u5174\u7ebf9\u53f7\u7ebf\u516c\u793a\u7ad9\u540d 2012\u5e74\u5168\u90e8\u5f00\u901a","url":"\/reference\/7792898\/0599mt14ZXxwIG8QT8yxN-oHsAGTETAftC3r0dqup9DDdUebp659cQL66lPp_MCR2_PZkCxx8DJn02hzh_Zru4gKAmQrnlDf","site":"\u817e\u8baf\u8d22\u7ecf","publishDate":"2009-11-24","refDate":"2015-08-06","index":16,"count":"1"},{"type":"1","title":"\u5730\u94c1\u5927\u5174\u7ebf11\u8f66\u7ad9\u4e3b\u4f53\u5b8c\u5de5","url":"\/reference\/7792898\/feb1SEEwDSjwW_Fqsuv6hR8TWWN1L-V5axLmHzg8rl4pb6dCaJPogqNn5JLhBODvK-tLcz9R9ybF029wUE4O7Rx9vGKfNU4LFGvbA_d-gnTDjxQkmQ","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2009-11-25","refDate":"2015-08-06","index":17,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u7b7e\u7ea6\u4eea\u5f0f","url":"\/reference\/7792898\/c30c4m5HBZdqVj5DU870TuAVKgtcbKzhWols9apqG6xG5lv__nKGyK4AcYyUGptOwvYl4FJhzmd63_XN8EOH1m72LOZPM3QIEzRrHqZ2-ufc-gfnbTMvWjts","site":"\u5317\u4eac\u5e02\u4ea4\u901a\u59d4\u5458\u4f1a","publishDate":"2010-01-25","refDate":"2015-08-06","index":18,"count":"2"},{"type":"1","title":"\u300a\u5317\u4eac\u8f68\u9053\u4ea4\u901a\u5927\u5174\u7ebf\u59d4\u6258\u8fd0\u8425\u534f\u8bae\u300b\u548c\u300a\u5927\u5174\u7ebf\u5efa\u8bbe\u4ecb\u5165\u534f\u8bae\u300b\u5728\u5317\u4eac\u6b63\u5f0f\u7b7e\u7f72","url":"\/reference\/7792898\/bcf7-RhEhAzgqj9JT_z-Y2PbOIxEgy3WPNgHiIDappCmyuuIMUsOIDOhDxAB9LlVaO6QqccdsN1fmt6trNdDXmDUY7HEbPjjfWdCd2PV","site":"\u5317\u4eac\u4eac\u6e2f\u5730\u94c1\u6709\u9650\u516c\u53f8","publishDate":"2009-12-30","refDate":"2015-08-06","index":19,"count":"1"},{"type":"1","title":"\u8f68\u9053\u5927\u5174\u7ebf\u63d0\u524d\u6d1e\u901a ","url":"\/reference\/7792898\/18f7E6LB9lZcF0OJzreFbZ1Ei_PHcqUspOaA8q7zqnQhhLjQyXLsK00cXo_V1hLB8BnFbK9CpRqBIi1wN-LH-ERXluD32ikAVc3P08aXb7wFiwR6YT0ZWeFgHFMfSRs7iA","site":"\u65b0\u534e\u7f51\u5317\u4eac\u9891\u9053","publishDate":"2010-01-07","refDate":"2015-08-06","index":20,"count":"1"},{"type":"1","title":"9\u53f7\u7ebf\u3001\u5927\u5174\u7ebf\u6539\u7ad9\u540d","url":"\/reference\/7792898\/1efacMdI4C9vw3PZiy_ZvSQfH8nzz1TKs9MlWsVZln5HA1pahsPVmqmS-iOImd4kXbfJTkQ4399R9Nxcx-myB96jr-Cix7d4n2n_P-lDKQ8Cnai7hg","site":"\u65b0\u6d6a\u65b0\u95fb\u4e2d\u5fc3","publishDate":"2010-04-10","refDate":"2015-08-06","index":21},{"type":"1","title":"\u5317\u4eac\u5e02\u89c4\u5212\u59d4\u5458\u4f1a\u5173\u4e8e\u8f68\u9053\u4ea4\u901a9\u53f7\u7ebf\u3001\u4ea6\u5e84\u7ebf\u3001\u5927\u5174\u7ebf\u6cbf\u7ebf\u8f66\u7ad9\u547d\u540d\u516c\u4f17\u53c2\u4e0e\u610f\u89c1\u3001\u5efa\u8bae\u91c7\u4fe1\u60c5\u51b5\u7684\u901a\u544a","url":"\/reference\/7792898\/8870vs079eZ6F_J5U3sHcV87aaPsrqzjWY6f5mPFBSmmZPDmB6NX8HqO0f0QVxI98YgggpwbgmAQDd-ZWy-sVMsAkx1kHYWaYzuMLa1Xs_AMkufLANr7xdx0wMHM_60UGBftEZAPQwdI301P-7DMr6ETCxVis6wwTfibSoIL_HbIkF-bBJAEfEWNKbMXM8INc_iaLx45dERi_nrmvN1JgfBloF_9","site":"\u5317\u4eac\u5e02\u89c4\u5212\u59d4\u5458\u4f1a","publishDate":"2010-04-08","refDate":"2015-08-06","index":22,"count":"2"},{"type":"1","title":"\u4ea6\u5e84\u7ebf\u201c\u6837\u677f\u6bb5\u201d\u8f68\u9053\u4eca\u8d2f\u901a ","url":"\/reference\/7792898\/f4d8VWDwqVVN6mOH5CNyxcOQxzBHblOY5eDB73gqokBx42M63cGoQd20hg60tM04aa4s-2-2zNzjCNkEip9DEwAcGVxkm9E_2IbW5NP8n1Cb5kTlG9uPkw8fsw","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2010-04-29","refDate":"2015-08-06","index":23,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u5f00\u59cb\u7a7a\u8f7d\u8bd5\u8fd0\u884c \u5e74\u5e95\u8d2f\u901a4\u53f7\u7ebf","url":"\/reference\/7792898\/0504ghAw8mo8gqpjDiKJU5Ez7j9stvOCJ2altURdJhbMCGLrhPF3ULgAPr7N4BEhqG_rjTecLSuveEHLi7JJUzMG9ppenyTV-ushZsUeDCeTKnggxUyW6UM","site":"\u5343\u9f99\u7f51","publishDate":"2010-08-19","refDate":"2015-08-06","index":24,"count":"1"},{"type":"1","title":"4\u53f7\u7ebf\u4e0e\u5927\u5174\u7ebf\u4eca\u8d77\u8d2f\u901a\u8c03\u8bd5","url":"\/reference\/7792898\/041eSM65Z9-6qb0vh0_3acazwBK15I4xKNRu9fqIUQZPL4eHUHchADa8q_XdA1zC2mHLPAUYHSH9t-0mHvHZnfXkwpmWIIxqz0afp7Cyc9BDW3-RgVbOCGKJ3g","site":"\u6cd5\u5236\u665a\u62a5","publishDate":"2010-11-18","refDate":"2015-08-06","index":25,"count":"1"},{"type":"1","title":"\u5317\u4eac\u8f68\u9053\u4ea4\u901a\u5927\u5174\u7ebf\u8f66\u8f86\u6bb5\u5de5\u7a0b\u5f00\u59cb\u7ae3\u5de5\u9a8c\u6536","url":"\/reference\/7792898\/5085bS5ApVHsuzgoEkbANde-76KcV9R_J3eNUYRrMw-GxENSqLM-05YWjkA2xTzZGQU5bFNeKS-EYLiNj48eQkzAUYs-jx95kM0jEgaBT692CNbHe-b_WA","site":"\u5343\u9f99\u7f51","publishDate":"2010-12-03","refDate":"2015-08-06","index":26,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u3001\u4ea6\u5e84\u7ebf\u3001\u5341\u4e94\u53f7\u7ebf\u9996\u5f00\u6bb5\u3001\u660c\u5e73\u7ebf\u4e00\u671f\u3001\u623f\u5c71\u7ebf\u7b49\u4e94\u6761\u8f68\u9053\u4ea4\u901a\u65b0\u7ebf12\u670830\u65e5\u5f00\u901a\u8bd5\u8fd0\u8425","url":"\/reference\/7792898\/3c76yYnb2cINKb8hCuZHPh00nHWkpxvGfMEAr6XjOY4_a9XMN5FEV7B8IT0i9jOOWqG_RSLQOJhHzh8WLQFZM1a5pWPMLGBsMJMwYvm9RoRYg1lRVJAofmsH","site":"\u5317\u4eac\u5e02\u4ea4\u901a\u59d4\u5458\u4f1a","publishDate":"2010-12-31","refDate":"2015-08-06","index":27},{"type":"1","title":"\u7ad9\u95f4\u516c\u91cc\u6570","url":"\/reference\/7792898\/19ecBP6jmwATGCjpF50jsOZ57hUavpqf9taP8eqDZKdl7NxovmLJMiP5JNdZArvDvaNY5eXROXFPgYMOkywUs4vqgBo","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"","refDate":"2015-06-13","index":28},{"type":"1","title":"\u5217\u8f66\u65f6\u523b\u8868_\u4e58\u8f66\u6307\u5357","url":"\/reference\/7792898\/e29blWb5hMkLdzAQTMFX90XZSiS1FIVp8_fnYBwM9Qv364LTz5uzA4x0ozL5cZNPUhwKpor8qkaT2LQkHNMjTFzEyOGuZoCA1Q","site":"\u5317\u4eac\u4eac\u6e2f\u5730\u94c1\u6709\u9650\u516c\u53f8","publishDate":"2010-12-30","refDate":"2014-07-22","index":29,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u65b0\u5bab\u7ad9","url":"\/reference\/7792898\/518162gHCEQvGc8n4M46yaw5f-eyGHYmOqiLKnJHP3XyMeZVjQ_ovrCkDAJpxFOfHQ6R9CnM1cDDhjeA3XhNEJ3XstYOUbBkHV5vCKb_2aRqd7VtZ4x2goFlJ8CA","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":30,"count":"1"},{"type":"1","title":"\u5927\u5174\u7ebf\u897f\u7ea2\u95e8\u7ad9","url":"\/reference\/7792898\/f5a8G6DhvUnluoY_SBIMyeuDgAF6gmpfiZMUjN8AnXYrOvMHecqvNSQuyxmbmjLYJ7dIOakDHZEDm6EAu5XN-FOzU7DdZCDfzclx4IVkOp6prR6uzpyCujIi2LEI","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":31},{"type":"1","title":"\u5927\u5174\u7ebf\u9ad8\u7c73\u5e97\u5317\u7ad9","url":"\/reference\/7792898\/4041D2PVFPZ-MLdoCp4YDB6DImLitGmz15SoEzFtzLvWKSm4nOxcC446ktWcSmuR8qPu6YGbvB0rlo-fjaVa97uIRDnYNDYASNKpbUsE6v8OVpJg7dt04KZzZVgg","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":32},{"type":"1","title":"\u5927\u5174\u7ebf\u9ad8\u7c73\u5e97\u5357\u7ad9","url":"\/reference\/7792898\/efebpyBnTVh3aN7PBq9oTuk7SQ0o5NjD2Ryv1M1IpLQnsx8pjPonK3e2wUBwVh5bN5EZKnilWTNJ_Zn1Xa-ZgM34oAAS4GZ5hUN-q-1FyMkWzvhNR7AWInnyU_5k","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":33},{"type":"1","title":"\u5927\u5174\u7ebf\u67a3\u56ed\u7ad9","url":"\/reference\/7792898\/6ce5IDwR_qWZU8MXN3ZvZphyR1lBh_VbEqZgMxpTc2_OkASdKanYiRV35F-8T24GKv3pqS_D_D025TkO1KQBgYOw3p3wPZqAmGXN1q-0EYUu8DL2Bcy_ghHAjSvR","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":34},{"type":"1","title":"\u5927\u5174\u7ebf\u6e05\u6e90\u8def\u7ad9","url":"\/reference\/7792898\/2e53MIf6L0P2DYapfZKlpFP0hW_LaWuana6xFl7QwZwokYjRi9UB-FwIMzxBxFoihIpQWb6zxglgx9Fvd8YuBISNCY9VDjR2fl24WRf0keI4JqL5evz6oMDdjyGX","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":35},{"type":"1","title":"\u5927\u5174\u7ebf\u9ec4\u6751\u897f\u5927\u8857\u7ad9","url":"\/reference\/7792898\/b81f16Dj5i2IpNhBRfRFE_TOEuPizgP5SlAmzT31k1hEtObMyT-IfjdxKuhzXJXPzuk98T4yDmGR0Bn5Z-tctwCABxCwwkAiEwCUsy7gMHQaXuVMVnnTz9YLpMw7","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":36},{"type":"1","title":"\u5927\u5174\u7ebf\u9ec4\u6751\u706b\u8f66\u7ad9","url":"\/reference\/7792898\/c07fOkJYsBExhzrSX9yyxrQ3bQSORjXBVPcjxhALaNGCYCm4LI40Ko9zbl-sSzrJAKNs-ul758SlV-6XCWhClfbs33K2tajyyo0ZXLxo0MsHAGiT9QkkWNbJCXnf","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":37},{"type":"1","title":"\u5927\u5174\u7ebf\u4e49\u548c\u5e84\u7ad9","url":"\/reference\/7792898\/808aGaCi6VvinzJsWWrwW5g2E0DK5xK6BsV7aTvNksECHYTIZfew9-HNsRL5kFolxvLvhdUkHufOgXzaMOOoDDKlv0P_uPLk_MOb1vXZ1A7UMU_0wZ2pu6XCbF_k","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":38},{"type":"1","title":"\u5927\u5174\u7ebf\u751f\u7269\u533b\u836f\u57fa\u5730\u7ad9","url":"\/reference\/7792898\/9675A_AI5GDj8IehREP7wjCcCwL_WA3LNCm8Smt53blSPOgAhuiP2yGzpablJ5-SUvo1Qd5M-3xrA_2Q5eERo_kMEWFHgHw_l8OEEd7nAc6te78htzlasRVhfycL","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":39},{"type":"1","title":"\u5927\u5174\u7ebf\u5929\u5bab\u9662\u7ad9","url":"\/reference\/7792898\/97b9d4VM_52aEhWn8C9PKUKBs4ElujET59YxV_133C5nM7lGbhQCpliJ0zDgXx3vFzQjJDbQqXn8YQx8Hm-MqLLFDm_hRkjLdamof2ZPps70L4ZObIhtqOHWyliZ","site":"\u5317\u4eac\u5730\u94c1\u5b98\u65b9\u7f51\u7ad9","publishDate":"2013-08-22","refDate":"2014-07-22","index":40,"count":"1"},{"type":"1","title":"\u8d70\u8fd1\u8f68\u9053\u4ea4\u901a\u5927\u5174\u7ebf","url":"\/reference\/7792898\/c63detQeAjECJlikxGNYimcfqB_CXsmLYP-cBJTof5-gsYbiVvUzqENNVRbaNnUSZ-585OpL4PFn-576gAniA6L6i591YstxmOP7CvuJLrZ4X5mrRtqsVbYE","site":"\u5317\u4eac\u5e02\u4ea4\u901a\u59d4\u5458\u4f1a","publishDate":"2010-10-29","refDate":"2015-09-01","index":41,"count":"4"},{"type":"1","title":"\u4eac\u6e2f\u5730\u94c1\u589e\u8d2d\u5217\u8f66 \u5927\u5174\u7ebf\u65e9\u9ad8\u5cf0\u884c\u8f66\u95f4\u9694\u7f29\u77ed\u81f33\u5206\u949f","url":"\/reference\/7792898\/3c6ad8Lh55F8huiZ1PaUb2V6so3i11UTRqvJayTeyRX7ZsFPbILcWUmnCx9z1mlyUacAFzWrunZvPPMLpMmoMrhu6Z-DU9h_ifk4rVjbGZqKGttRas8F3N8","site":"\u4eba\u6c11\u7f51","publishDate":"2013-12-26","refDate":"2015-09-01","index":42},{"type":"1","title":"\u3010PDF\u6587\u4ef6\u3011\u300a\u516c\u5171\u4ea4\u901a\u5ba2\u8fd0\u6807\u5fd7 \u7b2c2\u90e8\u5206\uff1a\u8f68\u9053\u4ea4\u901a\u300bDB11T 657.2-2015","url":"\/reference\/7792898\/52392zzlGNGmC23sL8TuXtm5Ef-Vri-Ttt1ALMICky6EM5ZWHC1yKjjas5VEL3PpihmZvq1e1DSlumcmsYk_b8U-E7KlDQOareBpWS8FfT-j8OVViBg-My3E76uXRHC5CdlPxrU","site":"\u5317\u4eac\u5e02\u4ea4\u901a\u59d4\u5458\u4f1a","publishDate":"2016-05-04","refDate":"2016-08-21","index":43,"count":"2"},{"type":"1","title":"\u7968\u52a1\u4fe1\u606f","url":"\/reference\/7792898\/0026bpuJ83VFMTX2C9XxhW-GrjJtGl1iuYCwrcIY--g9t0w7dY53QW6-XdNUA7wIA7Jd8z5BXi3gfWIL963A4ZtlhZs","site":"\u5317\u4eac\u4eac\u6e2f\u5730\u94c1\u6709\u9650\u516c\u53f8","publishDate":"","refDate":"2015-09-01","index":44},{"type":"1","title":"\u5317\u4eac\u5e02\u53d1\u5c55\u548c\u6539\u9769\u59d4\u5458\u4f1a\u5317\u4eac\u5e02\u4ea4\u901a\u59d4\u5458\u4f1a\u5317\u4eac\u5e02\u8d22\u653f\u5c40\u5173\u4e8e\u8c03\u6574\u672c\u5e02\u516c\u5171\u4ea4\u901a\u4ef7\u683c\u7684\u901a\u77e5","url":"\/reference\/7792898\/59e3GyguLm05VlLnccuKF9asqHJLsj5LXh6lWp_NY_JGvwW30ZombG8ahDg5-eXIGCLVtU6adMB0Di4Q-Y30xT3OX4oGHC2FL-eprw","site":"\u5317\u4eac\u5e02\u53d1\u5c55\u548c\u6539\u9769\u59d4\u5458\u4f1a","publishDate":"2014-11-27","refDate":"2015-09-01","index":45}]
+			});
+		});
+	}();
+!function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            7792898,
+            '北京地铁大兴线'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"03557a8f99d85d9227d3e44e"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "7792898",
+                lemmaTitle: "北京地铁大兴线",
+                encodeLemmaTitle: "%B1%B1%BE%A9%B5%D8%CC%FA%B4%F3%D0%CB%CF%DF",
+                adManager: {"discussionHelpEdit":0}
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '北京地铁大兴线',
+                adManager: {"discussionHelpEdit":0}
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('北京地铁大兴线') + '/' + '7792898';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=7792898';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-top: 10px;margin-bottom: 20px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=7792898&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;margin-top: 10px;">' 
+                        + '对不起，你暂时没有权限编辑该词条</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            key: 'join',
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">反馈词条问题，参与百科共建</span>'
+                        },
+                        {
+                            text: '<span style="font-size: 14px;text-align: center;vertical-align: middle;display: table-cell;">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=7792898&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            } else if (btnKey === 'join') {
+                                window.location.href = '/feedback';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('7792898', '北京地铁大兴线', '北京地铁大兴线', '138551251', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
+    feedback({el: '#J-bk-feedback-main',
+      proData: {
+        "extend_feedback_channel": null
+      }
+    });
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: false,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"1165558",
+            subLemmaId:"1165558",
+            newLemmaId:"7792898"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require.async(['wiki-lemma:widget/tools/newSideShare/qzopensl']);
+    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '北京地铁大兴线',
+            desc: "\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u5927\u5174\u7ebf\u201d\uff09\uff0c\u662f\u5317\u4eac\u5730\u94c14\u53f7\u7ebf\u5411\u5927\u5174\u533a\u7684\u5ef6\u957f\u7ebf\uff0c\u8fde\u63a5\u5317\u4eac\u5e02\u533a\u548c\u5927\u5174\u65b0\u57ce\uff0c\u7531\u5317\u4eac\u4eac\u6e2f\u5730\u94c1\u6709\u9650\u516c\u53f8\u8d1f\u8d23\u8fd0\u8425\u3002\u8be5\u7ebf\u4e8e2010\u5e7412\u670830\u65e5\u5168\u7ebf\u5f00\u901a\uff0c\u5e76\u4e0e4\u53f7\u7ebf\u5b9e\u73b0\u8d2f\u901a\u8fd0\u8425\u3002\u867d\u7136\u8d2f\u901a\u8fd0\u8425\uff0c\u4f46\u662f\u201c\u5927\u5174\u7ebf\u201d\u540d\u79f0\u4e0d\u4f1a\u6d88\u5931\uff0c\u4ecd\u662f\u8fd9\u4e00\u6bb5\u8def\u7ebf\u7684\u540d\u79f0\u3002\u622a\u81f32015\u5e7412\u670826\u65e5\uff0c\u8be5\u7ebf\u8fd0\u8425\u533a\u6bb5\u4e3a\u516c\u76ca\u897f\u6865\u7ad9\u81f3\u5929\u5bab\u9662\u7ad9\uff0c\u9014\u7ecf\u4e30\u53f0\u533a\u548c\u5927\u5174\u533a\uff0c\u8fd0\u8425\u91cc\u7a0b21.8\u5343\u7c73\uff08\u4e24\u7ebf\u8d2f\u901a\u91cc\u7a0b\u5171\u8ba150\u5343\u7c73\uff09\uff0c\u5171\u5f00\u653e11\u5ea7\u8f66\u7ad9\uff08\u4e24\u6761\u7ebf\u8def\u5171\u8ba135\u5ea7\u8f66\u7ad9\uff0c\u5176\u4e2d\u6362\u4e58\u8f66\u7ad910\u5ea7\uff09\uff0c\u62e5\u6709\u8f66\u8f86\u57fa\u57301\u5ea7\uff08\u5357\u5146\u8def\u8f66\u8f86\u6bb5\uff09\u3002\u6362\u4e58\u8f66\u7ad9\u5168\u90e8\u57284\u53f7\u7ebf\u533a\u6bb5\uff0c2019\u5e74\u8be5\u533a\u6bb5\u4e2d\u7684\u65b0\u5bab\u7ad9\u4e5f\u5c06\u6362\u4e5819\u53f7\u7ebf\u3002",
+            pic: 'https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=a6b46d0b5ffbb2fb342b5f14774b2043\/5ab5c9ea15ce36d32a63e66630f33a87e950b105.jpg',
+            url: '',
+            qqPic: 'https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D415%2C415%2C50\/sign=63d8813ec6bf6c81f7627fa8da038504\/5ab5c9ea15ce36d32a63e66630f33a87e950b105.jpg',
+            newLemmaId: '7792898',
+            lemmaTitle: '北京地铁大兴线'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "1165558",
+            newLemmaId: "7792898",
+            subLemmaId: "1165558",
+            lemmaTitle: "北京地铁大兴线"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [{"tagId":0,"tagName":"\u793e\u4f1a"}];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 7792898,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                                    } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                                        require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf_\u767e\u5ea6\u767e\u79d1\u3011\u5317\u4eac\u5730\u94c1\u5927\u5174\u7ebf\uff08\u4ee5\u4e0b\u7b80\u79f0\u201c\u5927\u5174\u7ebf\u201d\uff09\uff0c\u662f\u5317\u4eac\u5730\u94c14\u53f7\u7ebf\u5411\u5927\u5174\u533a\u7684\u5ef6\u957f\u7ebf\uff0c\u8fde\u63a5\u5317\u4eac\u5e02\u533a\u548c\u5927\u5174\u65b0\u57ce\uff0c\u7531\u5317\u4eac\u4eac\u6e2f\u5730\u94c1\u6709\u9650\u516c\u53f8\u8d1f\u8d23\u8fd0\u8425\u3002\u8be5\u7ebf\u4e8e2010\u5e7412\u670830\u65e5\u5168\u7ebf\u5f00\u901a\uff0c\u5e76\u4e0e4\u53f7\u7ebf\u5b9e\u73b0\u8d2f\u901a\u8fd0\u8425\u3002\u867d\u7136\u8d2f\u901a\u8fd0\u8425\uff0c\u4f46\u662f\u201c\u5927\u5174\u7ebf\u201d\u540d\u79f0\u4e0d\u4f1a\u6d88\u5931\uff0c\u4ecd\u662f\u8fd9\u4e00\u6bb5\u8def\u7ebf\u7684\u540d\u79f0\u3002\u622a\u81f32015\u5e7412\u670826\u65e5\uff0c\u8be5\u7ebf\u8fd0\u8425\u533a\u6bb5\u4e3a\u516c\u76ca\u897f\u6865\u7ad9\u81f3\u5929\u5bab\u9662\u7ad9\uff0c\u9014\u7ecf\u4e30\u53f0\u533a\u548c\u5927\u5174\u533a\uff0c\u8fd0\u8425\u91cc\u7a0b21.8\u5343\u7c73\uff08\u4e24\u7ebf\u8d2f\u901a\u91cc\u7a0b\u5171\u8ba150\u5343\u7c73\uff09\uff0c\u5171\u5f00\u653e11\u5ea7\u8f66\u7ad9\uff08\u4e24\u6761\u7ebf\u8def\u5171\u8ba135\u5ea7\u8f66\u7ad9\uff0c\u5176\u4e2d\u6362\u4e58\u8f66\u7ad910\u5ea7\uff09\uff0c\u62e5\u6709\u8f66\u8f86\u57fa\u57301\u5ea7\uff08\u5357\u5146\u8def\u8f66\u8f86\u6bb5\uff09\u3002\u6362\u4e58\u8f66\u7ad9\u5168\u90e8\u57284\u53f7\u7ebf\u533a\u6bb5\uff0c2019\u5e74\u8be5\u533a\u6bb5\u4e2d\u7684\u65b0\u5bab\u7ad9\u4e5f\u5c06\u6362\u4e5819\u53f7\u7ebf\u3002.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF\/7792898',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%A4%A7%E5%85%B4%E7%BA%BF' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=18107" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>
