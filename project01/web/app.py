@@ -1,6 +1,7 @@
 from flask import Flask, escape, request
+from flask import jsonify
 import sys
-sys.path.append('../model/')
+sys.path.append('./model/')
 from model import get_speeches
 
 app = Flask(__name__)
@@ -12,4 +13,6 @@ def hello():
 
 @app.route('/speeches')
 def speech():
-    return str(get_speeches()[0])
+    speeches = get_speeches();
+    print(speeches)
+    return jsonify(speeches) 
