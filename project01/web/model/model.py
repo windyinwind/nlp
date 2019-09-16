@@ -1,6 +1,5 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, func
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.sql.expression import func
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import sessionmaker
 '''
@@ -26,4 +25,12 @@ def get_speeches(speech_min_len = 10):
     speeches = [{'person':speech.Person, 'speech':speech.Speech} for speech in rs if len(speech.Speech) > speech_min_len]
     return  speeches
 
+def get_persons():
 
+    rs = ses.query(Speech.Person, func.count(Speech.Person)).group_by(Speech.Person).all()
+    person_count = [{'text':speech[0], 'count':speech[1]} for speech in rs if speech[1] > 70]
+    return  person_count
+
+def speeches_of(person):
+    speeches = ses.query(Speech.Speech).filter(Speech.Person == person).filter(func.length(Speech.Speech) > 10).all()
+    return  speeches
