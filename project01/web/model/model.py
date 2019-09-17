@@ -6,7 +6,7 @@ from sqlalchemy.orm import sessionmaker
 brew install mysql-connector-c
 pip install mysqlclient
 '''
-eng = create_engine('mysql+mysqldb://root:weiliang123@localhost/nlp?charset=utf8')
+eng = create_engine('mysql+mysqldb://root:edanz@localhost/nlp?charset=utf8')
 Base = declarative_base()
 Session = sessionmaker(bind=eng)
 ses = Session()

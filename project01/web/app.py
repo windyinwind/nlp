@@ -39,6 +39,7 @@ def speach_of_person():
     print(name)
     speeches = speeches_of(name)
     speech = random.choice(speeches)
+    print(speech[0])
     return speech[0]
 
 @app.route('/persons')

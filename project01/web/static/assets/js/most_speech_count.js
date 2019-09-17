@@ -32,10 +32,11 @@ function create_bubble_chart(items) {
               },
               attr: {dy: "65px"},
               centralClick: function(item) {
-		      fetch('/speech_of_person?name='+item.text).then(function(text){
-			   console.log(text);
-		      	   //alert(text);
-		      })
+                fetch('/speech_of_person?name='+item.text).then(function(text){
+                    return text.text()
+                }).then(function(speech){
+                    $('#speech').html(speech).modal();
+                })
               }
             }
           },
