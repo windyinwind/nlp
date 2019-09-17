@@ -1,0 +1,4037 @@
+text {
+    font: 8px sans-serif;
+    fill: #fff;
+    transition: all 0.3s;
+}
+
+.label {
+    fill: #000;
+}
+
+.chart {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.chart-svg {
+    width: 100%;
+    height: 100%;
+}
+
+.node:nth-child(1) .graph {
+    animation-delay: 0.075s;
+}
+
+.node:nth-child(2) .graph {
+    animation-delay: 0.15s;
+}
+
+.node:nth-child(3) .graph {
+    animation-delay: 0.225s;
+}
+
+.node:nth-child(4) .graph {
+    animation-delay: 0.3s;
+}
+
+.node:nth-child(5) .graph {
+    animation-delay: 0.375s;
+}
+
+.node:nth-child(6) .graph {
+    animation-delay: 0.45s;
+}
+
+.node:nth-child(7) .graph {
+    animation-delay: 0.525s;
+}
+
+.node:nth-child(8) .graph {
+    animation-delay: 0.6s;
+}
+
+.node:nth-child(9) .graph {
+    animation-delay: 0.675s;
+}
+
+.node:nth-child(10) .graph {
+    animation-delay: 0.75s;
+}
+
+.node:nth-child(11) .graph {
+    animation-delay: 0.825s;
+}
+
+.node:nth-child(12) .graph {
+    animation-delay: 0.9s;
+}
+
+.node:nth-child(13) .graph {
+    animation-delay: 0.975s;
+}
+
+.node:nth-child(14) .graph {
+    animation-delay: 1.05s;
+}
+
+.node:nth-child(15) .graph {
+    animation-delay: 1.125s;
+}
+
+.node:nth-child(16) .graph {
+    animation-delay: 1.2s;
+}
+
+.node:nth-child(17) .graph {
+    animation-delay: 1.275s;
+}
+
+.node:nth-child(18) .graph {
+    animation-delay: 1.35s;
+}
+
+.node:nth-child(19) .graph {
+    animation-delay: 1.425s;
+}
+
+.node:nth-child(20) .graph {
+    animation-delay: 1.5s;
+}
+
+.node:nth-child(21) .graph {
+    animation-delay: 1.575s;
+}
+
+.node:nth-child(22) .graph {
+    animation-delay: 1.65s;
+}
+
+.node:nth-child(23) .graph {
+    animation-delay: 1.725s;
+}
+
+.node:nth-child(24) .graph {
+    animation-delay: 1.8s;
+}
+
+.node:nth-child(25) .graph {
+    animation-delay: 1.875s;
+}
+
+.node:nth-child(26) .graph {
+    animation-delay: 1.95s;
+}
+
+.node:nth-child(27) .graph {
+    animation-delay: 2.025s;
+}
+
+.node:nth-child(28) .graph {
+    animation-delay: 2.1s;
+}
+
+.node:nth-child(29) .graph {
+    animation-delay: 2.175s;
+}
+
+.node:nth-child(30) .graph {
+    animation-delay: 2.25s;
+}
+
+.node:nth-child(31) .graph {
+    animation-delay: 2.325s;
+}
+
+.node:nth-child(32) .graph {
+    animation-delay: 2.4s;
+}
+
+.node:nth-child(33) .graph {
+    animation-delay: 2.475s;
+}
+
+.node:nth-child(34) .graph {
+    animation-delay: 2.55s;
+}
+
+.node:nth-child(35) .graph {
+    animation-delay: 2.625s;
+}
+
+.node:nth-child(36) .graph {
+    animation-delay: 2.7s;
+}
+
+.node:nth-child(37) .graph {
+    animation-delay: 2.775s;
+}
+
+.node:nth-child(38) .graph {
+    animation-delay: 2.85s;
+}
+
+.node:nth-child(39) .graph {
+    animation-delay: 2.925s;
+}
+
+.node:nth-child(40) .graph {
+    animation-delay: 3s;
+}
+
+.node:nth-child(41) .graph {
+    animation-delay: 3.075s;
+}
+
+.node:nth-child(42) .graph {
+    animation-delay: 3.15s;
+}
+
+.node:nth-child(43) .graph {
+    animation-delay: 3.225s;
+}
+
+.node:nth-child(44) .graph {
+    animation-delay: 3.3s;
+}
+
+.node:nth-child(45) .graph {
+    animation-delay: 3.375s;
+}
+
+.node:nth-child(46) .graph {
+    animation-delay: 3.45s;
+}
+
+.node:nth-child(47) .graph {
+    animation-delay: 3.525s;
+}
+
+.node:nth-child(48) .graph {
+    animation-delay: 3.6s;
+}
+
+.node:nth-child(49) .graph {
+    animation-delay: 3.675s;
+}
+
+.node:nth-child(50) .graph {
+    animation-delay: 3.75s;
+}
+
+.node:nth-child(51) .graph {
+    animation-delay: 3.825s;
+}
+
+.node:nth-child(52) .graph {
+    animation-delay: 3.9s;
+}
+
+.node:nth-child(53) .graph {
+    animation-delay: 3.975s;
+}
+
+.node:nth-child(54) .graph {
+    animation-delay: 4.05s;
+}
+
+.node:nth-child(55) .graph {
+    animation-delay: 4.125s;
+}
+
+.node:nth-child(56) .graph {
+    animation-delay: 4.2s;
+}
+
+.node:nth-child(57) .graph {
+    animation-delay: 4.275s;
+}
+
+.node:nth-child(58) .graph {
+    animation-delay: 4.35s;
+}
+
+.node:nth-child(59) .graph {
+    animation-delay: 4.425s;
+}
+
+.node:nth-child(60) .graph {
+    animation-delay: 4.5s;
+}
+
+.node:nth-child(61) .graph {
+    animation-delay: 4.575s;
+}
+
+.node:nth-child(62) .graph {
+    animation-delay: 4.65s;
+}
+
+.node:nth-child(63) .graph {
+    animation-delay: 4.725s;
+}
+
+.node:nth-child(64) .graph {
+    animation-delay: 4.8s;
+}
+
+.node:nth-child(65) .graph {
+    animation-delay: 4.875s;
+}
+
+.node:nth-child(66) .graph {
+    animation-delay: 4.95s;
+}
+
+.node:nth-child(67) .graph {
+    animation-delay: 5.025s;
+}
+
+.node:nth-child(68) .graph {
+    animation-delay: 5.1s;
+}
+
+.node:nth-child(69) .graph {
+    animation-delay: 5.175s;
+}
+
+.node:nth-child(70) .graph {
+    animation-delay: 5.25s;
+}
+
+.node:nth-child(71) .graph {
+    animation-delay: 5.325s;
+}
+
+.node:nth-child(72) .graph {
+    animation-delay: 5.4s;
+}
+
+.node:nth-child(73) .graph {
+    animation-delay: 5.475s;
+}
+
+.node:nth-child(74) .graph {
+    animation-delay: 5.55s;
+}
+
+.node:nth-child(75) .graph {
+    animation-delay: 5.625s;
+}
+
+.node:nth-child(76) .graph {
+    animation-delay: 5.7s;
+}
+
+.node:nth-child(77) .graph {
+    animation-delay: 5.775s;
+}
+
+.node:nth-child(78) .graph {
+    animation-delay: 5.85s;
+}
+
+.node:nth-child(79) .graph {
+    animation-delay: 5.925s;
+}
+
+.node:nth-child(80) .graph {
+    animation-delay: 6s;
+}
+
+.node:nth-child(81) .graph {
+    animation-delay: 6.075s;
+}
+
+.node:nth-child(82) .graph {
+    animation-delay: 6.15s;
+}
+
+.node:nth-child(83) .graph {
+    animation-delay: 6.225s;
+}
+
+.node:nth-child(84) .graph {
+    animation-delay: 6.3s;
+}
+
+.node:nth-child(85) .graph {
+    animation-delay: 6.375s;
+}
+
+.node:nth-child(86) .graph {
+    animation-delay: 6.45s;
+}
+
+.node:nth-child(87) .graph {
+    animation-delay: 6.525s;
+}
+
+.node:nth-child(88) .graph {
+    animation-delay: 6.6s;
+}
+
+.node:nth-child(89) .graph {
+    animation-delay: 6.675s;
+}
+
+.node:nth-child(90) .graph {
+    animation-delay: 6.75s;
+}
+
+.node:nth-child(91) .graph {
+    animation-delay: 6.825s;
+}
+
+.node:nth-child(92) .graph {
+    animation-delay: 6.9s;
+}
+
+.node:nth-child(93) .graph {
+    animation-delay: 6.975s;
+}
+
+.node:nth-child(94) .graph {
+    animation-delay: 7.05s;
+}
+
+.node:nth-child(95) .graph {
+    animation-delay: 7.125s;
+}
+
+.node:nth-child(96) .graph {
+    animation-delay: 7.2s;
+}
+
+.node:nth-child(97) .graph {
+    animation-delay: 7.275s;
+}
+
+.node:nth-child(98) .graph {
+    animation-delay: 7.35s;
+}
+
+.node:nth-child(99) .graph {
+    animation-delay: 7.425s;
+}
+
+.node:nth-child(100) .graph {
+    animation-delay: 7.5s;
+}
+
+.node:nth-child(101) .graph {
+    animation-delay: 7.575s;
+}
+
+.node:nth-child(102) .graph {
+    animation-delay: 7.65s;
+}
+
+.node:nth-child(103) .graph {
+    animation-delay: 7.725s;
+}
+
+.node:nth-child(104) .graph {
+    animation-delay: 7.8s;
+}
+
+.node:nth-child(105) .graph {
+    animation-delay: 7.875s;
+}
+
+.node:nth-child(106) .graph {
+    animation-delay: 7.95s;
+}
+
+.node:nth-child(107) .graph {
+    animation-delay: 8.025s;
+}
+
+.node:nth-child(108) .graph {
+    animation-delay: 8.1s;
+}
+
+.node:nth-child(109) .graph {
+    animation-delay: 8.175s;
+}
+
+.node:nth-child(110) .graph {
+    animation-delay: 8.25s;
+}
+
+.node:nth-child(111) .graph {
+    animation-delay: 8.325s;
+}
+
+.node:nth-child(112) .graph {
+    animation-delay: 8.4s;
+}
+
+.node:nth-child(113) .graph {
+    animation-delay: 8.475s;
+}
+
+.node:nth-child(114) .graph {
+    animation-delay: 8.55s;
+}
+
+.node:nth-child(115) .graph {
+    animation-delay: 8.625s;
+}
+
+.node:nth-child(116) .graph {
+    animation-delay: 8.7s;
+}
+
+.node:nth-child(117) .graph {
+    animation-delay: 8.775s;
+}
+
+.node:nth-child(118) .graph {
+    animation-delay: 8.85s;
+}
+
+.node:nth-child(119) .graph {
+    animation-delay: 8.925s;
+}
+
+.node:nth-child(120) .graph {
+    animation-delay: 9s;
+}
+
+.node:nth-child(121) .graph {
+    animation-delay: 9.075s;
+}
+
+.node:nth-child(122) .graph {
+    animation-delay: 9.15s;
+}
+
+.node:nth-child(123) .graph {
+    animation-delay: 9.225s;
+}
+
+.node:nth-child(124) .graph {
+    animation-delay: 9.3s;
+}
+
+.node:nth-child(125) .graph {
+    animation-delay: 9.375s;
+}
+
+.node:nth-child(126) .graph {
+    animation-delay: 9.45s;
+}
+
+.node:nth-child(127) .graph {
+    animation-delay: 9.525s;
+}
+
+.node:nth-child(128) .graph {
+    animation-delay: 9.6s;
+}
+
+.node:nth-child(129) .graph {
+    animation-delay: 9.675s;
+}
+
+.node:nth-child(130) .graph {
+    animation-delay: 9.75s;
+}
+
+.node:nth-child(131) .graph {
+    animation-delay: 9.825s;
+}
+
+.node:nth-child(132) .graph {
+    animation-delay: 9.9s;
+}
+
+.node:nth-child(133) .graph {
+    animation-delay: 9.975s;
+}
+
+.node:nth-child(134) .graph {
+    animation-delay: 10.05s;
+}
+
+.node:nth-child(135) .graph {
+    animation-delay: 10.125s;
+}
+
+.node:nth-child(136) .graph {
+    animation-delay: 10.2s;
+}
+
+.node:nth-child(137) .graph {
+    animation-delay: 10.275s;
+}
+
+.node:nth-child(138) .graph {
+    animation-delay: 10.35s;
+}
+
+.node:nth-child(139) .graph {
+    animation-delay: 10.425s;
+}
+
+.node:nth-child(140) .graph {
+    animation-delay: 10.5s;
+}
+
+.node:nth-child(141) .graph {
+    animation-delay: 10.575s;
+}
+
+.node:nth-child(142) .graph {
+    animation-delay: 10.65s;
+}
+
+.node:nth-child(143) .graph {
+    animation-delay: 10.725s;
+}
+
+.node:nth-child(144) .graph {
+    animation-delay: 10.8s;
+}
+
+.node:nth-child(145) .graph {
+    animation-delay: 10.875s;
+}
+
+.node:nth-child(146) .graph {
+    animation-delay: 10.95s;
+}
+
+.node:nth-child(147) .graph {
+    animation-delay: 11.025s;
+}
+
+.node:nth-child(148) .graph {
+    animation-delay: 11.1s;
+}
+
+.node:nth-child(149) .graph {
+    animation-delay: 11.175s;
+}
+
+.node:nth-child(150) .graph {
+    animation-delay: 11.25s;
+}
+
+.node:nth-child(151) .graph {
+    animation-delay: 11.325s;
+}
+
+.node:nth-child(152) .graph {
+    animation-delay: 11.4s;
+}
+
+.node:nth-child(153) .graph {
+    animation-delay: 11.475s;
+}
+
+.node:nth-child(154) .graph {
+    animation-delay: 11.55s;
+}
+
+.node:nth-child(155) .graph {
+    animation-delay: 11.625s;
+}
+
+.node:nth-child(156) .graph {
+    animation-delay: 11.7s;
+}
+
+.node:nth-child(157) .graph {
+    animation-delay: 11.775s;
+}
+
+.node:nth-child(158) .graph {
+    animation-delay: 11.85s;
+}
+
+.node:nth-child(159) .graph {
+    animation-delay: 11.925s;
+}
+
+.node:nth-child(160) .graph {
+    animation-delay: 12s;
+}
+
+.node:nth-child(161) .graph {
+    animation-delay: 12.075s;
+}
+
+.node:nth-child(162) .graph {
+    animation-delay: 12.15s;
+}
+
+.node:nth-child(163) .graph {
+    animation-delay: 12.225s;
+}
+
+.node:nth-child(164) .graph {
+    animation-delay: 12.3s;
+}
+
+.node:nth-child(165) .graph {
+    animation-delay: 12.375s;
+}
+
+.node:nth-child(166) .graph {
+    animation-delay: 12.45s;
+}
+
+.node:nth-child(167) .graph {
+    animation-delay: 12.525s;
+}
+
+.node:nth-child(168) .graph {
+    animation-delay: 12.6s;
+}
+
+.node:nth-child(169) .graph {
+    animation-delay: 12.675s;
+}
+
+.node:nth-child(170) .graph {
+    animation-delay: 12.75s;
+}
+
+.node:nth-child(171) .graph {
+    animation-delay: 12.825s;
+}
+
+.node:nth-child(172) .graph {
+    animation-delay: 12.9s;
+}
+
+.node:nth-child(173) .graph {
+    animation-delay: 12.975s;
+}
+
+.node:nth-child(174) .graph {
+    animation-delay: 13.05s;
+}
+
+.node:nth-child(175) .graph {
+    animation-delay: 13.125s;
+}
+
+.node:nth-child(176) .graph {
+    animation-delay: 13.2s;
+}
+
+.node:nth-child(177) .graph {
+    animation-delay: 13.275s;
+}
+
+.node:nth-child(178) .graph {
+    animation-delay: 13.35s;
+}
+
+.node:nth-child(179) .graph {
+    animation-delay: 13.425s;
+}
+
+.node:nth-child(180) .graph {
+    animation-delay: 13.5s;
+}
+
+.node:nth-child(181) .graph {
+    animation-delay: 13.575s;
+}
+
+.node:nth-child(182) .graph {
+    animation-delay: 13.65s;
+}
+
+.node:nth-child(183) .graph {
+    animation-delay: 13.725s;
+}
+
+.node:nth-child(184) .graph {
+    animation-delay: 13.8s;
+}
+
+.node:nth-child(185) .graph {
+    animation-delay: 13.875s;
+}
+
+.node:nth-child(186) .graph {
+    animation-delay: 13.95s;
+}
+
+.node:nth-child(187) .graph {
+    animation-delay: 14.025s;
+}
+
+.node:nth-child(188) .graph {
+    animation-delay: 14.1s;
+}
+
+.node:nth-child(189) .graph {
+    animation-delay: 14.175s;
+}
+
+.node:nth-child(190) .graph {
+    animation-delay: 14.25s;
+}
+
+.node:nth-child(191) .graph {
+    animation-delay: 14.325s;
+}
+
+.node:nth-child(192) .graph {
+    animation-delay: 14.4s;
+}
+
+.node:nth-child(193) .graph {
+    animation-delay: 14.475s;
+}
+
+.node:nth-child(194) .graph {
+    animation-delay: 14.55s;
+}
+
+.node:nth-child(195) .graph {
+    animation-delay: 14.625s;
+}
+
+.node:nth-child(196) .graph {
+    animation-delay: 14.7s;
+}
+
+.node:nth-child(197) .graph {
+    animation-delay: 14.775s;
+}
+
+.node:nth-child(198) .graph {
+    animation-delay: 14.85s;
+}
+
+.node:nth-child(199) .graph {
+    animation-delay: 14.925s;
+}
+
+.node:nth-child(200) .graph {
+    animation-delay: 15s;
+}
+
+.node:nth-child(201) .graph {
+    animation-delay: 15.075s;
+}
+
+.node:nth-child(202) .graph {
+    animation-delay: 15.15s;
+}
+
+.node:nth-child(203) .graph {
+    animation-delay: 15.225s;
+}
+
+.node:nth-child(204) .graph {
+    animation-delay: 15.3s;
+}
+
+.node:nth-child(205) .graph {
+    animation-delay: 15.375s;
+}
+
+.node:nth-child(206) .graph {
+    animation-delay: 15.45s;
+}
+
+.node:nth-child(207) .graph {
+    animation-delay: 15.525s;
+}
+
+.node:nth-child(208) .graph {
+    animation-delay: 15.6s;
+}
+
+.node:nth-child(209) .graph {
+    animation-delay: 15.675s;
+}
+
+.node:nth-child(210) .graph {
+    animation-delay: 15.75s;
+}
+
+.node:nth-child(211) .graph {
+    animation-delay: 15.825s;
+}
+
+.node:nth-child(212) .graph {
+    animation-delay: 15.9s;
+}
+
+.node:nth-child(213) .graph {
+    animation-delay: 15.975s;
+}
+
+.node:nth-child(214) .graph {
+    animation-delay: 16.05s;
+}
+
+.node:nth-child(215) .graph {
+    animation-delay: 16.125s;
+}
+
+.node:nth-child(216) .graph {
+    animation-delay: 16.2s;
+}
+
+.node:nth-child(217) .graph {
+    animation-delay: 16.275s;
+}
+
+.node:nth-child(218) .graph {
+    animation-delay: 16.35s;
+}
+
+.node:nth-child(219) .graph {
+    animation-delay: 16.425s;
+}
+
+.node:nth-child(220) .graph {
+    animation-delay: 16.5s;
+}
+
+.node:nth-child(221) .graph {
+    animation-delay: 16.575s;
+}
+
+.node:nth-child(222) .graph {
+    animation-delay: 16.65s;
+}
+
+.node:nth-child(223) .graph {
+    animation-delay: 16.725s;
+}
+
+.node:nth-child(224) .graph {
+    animation-delay: 16.8s;
+}
+
+.node:nth-child(225) .graph {
+    animation-delay: 16.875s;
+}
+
+.node:nth-child(226) .graph {
+    animation-delay: 16.95s;
+}
+
+.node:nth-child(227) .graph {
+    animation-delay: 17.025s;
+}
+
+.node:nth-child(228) .graph {
+    animation-delay: 17.1s;
+}
+
+.node:nth-child(229) .graph {
+    animation-delay: 17.175s;
+}
+
+.node:nth-child(230) .graph {
+    animation-delay: 17.25s;
+}
+
+.node:nth-child(231) .graph {
+    animation-delay: 17.325s;
+}
+
+.node:nth-child(232) .graph {
+    animation-delay: 17.4s;
+}
+
+.node:nth-child(233) .graph {
+    animation-delay: 17.475s;
+}
+
+.node:nth-child(234) .graph {
+    animation-delay: 17.55s;
+}
+
+.node:nth-child(235) .graph {
+    animation-delay: 17.625s;
+}
+
+.node:nth-child(236) .graph {
+    animation-delay: 17.7s;
+}
+
+.node:nth-child(237) .graph {
+    animation-delay: 17.775s;
+}
+
+.node:nth-child(238) .graph {
+    animation-delay: 17.85s;
+}
+
+.node:nth-child(239) .graph {
+    animation-delay: 17.925s;
+}
+
+.node:nth-child(240) .graph {
+    animation-delay: 18s;
+}
+
+.node:nth-child(241) .graph {
+    animation-delay: 18.075s;
+}
+
+.node:nth-child(242) .graph {
+    animation-delay: 18.15s;
+}
+
+.node:nth-child(243) .graph {
+    animation-delay: 18.225s;
+}
+
+.node:nth-child(244) .graph {
+    animation-delay: 18.3s;
+}
+
+.node:nth-child(245) .graph {
+    animation-delay: 18.375s;
+}
+
+.node:nth-child(246) .graph {
+    animation-delay: 18.45s;
+}
+
+.node:nth-child(247) .graph {
+    animation-delay: 18.525s;
+}
+
+.node:nth-child(248) .graph {
+    animation-delay: 18.6s;
+}
+
+.node:nth-child(249) .graph {
+    animation-delay: 18.675s;
+}
+
+.node:nth-child(250) .graph {
+    animation-delay: 18.75s;
+}
+
+.node:nth-child(251) .graph {
+    animation-delay: 18.825s;
+}
+
+.node:nth-child(252) .graph {
+    animation-delay: 18.9s;
+}
+
+.node:nth-child(253) .graph {
+    animation-delay: 18.975s;
+}
+
+.node:nth-child(254) .graph {
+    animation-delay: 19.05s;
+}
+
+.node:nth-child(255) .graph {
+    animation-delay: 19.125s;
+}
+
+.node:nth-child(256) .graph {
+    animation-delay: 19.2s;
+}
+
+.node:nth-child(257) .graph {
+    animation-delay: 19.275s;
+}
+
+.node:nth-child(258) .graph {
+    animation-delay: 19.35s;
+}
+
+.node:nth-child(259) .graph {
+    animation-delay: 19.425s;
+}
+
+.node:nth-child(260) .graph {
+    animation-delay: 19.5s;
+}
+
+.node:nth-child(261) .graph {
+    animation-delay: 19.575s;
+}
+
+.node:nth-child(262) .graph {
+    animation-delay: 19.65s;
+}
+
+.node:nth-child(263) .graph {
+    animation-delay: 19.725s;
+}
+
+.node:nth-child(264) .graph {
+    animation-delay: 19.8s;
+}
+
+.node:nth-child(265) .graph {
+    animation-delay: 19.875s;
+}
+
+.node:nth-child(266) .graph {
+    animation-delay: 19.95s;
+}
+
+.node:nth-child(267) .graph {
+    animation-delay: 20.025s;
+}
+
+.node:nth-child(268) .graph {
+    animation-delay: 20.1s;
+}
+
+.node:nth-child(269) .graph {
+    animation-delay: 20.175s;
+}
+
+.node:nth-child(270) .graph {
+    animation-delay: 20.25s;
+}
+
+.node:nth-child(271) .graph {
+    animation-delay: 20.325s;
+}
+
+.node:nth-child(272) .graph {
+    animation-delay: 20.4s;
+}
+
+.node:nth-child(273) .graph {
+    animation-delay: 20.475s;
+}
+
+.node:nth-child(274) .graph {
+    animation-delay: 20.55s;
+}
+
+.node:nth-child(275) .graph {
+    animation-delay: 20.625s;
+}
+
+.node:nth-child(276) .graph {
+    animation-delay: 20.7s;
+}
+
+.node:nth-child(277) .graph {
+    animation-delay: 20.775s;
+}
+
+.node:nth-child(278) .graph {
+    animation-delay: 20.85s;
+}
+
+.node:nth-child(279) .graph {
+    animation-delay: 20.925s;
+}
+
+.node:nth-child(280) .graph {
+    animation-delay: 21s;
+}
+
+.node:nth-child(281) .graph {
+    animation-delay: 21.075s;
+}
+
+.node:nth-child(282) .graph {
+    animation-delay: 21.15s;
+}
+
+.node:nth-child(283) .graph {
+    animation-delay: 21.225s;
+}
+
+.node:nth-child(284) .graph {
+    animation-delay: 21.3s;
+}
+
+.node:nth-child(285) .graph {
+    animation-delay: 21.375s;
+}
+
+.node:nth-child(286) .graph {
+    animation-delay: 21.45s;
+}
+
+.node:nth-child(287) .graph {
+    animation-delay: 21.525s;
+}
+
+.node:nth-child(288) .graph {
+    animation-delay: 21.6s;
+}
+
+.node:nth-child(289) .graph {
+    animation-delay: 21.675s;
+}
+
+.node:nth-child(290) .graph {
+    animation-delay: 21.75s;
+}
+
+.node:nth-child(291) .graph {
+    animation-delay: 21.825s;
+}
+
+.node:nth-child(292) .graph {
+    animation-delay: 21.9s;
+}
+
+.node:nth-child(293) .graph {
+    animation-delay: 21.975s;
+}
+
+.node:nth-child(294) .graph {
+    animation-delay: 22.05s;
+}
+
+.node:nth-child(295) .graph {
+    animation-delay: 22.125s;
+}
+
+.node:nth-child(296) .graph {
+    animation-delay: 22.2s;
+}
+
+.node:nth-child(297) .graph {
+    animation-delay: 22.275s;
+}
+
+.node:nth-child(298) .graph {
+    animation-delay: 22.35s;
+}
+
+.node:nth-child(299) .graph {
+    animation-delay: 22.425s;
+}
+
+.node:nth-child(300) .graph {
+    animation-delay: 22.5s;
+}
+
+.node:nth-child(301) .graph {
+    animation-delay: 22.575s;
+}
+
+.node:nth-child(302) .graph {
+    animation-delay: 22.65s;
+}
+
+.node:nth-child(303) .graph {
+    animation-delay: 22.725s;
+}
+
+.node:nth-child(304) .graph {
+    animation-delay: 22.8s;
+}
+
+.node:nth-child(305) .graph {
+    animation-delay: 22.875s;
+}
+
+.node:nth-child(306) .graph {
+    animation-delay: 22.95s;
+}
+
+.node:nth-child(307) .graph {
+    animation-delay: 23.025s;
+}
+
+.node:nth-child(308) .graph {
+    animation-delay: 23.1s;
+}
+
+.node:nth-child(309) .graph {
+    animation-delay: 23.175s;
+}
+
+.node:nth-child(310) .graph {
+    animation-delay: 23.25s;
+}
+
+.node:nth-child(311) .graph {
+    animation-delay: 23.325s;
+}
+
+.node:nth-child(312) .graph {
+    animation-delay: 23.4s;
+}
+
+.node:nth-child(313) .graph {
+    animation-delay: 23.475s;
+}
+
+.node:nth-child(314) .graph {
+    animation-delay: 23.55s;
+}
+
+.node:nth-child(315) .graph {
+    animation-delay: 23.625s;
+}
+
+.node:nth-child(316) .graph {
+    animation-delay: 23.7s;
+}
+
+.node:nth-child(317) .graph {
+    animation-delay: 23.775s;
+}
+
+.node:nth-child(318) .graph {
+    animation-delay: 23.85s;
+}
+
+.node:nth-child(319) .graph {
+    animation-delay: 23.925s;
+}
+
+.node:nth-child(320) .graph {
+    animation-delay: 24s;
+}
+
+.node:nth-child(321) .graph {
+    animation-delay: 24.075s;
+}
+
+.node:nth-child(322) .graph {
+    animation-delay: 24.15s;
+}
+
+.node:nth-child(323) .graph {
+    animation-delay: 24.225s;
+}
+
+.node:nth-child(324) .graph {
+    animation-delay: 24.3s;
+}
+
+.node:nth-child(325) .graph {
+    animation-delay: 24.375s;
+}
+
+.node:nth-child(326) .graph {
+    animation-delay: 24.45s;
+}
+
+.node:nth-child(327) .graph {
+    animation-delay: 24.525s;
+}
+
+.node:nth-child(328) .graph {
+    animation-delay: 24.6s;
+}
+
+.node:nth-child(329) .graph {
+    animation-delay: 24.675s;
+}
+
+.node:nth-child(330) .graph {
+    animation-delay: 24.75s;
+}
+
+.node:nth-child(331) .graph {
+    animation-delay: 24.825s;
+}
+
+.node:nth-child(332) .graph {
+    animation-delay: 24.9s;
+}
+
+.node:nth-child(333) .graph {
+    animation-delay: 24.975s;
+}
+
+.node:nth-child(334) .graph {
+    animation-delay: 25.05s;
+}
+
+.node:nth-child(335) .graph {
+    animation-delay: 25.125s;
+}
+
+.node:nth-child(336) .graph {
+    animation-delay: 25.2s;
+}
+
+.node:nth-child(337) .graph {
+    animation-delay: 25.275s;
+}
+
+.node:nth-child(338) .graph {
+    animation-delay: 25.35s;
+}
+
+.node:nth-child(339) .graph {
+    animation-delay: 25.425s;
+}
+
+.node:nth-child(340) .graph {
+    animation-delay: 25.5s;
+}
+
+.node:nth-child(341) .graph {
+    animation-delay: 25.575s;
+}
+
+.node:nth-child(342) .graph {
+    animation-delay: 25.65s;
+}
+
+.node:nth-child(343) .graph {
+    animation-delay: 25.725s;
+}
+
+.node:nth-child(344) .graph {
+    animation-delay: 25.8s;
+}
+
+.node:nth-child(345) .graph {
+    animation-delay: 25.875s;
+}
+
+.node:nth-child(346) .graph {
+    animation-delay: 25.95s;
+}
+
+.node:nth-child(347) .graph {
+    animation-delay: 26.025s;
+}
+
+.node:nth-child(348) .graph {
+    animation-delay: 26.1s;
+}
+
+.node:nth-child(349) .graph {
+    animation-delay: 26.175s;
+}
+
+.node:nth-child(350) .graph {
+    animation-delay: 26.25s;
+}
+
+.node:nth-child(351) .graph {
+    animation-delay: 26.325s;
+}
+
+.node:nth-child(352) .graph {
+    animation-delay: 26.4s;
+}
+
+.node:nth-child(353) .graph {
+    animation-delay: 26.475s;
+}
+
+.node:nth-child(354) .graph {
+    animation-delay: 26.55s;
+}
+
+.node:nth-child(355) .graph {
+    animation-delay: 26.625s;
+}
+
+.node:nth-child(356) .graph {
+    animation-delay: 26.7s;
+}
+
+.node:nth-child(357) .graph {
+    animation-delay: 26.775s;
+}
+
+.node:nth-child(358) .graph {
+    animation-delay: 26.85s;
+}
+
+.node:nth-child(359) .graph {
+    animation-delay: 26.925s;
+}
+
+.node:nth-child(360) .graph {
+    animation-delay: 27s;
+}
+
+.node:nth-child(361) .graph {
+    animation-delay: 27.075s;
+}
+
+.node:nth-child(362) .graph {
+    animation-delay: 27.15s;
+}
+
+.node:nth-child(363) .graph {
+    animation-delay: 27.225s;
+}
+
+.node:nth-child(364) .graph {
+    animation-delay: 27.3s;
+}
+
+.node:nth-child(365) .graph {
+    animation-delay: 27.375s;
+}
+
+.node:nth-child(366) .graph {
+    animation-delay: 27.45s;
+}
+
+.node:nth-child(367) .graph {
+    animation-delay: 27.525s;
+}
+
+.node:nth-child(368) .graph {
+    animation-delay: 27.6s;
+}
+
+.node:nth-child(369) .graph {
+    animation-delay: 27.675s;
+}
+
+.node:nth-child(370) .graph {
+    animation-delay: 27.75s;
+}
+
+.node:nth-child(371) .graph {
+    animation-delay: 27.825s;
+}
+
+.node:nth-child(372) .graph {
+    animation-delay: 27.9s;
+}
+
+.node:nth-child(373) .graph {
+    animation-delay: 27.975s;
+}
+
+.node:nth-child(374) .graph {
+    animation-delay: 28.05s;
+}
+
+.node:nth-child(375) .graph {
+    animation-delay: 28.125s;
+}
+
+.node:nth-child(376) .graph {
+    animation-delay: 28.2s;
+}
+
+.node:nth-child(377) .graph {
+    animation-delay: 28.275s;
+}
+
+.node:nth-child(378) .graph {
+    animation-delay: 28.35s;
+}
+
+.node:nth-child(379) .graph {
+    animation-delay: 28.425s;
+}
+
+.node:nth-child(380) .graph {
+    animation-delay: 28.5s;
+}
+
+.node:nth-child(381) .graph {
+    animation-delay: 28.575s;
+}
+
+.node:nth-child(382) .graph {
+    animation-delay: 28.65s;
+}
+
+.node:nth-child(383) .graph {
+    animation-delay: 28.725s;
+}
+
+.node:nth-child(384) .graph {
+    animation-delay: 28.8s;
+}
+
+.node:nth-child(385) .graph {
+    animation-delay: 28.875s;
+}
+
+.node:nth-child(386) .graph {
+    animation-delay: 28.95s;
+}
+
+.node:nth-child(387) .graph {
+    animation-delay: 29.025s;
+}
+
+.node:nth-child(388) .graph {
+    animation-delay: 29.1s;
+}
+
+.node:nth-child(389) .graph {
+    animation-delay: 29.175s;
+}
+
+.node:nth-child(390) .graph {
+    animation-delay: 29.25s;
+}
+
+.node:nth-child(391) .graph {
+    animation-delay: 29.325s;
+}
+
+.node:nth-child(392) .graph {
+    animation-delay: 29.4s;
+}
+
+.node:nth-child(393) .graph {
+    animation-delay: 29.475s;
+}
+
+.node:nth-child(394) .graph {
+    animation-delay: 29.55s;
+}
+
+.node:nth-child(395) .graph {
+    animation-delay: 29.625s;
+}
+
+.node:nth-child(396) .graph {
+    animation-delay: 29.7s;
+}
+
+.node:nth-child(397) .graph {
+    animation-delay: 29.775s;
+}
+
+.node:nth-child(398) .graph {
+    animation-delay: 29.85s;
+}
+
+.node:nth-child(399) .graph {
+    animation-delay: 29.925s;
+}
+
+.node:nth-child(400) .graph {
+    animation-delay: 30s;
+}
+
+.node:nth-child(401) .graph {
+    animation-delay: 30.075s;
+}
+
+.node:nth-child(402) .graph {
+    animation-delay: 30.15s;
+}
+
+.node:nth-child(403) .graph {
+    animation-delay: 30.225s;
+}
+
+.node:nth-child(404) .graph {
+    animation-delay: 30.3s;
+}
+
+.node:nth-child(405) .graph {
+    animation-delay: 30.375s;
+}
+
+.node:nth-child(406) .graph {
+    animation-delay: 30.45s;
+}
+
+.node:nth-child(407) .graph {
+    animation-delay: 30.525s;
+}
+
+.node:nth-child(408) .graph {
+    animation-delay: 30.6s;
+}
+
+.node:nth-child(409) .graph {
+    animation-delay: 30.675s;
+}
+
+.node:nth-child(410) .graph {
+    animation-delay: 30.75s;
+}
+
+.node:nth-child(411) .graph {
+    animation-delay: 30.825s;
+}
+
+.node:nth-child(412) .graph {
+    animation-delay: 30.9s;
+}
+
+.node:nth-child(413) .graph {
+    animation-delay: 30.975s;
+}
+
+.node:nth-child(414) .graph {
+    animation-delay: 31.05s;
+}
+
+.node:nth-child(415) .graph {
+    animation-delay: 31.125s;
+}
+
+.node:nth-child(416) .graph {
+    animation-delay: 31.2s;
+}
+
+.node:nth-child(417) .graph {
+    animation-delay: 31.275s;
+}
+
+.node:nth-child(418) .graph {
+    animation-delay: 31.35s;
+}
+
+.node:nth-child(419) .graph {
+    animation-delay: 31.425s;
+}
+
+.node:nth-child(420) .graph {
+    animation-delay: 31.5s;
+}
+
+.node:nth-child(421) .graph {
+    animation-delay: 31.575s;
+}
+
+.node:nth-child(422) .graph {
+    animation-delay: 31.65s;
+}
+
+.node:nth-child(423) .graph {
+    animation-delay: 31.725s;
+}
+
+.node:nth-child(424) .graph {
+    animation-delay: 31.8s;
+}
+
+.node:nth-child(425) .graph {
+    animation-delay: 31.875s;
+}
+
+.node:nth-child(426) .graph {
+    animation-delay: 31.95s;
+}
+
+.node:nth-child(427) .graph {
+    animation-delay: 32.025s;
+}
+
+.node:nth-child(428) .graph {
+    animation-delay: 32.1s;
+}
+
+.node:nth-child(429) .graph {
+    animation-delay: 32.175s;
+}
+
+.node:nth-child(430) .graph {
+    animation-delay: 32.25s;
+}
+
+.node:nth-child(431) .graph {
+    animation-delay: 32.325s;
+}
+
+.node:nth-child(432) .graph {
+    animation-delay: 32.4s;
+}
+
+.node:nth-child(433) .graph {
+    animation-delay: 32.475s;
+}
+
+.node:nth-child(434) .graph {
+    animation-delay: 32.55s;
+}
+
+.node:nth-child(435) .graph {
+    animation-delay: 32.625s;
+}
+
+.node:nth-child(436) .graph {
+    animation-delay: 32.7s;
+}
+
+.node:nth-child(437) .graph {
+    animation-delay: 32.775s;
+}
+
+.node:nth-child(438) .graph {
+    animation-delay: 32.85s;
+}
+
+.node:nth-child(439) .graph {
+    animation-delay: 32.925s;
+}
+
+.node:nth-child(440) .graph {
+    animation-delay: 33s;
+}
+
+.node:nth-child(441) .graph {
+    animation-delay: 33.075s;
+}
+
+.node:nth-child(442) .graph {
+    animation-delay: 33.15s;
+}
+
+.node:nth-child(443) .graph {
+    animation-delay: 33.225s;
+}
+
+.node:nth-child(444) .graph {
+    animation-delay: 33.3s;
+}
+
+.node:nth-child(445) .graph {
+    animation-delay: 33.375s;
+}
+
+.node:nth-child(446) .graph {
+    animation-delay: 33.45s;
+}
+
+.node:nth-child(447) .graph {
+    animation-delay: 33.525s;
+}
+
+.node:nth-child(448) .graph {
+    animation-delay: 33.6s;
+}
+
+.node:nth-child(449) .graph {
+    animation-delay: 33.675s;
+}
+
+.node:nth-child(450) .graph {
+    animation-delay: 33.75s;
+}
+
+.node:nth-child(451) .graph {
+    animation-delay: 33.825s;
+}
+
+.node:nth-child(452) .graph {
+    animation-delay: 33.9s;
+}
+
+.node:nth-child(453) .graph {
+    animation-delay: 33.975s;
+}
+
+.node:nth-child(454) .graph {
+    animation-delay: 34.05s;
+}
+
+.node:nth-child(455) .graph {
+    animation-delay: 34.125s;
+}
+
+.node:nth-child(456) .graph {
+    animation-delay: 34.2s;
+}
+
+.node:nth-child(457) .graph {
+    animation-delay: 34.275s;
+}
+
+.node:nth-child(458) .graph {
+    animation-delay: 34.35s;
+}
+
+.node:nth-child(459) .graph {
+    animation-delay: 34.425s;
+}
+
+.node:nth-child(460) .graph {
+    animation-delay: 34.5s;
+}
+
+.node:nth-child(461) .graph {
+    animation-delay: 34.575s;
+}
+
+.node:nth-child(462) .graph {
+    animation-delay: 34.65s;
+}
+
+.node:nth-child(463) .graph {
+    animation-delay: 34.725s;
+}
+
+.node:nth-child(464) .graph {
+    animation-delay: 34.8s;
+}
+
+.node:nth-child(465) .graph {
+    animation-delay: 34.875s;
+}
+
+.node:nth-child(466) .graph {
+    animation-delay: 34.95s;
+}
+
+.node:nth-child(467) .graph {
+    animation-delay: 35.025s;
+}
+
+.node:nth-child(468) .graph {
+    animation-delay: 35.1s;
+}
+
+.node:nth-child(469) .graph {
+    animation-delay: 35.175s;
+}
+
+.node:nth-child(470) .graph {
+    animation-delay: 35.25s;
+}
+
+.node:nth-child(471) .graph {
+    animation-delay: 35.325s;
+}
+
+.node:nth-child(472) .graph {
+    animation-delay: 35.4s;
+}
+
+.node:nth-child(473) .graph {
+    animation-delay: 35.475s;
+}
+
+.node:nth-child(474) .graph {
+    animation-delay: 35.55s;
+}
+
+.node:nth-child(475) .graph {
+    animation-delay: 35.625s;
+}
+
+.node:nth-child(476) .graph {
+    animation-delay: 35.7s;
+}
+
+.node:nth-child(477) .graph {
+    animation-delay: 35.775s;
+}
+
+.node:nth-child(478) .graph {
+    animation-delay: 35.85s;
+}
+
+.node:nth-child(479) .graph {
+    animation-delay: 35.925s;
+}
+
+.node:nth-child(480) .graph {
+    animation-delay: 36s;
+}
+
+.node:nth-child(481) .graph {
+    animation-delay: 36.075s;
+}
+
+.node:nth-child(482) .graph {
+    animation-delay: 36.15s;
+}
+
+.node:nth-child(483) .graph {
+    animation-delay: 36.225s;
+}
+
+.node:nth-child(484) .graph {
+    animation-delay: 36.3s;
+}
+
+.node:nth-child(485) .graph {
+    animation-delay: 36.375s;
+}
+
+.node:nth-child(486) .graph {
+    animation-delay: 36.45s;
+}
+
+.node:nth-child(487) .graph {
+    animation-delay: 36.525s;
+}
+
+.node:nth-child(488) .graph {
+    animation-delay: 36.6s;
+}
+
+.node:nth-child(489) .graph {
+    animation-delay: 36.675s;
+}
+
+.node:nth-child(490) .graph {
+    animation-delay: 36.75s;
+}
+
+.node:nth-child(491) .graph {
+    animation-delay: 36.825s;
+}
+
+.node:nth-child(492) .graph {
+    animation-delay: 36.9s;
+}
+
+.node:nth-child(493) .graph {
+    animation-delay: 36.975s;
+}
+
+.node:nth-child(494) .graph {
+    animation-delay: 37.05s;
+}
+
+.node:nth-child(495) .graph {
+    animation-delay: 37.125s;
+}
+
+.node:nth-child(496) .graph {
+    animation-delay: 37.2s;
+}
+
+.node:nth-child(497) .graph {
+    animation-delay: 37.275s;
+}
+
+.node:nth-child(498) .graph {
+    animation-delay: 37.35s;
+}
+
+.node:nth-child(499) .graph {
+    animation-delay: 37.425s;
+}
+
+.node:nth-child(500) .graph {
+    animation-delay: 37.5s;
+}
+
+.node:nth-child(501) .graph {
+    animation-delay: 37.575s;
+}
+
+.node:nth-child(502) .graph {
+    animation-delay: 37.65s;
+}
+
+.node:nth-child(503) .graph {
+    animation-delay: 37.725s;
+}
+
+.node:nth-child(504) .graph {
+    animation-delay: 37.8s;
+}
+
+.node:nth-child(505) .graph {
+    animation-delay: 37.875s;
+}
+
+.node:nth-child(506) .graph {
+    animation-delay: 37.95s;
+}
+
+.node:nth-child(507) .graph {
+    animation-delay: 38.025s;
+}
+
+.node:nth-child(508) .graph {
+    animation-delay: 38.1s;
+}
+
+.node:nth-child(509) .graph {
+    animation-delay: 38.175s;
+}
+
+.node:nth-child(510) .graph {
+    animation-delay: 38.25s;
+}
+
+.node:nth-child(511) .graph {
+    animation-delay: 38.325s;
+}
+
+.node:nth-child(512) .graph {
+    animation-delay: 38.4s;
+}
+
+.node:nth-child(513) .graph {
+    animation-delay: 38.475s;
+}
+
+.node:nth-child(514) .graph {
+    animation-delay: 38.55s;
+}
+
+.node:nth-child(515) .graph {
+    animation-delay: 38.625s;
+}
+
+.node:nth-child(516) .graph {
+    animation-delay: 38.7s;
+}
+
+.node:nth-child(517) .graph {
+    animation-delay: 38.775s;
+}
+
+.node:nth-child(518) .graph {
+    animation-delay: 38.85s;
+}
+
+.node:nth-child(519) .graph {
+    animation-delay: 38.925s;
+}
+
+.node:nth-child(520) .graph {
+    animation-delay: 39s;
+}
+
+.node:nth-child(521) .graph {
+    animation-delay: 39.075s;
+}
+
+.node:nth-child(522) .graph {
+    animation-delay: 39.15s;
+}
+
+.node:nth-child(523) .graph {
+    animation-delay: 39.225s;
+}
+
+.node:nth-child(524) .graph {
+    animation-delay: 39.3s;
+}
+
+.node:nth-child(525) .graph {
+    animation-delay: 39.375s;
+}
+
+.node:nth-child(526) .graph {
+    animation-delay: 39.45s;
+}
+
+.node:nth-child(527) .graph {
+    animation-delay: 39.525s;
+}
+
+.node:nth-child(528) .graph {
+    animation-delay: 39.6s;
+}
+
+.node:nth-child(529) .graph {
+    animation-delay: 39.675s;
+}
+
+.node:nth-child(530) .graph {
+    animation-delay: 39.75s;
+}
+
+.node:nth-child(531) .graph {
+    animation-delay: 39.825s;
+}
+
+.node:nth-child(532) .graph {
+    animation-delay: 39.9s;
+}
+
+.node:nth-child(533) .graph {
+    animation-delay: 39.975s;
+}
+
+.node:nth-child(534) .graph {
+    animation-delay: 40.05s;
+}
+
+.node:nth-child(535) .graph {
+    animation-delay: 40.125s;
+}
+
+.node:nth-child(536) .graph {
+    animation-delay: 40.2s;
+}
+
+.node:nth-child(537) .graph {
+    animation-delay: 40.275s;
+}
+
+.node:nth-child(538) .graph {
+    animation-delay: 40.35s;
+}
+
+.node:nth-child(539) .graph {
+    animation-delay: 40.425s;
+}
+
+.node:nth-child(540) .graph {
+    animation-delay: 40.5s;
+}
+
+.node:nth-child(541) .graph {
+    animation-delay: 40.575s;
+}
+
+.node:nth-child(542) .graph {
+    animation-delay: 40.65s;
+}
+
+.node:nth-child(543) .graph {
+    animation-delay: 40.725s;
+}
+
+.node:nth-child(544) .graph {
+    animation-delay: 40.8s;
+}
+
+.node:nth-child(545) .graph {
+    animation-delay: 40.875s;
+}
+
+.node:nth-child(546) .graph {
+    animation-delay: 40.95s;
+}
+
+.node:nth-child(547) .graph {
+    animation-delay: 41.025s;
+}
+
+.node:nth-child(548) .graph {
+    animation-delay: 41.1s;
+}
+
+.node:nth-child(549) .graph {
+    animation-delay: 41.175s;
+}
+
+.node:nth-child(550) .graph {
+    animation-delay: 41.25s;
+}
+
+.node:nth-child(551) .graph {
+    animation-delay: 41.325s;
+}
+
+.node:nth-child(552) .graph {
+    animation-delay: 41.4s;
+}
+
+.node:nth-child(553) .graph {
+    animation-delay: 41.475s;
+}
+
+.node:nth-child(554) .graph {
+    animation-delay: 41.55s;
+}
+
+.node:nth-child(555) .graph {
+    animation-delay: 41.625s;
+}
+
+.node:nth-child(556) .graph {
+    animation-delay: 41.7s;
+}
+
+.node:nth-child(557) .graph {
+    animation-delay: 41.775s;
+}
+
+.node:nth-child(558) .graph {
+    animation-delay: 41.85s;
+}
+
+.node:nth-child(559) .graph {
+    animation-delay: 41.925s;
+}
+
+.node:nth-child(560) .graph {
+    animation-delay: 42s;
+}
+
+.node:nth-child(561) .graph {
+    animation-delay: 42.075s;
+}
+
+.node:nth-child(562) .graph {
+    animation-delay: 42.15s;
+}
+
+.node:nth-child(563) .graph {
+    animation-delay: 42.225s;
+}
+
+.node:nth-child(564) .graph {
+    animation-delay: 42.3s;
+}
+
+.node:nth-child(565) .graph {
+    animation-delay: 42.375s;
+}
+
+.node:nth-child(566) .graph {
+    animation-delay: 42.45s;
+}
+
+.node:nth-child(567) .graph {
+    animation-delay: 42.525s;
+}
+
+.node:nth-child(568) .graph {
+    animation-delay: 42.6s;
+}
+
+.node:nth-child(569) .graph {
+    animation-delay: 42.675s;
+}
+
+.node:nth-child(570) .graph {
+    animation-delay: 42.75s;
+}
+
+.node:nth-child(571) .graph {
+    animation-delay: 42.825s;
+}
+
+.node:nth-child(572) .graph {
+    animation-delay: 42.9s;
+}
+
+.node:nth-child(573) .graph {
+    animation-delay: 42.975s;
+}
+
+.node:nth-child(574) .graph {
+    animation-delay: 43.05s;
+}
+
+.node:nth-child(575) .graph {
+    animation-delay: 43.125s;
+}
+
+.node:nth-child(576) .graph {
+    animation-delay: 43.2s;
+}
+
+.node:nth-child(577) .graph {
+    animation-delay: 43.275s;
+}
+
+.node:nth-child(578) .graph {
+    animation-delay: 43.35s;
+}
+
+.node:nth-child(579) .graph {
+    animation-delay: 43.425s;
+}
+
+.node:nth-child(580) .graph {
+    animation-delay: 43.5s;
+}
+
+.node:nth-child(581) .graph {
+    animation-delay: 43.575s;
+}
+
+.node:nth-child(582) .graph {
+    animation-delay: 43.65s;
+}
+
+.node:nth-child(583) .graph {
+    animation-delay: 43.725s;
+}
+
+.node:nth-child(584) .graph {
+    animation-delay: 43.8s;
+}
+
+.node:nth-child(585) .graph {
+    animation-delay: 43.875s;
+}
+
+.node:nth-child(586) .graph {
+    animation-delay: 43.95s;
+}
+
+.node:nth-child(587) .graph {
+    animation-delay: 44.025s;
+}
+
+.node:nth-child(588) .graph {
+    animation-delay: 44.1s;
+}
+
+.node:nth-child(589) .graph {
+    animation-delay: 44.175s;
+}
+
+.node:nth-child(590) .graph {
+    animation-delay: 44.25s;
+}
+
+.node:nth-child(591) .graph {
+    animation-delay: 44.325s;
+}
+
+.node:nth-child(592) .graph {
+    animation-delay: 44.4s;
+}
+
+.node:nth-child(593) .graph {
+    animation-delay: 44.475s;
+}
+
+.node:nth-child(594) .graph {
+    animation-delay: 44.55s;
+}
+
+.node:nth-child(595) .graph {
+    animation-delay: 44.625s;
+}
+
+.node:nth-child(596) .graph {
+    animation-delay: 44.7s;
+}
+
+.node:nth-child(597) .graph {
+    animation-delay: 44.775s;
+}
+
+.node:nth-child(598) .graph {
+    animation-delay: 44.85s;
+}
+
+.node:nth-child(599) .graph {
+    animation-delay: 44.925s;
+}
+
+.node:nth-child(600) .graph {
+    animation-delay: 45s;
+}
+
+.node:nth-child(601) .graph {
+    animation-delay: 45.075s;
+}
+
+.node:nth-child(602) .graph {
+    animation-delay: 45.15s;
+}
+
+.node:nth-child(603) .graph {
+    animation-delay: 45.225s;
+}
+
+.node:nth-child(604) .graph {
+    animation-delay: 45.3s;
+}
+
+.node:nth-child(605) .graph {
+    animation-delay: 45.375s;
+}
+
+.node:nth-child(606) .graph {
+    animation-delay: 45.45s;
+}
+
+.node:nth-child(607) .graph {
+    animation-delay: 45.525s;
+}
+
+.node:nth-child(608) .graph {
+    animation-delay: 45.6s;
+}
+
+.node:nth-child(609) .graph {
+    animation-delay: 45.675s;
+}
+
+.node:nth-child(610) .graph {
+    animation-delay: 45.75s;
+}
+
+.node:nth-child(611) .graph {
+    animation-delay: 45.825s;
+}
+
+.node:nth-child(612) .graph {
+    animation-delay: 45.9s;
+}
+
+.node:nth-child(613) .graph {
+    animation-delay: 45.975s;
+}
+
+.node:nth-child(614) .graph {
+    animation-delay: 46.05s;
+}
+
+.node:nth-child(615) .graph {
+    animation-delay: 46.125s;
+}
+
+.node:nth-child(616) .graph {
+    animation-delay: 46.2s;
+}
+
+.node:nth-child(617) .graph {
+    animation-delay: 46.275s;
+}
+
+.node:nth-child(618) .graph {
+    animation-delay: 46.35s;
+}
+
+.node:nth-child(619) .graph {
+    animation-delay: 46.425s;
+}
+
+.node:nth-child(620) .graph {
+    animation-delay: 46.5s;
+}
+
+.node:nth-child(621) .graph {
+    animation-delay: 46.575s;
+}
+
+.node:nth-child(622) .graph {
+    animation-delay: 46.65s;
+}
+
+.node:nth-child(623) .graph {
+    animation-delay: 46.725s;
+}
+
+.node:nth-child(624) .graph {
+    animation-delay: 46.8s;
+}
+
+.node:nth-child(625) .graph {
+    animation-delay: 46.875s;
+}
+
+.node:nth-child(626) .graph {
+    animation-delay: 46.95s;
+}
+
+.node:nth-child(627) .graph {
+    animation-delay: 47.025s;
+}
+
+.node:nth-child(628) .graph {
+    animation-delay: 47.1s;
+}
+
+.node:nth-child(629) .graph {
+    animation-delay: 47.175s;
+}
+
+.node:nth-child(630) .graph {
+    animation-delay: 47.25s;
+}
+
+.node:nth-child(631) .graph {
+    animation-delay: 47.325s;
+}
+
+.node:nth-child(632) .graph {
+    animation-delay: 47.4s;
+}
+
+.node:nth-child(633) .graph {
+    animation-delay: 47.475s;
+}
+
+.node:nth-child(634) .graph {
+    animation-delay: 47.55s;
+}
+
+.node:nth-child(635) .graph {
+    animation-delay: 47.625s;
+}
+
+.node:nth-child(636) .graph {
+    animation-delay: 47.7s;
+}
+
+.node:nth-child(637) .graph {
+    animation-delay: 47.775s;
+}
+
+.node:nth-child(638) .graph {
+    animation-delay: 47.85s;
+}
+
+.node:nth-child(639) .graph {
+    animation-delay: 47.925s;
+}
+
+.node:nth-child(640) .graph {
+    animation-delay: 48s;
+}
+
+.node:nth-child(641) .graph {
+    animation-delay: 48.075s;
+}
+
+.node:nth-child(642) .graph {
+    animation-delay: 48.15s;
+}
+
+.node:nth-child(643) .graph {
+    animation-delay: 48.225s;
+}
+
+.node:nth-child(644) .graph {
+    animation-delay: 48.3s;
+}
+
+.node:nth-child(645) .graph {
+    animation-delay: 48.375s;
+}
+
+.node:nth-child(646) .graph {
+    animation-delay: 48.45s;
+}
+
+.node:nth-child(647) .graph {
+    animation-delay: 48.525s;
+}
+
+.node:nth-child(648) .graph {
+    animation-delay: 48.6s;
+}
+
+.node:nth-child(649) .graph {
+    animation-delay: 48.675s;
+}
+
+.node:nth-child(650) .graph {
+    animation-delay: 48.75s;
+}
+
+.node:nth-child(651) .graph {
+    animation-delay: 48.825s;
+}
+
+.node:nth-child(652) .graph {
+    animation-delay: 48.9s;
+}
+
+.node:nth-child(653) .graph {
+    animation-delay: 48.975s;
+}
+
+.node:nth-child(654) .graph {
+    animation-delay: 49.05s;
+}
+
+.node:nth-child(655) .graph {
+    animation-delay: 49.125s;
+}
+
+.node:nth-child(656) .graph {
+    animation-delay: 49.2s;
+}
+
+.node:nth-child(657) .graph {
+    animation-delay: 49.275s;
+}
+
+.node:nth-child(658) .graph {
+    animation-delay: 49.35s;
+}
+
+.node:nth-child(659) .graph {
+    animation-delay: 49.425s;
+}
+
+.node:nth-child(660) .graph {
+    animation-delay: 49.5s;
+}
+
+.node:nth-child(661) .graph {
+    animation-delay: 49.575s;
+}
+
+.node:nth-child(662) .graph {
+    animation-delay: 49.65s;
+}
+
+.node:nth-child(663) .graph {
+    animation-delay: 49.725s;
+}
+
+.node:nth-child(664) .graph {
+    animation-delay: 49.8s;
+}
+
+.node:nth-child(665) .graph {
+    animation-delay: 49.875s;
+}
+
+.node:nth-child(666) .graph {
+    animation-delay: 49.95s;
+}
+
+.node:nth-child(667) .graph {
+    animation-delay: 50.025s;
+}
+
+.node:nth-child(668) .graph {
+    animation-delay: 50.1s;
+}
+
+.node:nth-child(669) .graph {
+    animation-delay: 50.175s;
+}
+
+.node:nth-child(670) .graph {
+    animation-delay: 50.25s;
+}
+
+.node:nth-child(671) .graph {
+    animation-delay: 50.325s;
+}
+
+.node:nth-child(672) .graph {
+    animation-delay: 50.4s;
+}
+
+.node:nth-child(673) .graph {
+    animation-delay: 50.475s;
+}
+
+.node:nth-child(674) .graph {
+    animation-delay: 50.55s;
+}
+
+.node:nth-child(675) .graph {
+    animation-delay: 50.625s;
+}
+
+.node:nth-child(676) .graph {
+    animation-delay: 50.7s;
+}
+
+.node:nth-child(677) .graph {
+    animation-delay: 50.775s;
+}
+
+.node:nth-child(678) .graph {
+    animation-delay: 50.85s;
+}
+
+.node:nth-child(679) .graph {
+    animation-delay: 50.925s;
+}
+
+.node:nth-child(680) .graph {
+    animation-delay: 51s;
+}
+
+.node:nth-child(681) .graph {
+    animation-delay: 51.075s;
+}
+
+.node:nth-child(682) .graph {
+    animation-delay: 51.15s;
+}
+
+.node:nth-child(683) .graph {
+    animation-delay: 51.225s;
+}
+
+.node:nth-child(684) .graph {
+    animation-delay: 51.3s;
+}
+
+.node:nth-child(685) .graph {
+    animation-delay: 51.375s;
+}
+
+.node:nth-child(686) .graph {
+    animation-delay: 51.45s;
+}
+
+.node:nth-child(687) .graph {
+    animation-delay: 51.525s;
+}
+
+.node:nth-child(688) .graph {
+    animation-delay: 51.6s;
+}
+
+.node:nth-child(689) .graph {
+    animation-delay: 51.675s;
+}
+
+.node:nth-child(690) .graph {
+    animation-delay: 51.75s;
+}
+
+.node:nth-child(691) .graph {
+    animation-delay: 51.825s;
+}
+
+.node:nth-child(692) .graph {
+    animation-delay: 51.9s;
+}
+
+.node:nth-child(693) .graph {
+    animation-delay: 51.975s;
+}
+
+.node:nth-child(694) .graph {
+    animation-delay: 52.05s;
+}
+
+.node:nth-child(695) .graph {
+    animation-delay: 52.125s;
+}
+
+.node:nth-child(696) .graph {
+    animation-delay: 52.2s;
+}
+
+.node:nth-child(697) .graph {
+    animation-delay: 52.275s;
+}
+
+.node:nth-child(698) .graph {
+    animation-delay: 52.35s;
+}
+
+.node:nth-child(699) .graph {
+    animation-delay: 52.425s;
+}
+
+.node:nth-child(700) .graph {
+    animation-delay: 52.5s;
+}
+
+.node:nth-child(701) .graph {
+    animation-delay: 52.575s;
+}
+
+.node:nth-child(702) .graph {
+    animation-delay: 52.65s;
+}
+
+.node:nth-child(703) .graph {
+    animation-delay: 52.725s;
+}
+
+.node:nth-child(704) .graph {
+    animation-delay: 52.8s;
+}
+
+.node:nth-child(705) .graph {
+    animation-delay: 52.875s;
+}
+
+.node:nth-child(706) .graph {
+    animation-delay: 52.95s;
+}
+
+.node:nth-child(707) .graph {
+    animation-delay: 53.025s;
+}
+
+.node:nth-child(708) .graph {
+    animation-delay: 53.1s;
+}
+
+.node:nth-child(709) .graph {
+    animation-delay: 53.175s;
+}
+
+.node:nth-child(710) .graph {
+    animation-delay: 53.25s;
+}
+
+.node:nth-child(711) .graph {
+    animation-delay: 53.325s;
+}
+
+.node:nth-child(712) .graph {
+    animation-delay: 53.4s;
+}
+
+.node:nth-child(713) .graph {
+    animation-delay: 53.475s;
+}
+
+.node:nth-child(714) .graph {
+    animation-delay: 53.55s;
+}
+
+.node:nth-child(715) .graph {
+    animation-delay: 53.625s;
+}
+
+.node:nth-child(716) .graph {
+    animation-delay: 53.7s;
+}
+
+.node:nth-child(717) .graph {
+    animation-delay: 53.775s;
+}
+
+.node:nth-child(718) .graph {
+    animation-delay: 53.85s;
+}
+
+.node:nth-child(719) .graph {
+    animation-delay: 53.925s;
+}
+
+.node:nth-child(720) .graph {
+    animation-delay: 54s;
+}
+
+.node:nth-child(721) .graph {
+    animation-delay: 54.075s;
+}
+
+.node:nth-child(722) .graph {
+    animation-delay: 54.15s;
+}
+
+.node:nth-child(723) .graph {
+    animation-delay: 54.225s;
+}
+
+.node:nth-child(724) .graph {
+    animation-delay: 54.3s;
+}
+
+.node:nth-child(725) .graph {
+    animation-delay: 54.375s;
+}
+
+.node:nth-child(726) .graph {
+    animation-delay: 54.45s;
+}
+
+.node:nth-child(727) .graph {
+    animation-delay: 54.525s;
+}
+
+.node:nth-child(728) .graph {
+    animation-delay: 54.6s;
+}
+
+.node:nth-child(729) .graph {
+    animation-delay: 54.675s;
+}
+
+.node:nth-child(730) .graph {
+    animation-delay: 54.75s;
+}
+
+.node:nth-child(731) .graph {
+    animation-delay: 54.825s;
+}
+
+.node:nth-child(732) .graph {
+    animation-delay: 54.9s;
+}
+
+.node:nth-child(733) .graph {
+    animation-delay: 54.975s;
+}
+
+.node:nth-child(734) .graph {
+    animation-delay: 55.05s;
+}
+
+.node:nth-child(735) .graph {
+    animation-delay: 55.125s;
+}
+
+.node:nth-child(736) .graph {
+    animation-delay: 55.2s;
+}
+
+.node:nth-child(737) .graph {
+    animation-delay: 55.275s;
+}
+
+.node:nth-child(738) .graph {
+    animation-delay: 55.35s;
+}
+
+.node:nth-child(739) .graph {
+    animation-delay: 55.425s;
+}
+
+.node:nth-child(740) .graph {
+    animation-delay: 55.5s;
+}
+
+.node:nth-child(741) .graph {
+    animation-delay: 55.575s;
+}
+
+.node:nth-child(742) .graph {
+    animation-delay: 55.65s;
+}
+
+.node:nth-child(743) .graph {
+    animation-delay: 55.725s;
+}
+
+.node:nth-child(744) .graph {
+    animation-delay: 55.8s;
+}
+
+.node:nth-child(745) .graph {
+    animation-delay: 55.875s;
+}
+
+.node:nth-child(746) .graph {
+    animation-delay: 55.95s;
+}
+
+.node:nth-child(747) .graph {
+    animation-delay: 56.025s;
+}
+
+.node:nth-child(748) .graph {
+    animation-delay: 56.1s;
+}
+
+.node:nth-child(749) .graph {
+    animation-delay: 56.175s;
+}
+
+.node:nth-child(750) .graph {
+    animation-delay: 56.25s;
+}
+
+.node:nth-child(751) .graph {
+    animation-delay: 56.325s;
+}
+
+.node:nth-child(752) .graph {
+    animation-delay: 56.4s;
+}
+
+.node:nth-child(753) .graph {
+    animation-delay: 56.475s;
+}
+
+.node:nth-child(754) .graph {
+    animation-delay: 56.55s;
+}
+
+.node:nth-child(755) .graph {
+    animation-delay: 56.625s;
+}
+
+.node:nth-child(756) .graph {
+    animation-delay: 56.7s;
+}
+
+.node:nth-child(757) .graph {
+    animation-delay: 56.775s;
+}
+
+.node:nth-child(758) .graph {
+    animation-delay: 56.85s;
+}
+
+.node:nth-child(759) .graph {
+    animation-delay: 56.925s;
+}
+
+.node:nth-child(760) .graph {
+    animation-delay: 57s;
+}
+
+.node:nth-child(761) .graph {
+    animation-delay: 57.075s;
+}
+
+.node:nth-child(762) .graph {
+    animation-delay: 57.15s;
+}
+
+.node:nth-child(763) .graph {
+    animation-delay: 57.225s;
+}
+
+.node:nth-child(764) .graph {
+    animation-delay: 57.3s;
+}
+
+.node:nth-child(765) .graph {
+    animation-delay: 57.375s;
+}
+
+.node:nth-child(766) .graph {
+    animation-delay: 57.45s;
+}
+
+.node:nth-child(767) .graph {
+    animation-delay: 57.525s;
+}
+
+.node:nth-child(768) .graph {
+    animation-delay: 57.6s;
+}
+
+.node:nth-child(769) .graph {
+    animation-delay: 57.675s;
+}
+
+.node:nth-child(770) .graph {
+    animation-delay: 57.75s;
+}
+
+.node:nth-child(771) .graph {
+    animation-delay: 57.825s;
+}
+
+.node:nth-child(772) .graph {
+    animation-delay: 57.9s;
+}
+
+.node:nth-child(773) .graph {
+    animation-delay: 57.975s;
+}
+
+.node:nth-child(774) .graph {
+    animation-delay: 58.05s;
+}
+
+.node:nth-child(775) .graph {
+    animation-delay: 58.125s;
+}
+
+.node:nth-child(776) .graph {
+    animation-delay: 58.2s;
+}
+
+.node:nth-child(777) .graph {
+    animation-delay: 58.275s;
+}
+
+.node:nth-child(778) .graph {
+    animation-delay: 58.35s;
+}
+
+.node:nth-child(779) .graph {
+    animation-delay: 58.425s;
+}
+
+.node:nth-child(780) .graph {
+    animation-delay: 58.5s;
+}
+
+.node:nth-child(781) .graph {
+    animation-delay: 58.575s;
+}
+
+.node:nth-child(782) .graph {
+    animation-delay: 58.65s;
+}
+
+.node:nth-child(783) .graph {
+    animation-delay: 58.725s;
+}
+
+.node:nth-child(784) .graph {
+    animation-delay: 58.8s;
+}
+
+.node:nth-child(785) .graph {
+    animation-delay: 58.875s;
+}
+
+.node:nth-child(786) .graph {
+    animation-delay: 58.95s;
+}
+
+.node:nth-child(787) .graph {
+    animation-delay: 59.025s;
+}
+
+.node:nth-child(788) .graph {
+    animation-delay: 59.1s;
+}
+
+.node:nth-child(789) .graph {
+    animation-delay: 59.175s;
+}
+
+.node:nth-child(790) .graph {
+    animation-delay: 59.25s;
+}
+
+.node:nth-child(791) .graph {
+    animation-delay: 59.325s;
+}
+
+.node:nth-child(792) .graph {
+    animation-delay: 59.4s;
+}
+
+.node:nth-child(793) .graph {
+    animation-delay: 59.475s;
+}
+
+.node:nth-child(794) .graph {
+    animation-delay: 59.55s;
+}
+
+.node:nth-child(795) .graph {
+    animation-delay: 59.625s;
+}
+
+.node:nth-child(796) .graph {
+    animation-delay: 59.7s;
+}
+
+.node:nth-child(797) .graph {
+    animation-delay: 59.775s;
+}
+
+.node:nth-child(798) .graph {
+    animation-delay: 59.85s;
+}
+
+.node:nth-child(799) .graph {
+    animation-delay: 59.925s;
+}
+
+.node:nth-child(800) .graph {
+    animation-delay: 60s;
+}
+
+.node:nth-child(801) .graph {
+    animation-delay: 60.075s;
+}
+
+.node:nth-child(802) .graph {
+    animation-delay: 60.15s;
+}
+
+.node:nth-child(803) .graph {
+    animation-delay: 60.225s;
+}
+
+.node:nth-child(804) .graph {
+    animation-delay: 60.3s;
+}
+
+.node:nth-child(805) .graph {
+    animation-delay: 60.375s;
+}
+
+.node:nth-child(806) .graph {
+    animation-delay: 60.45s;
+}
+
+.node:nth-child(807) .graph {
+    animation-delay: 60.525s;
+}
+
+.node:nth-child(808) .graph {
+    animation-delay: 60.6s;
+}
+
+.node:nth-child(809) .graph {
+    animation-delay: 60.675s;
+}
+
+.node:nth-child(810) .graph {
+    animation-delay: 60.75s;
+}
+
+.node:nth-child(811) .graph {
+    animation-delay: 60.825s;
+}
+
+.node:nth-child(812) .graph {
+    animation-delay: 60.9s;
+}
+
+.node:nth-child(813) .graph {
+    animation-delay: 60.975s;
+}
+
+.node:nth-child(814) .graph {
+    animation-delay: 61.05s;
+}
+
+.node:nth-child(815) .graph {
+    animation-delay: 61.125s;
+}
+
+.node:nth-child(816) .graph {
+    animation-delay: 61.2s;
+}
+
+.node:nth-child(817) .graph {
+    animation-delay: 61.275s;
+}
+
+.node:nth-child(818) .graph {
+    animation-delay: 61.35s;
+}
+
+.node:nth-child(819) .graph {
+    animation-delay: 61.425s;
+}
+
+.node:nth-child(820) .graph {
+    animation-delay: 61.5s;
+}
+
+.node:nth-child(821) .graph {
+    animation-delay: 61.575s;
+}
+
+.node:nth-child(822) .graph {
+    animation-delay: 61.65s;
+}
+
+.node:nth-child(823) .graph {
+    animation-delay: 61.725s;
+}
+
+.node:nth-child(824) .graph {
+    animation-delay: 61.8s;
+}
+
+.node:nth-child(825) .graph {
+    animation-delay: 61.875s;
+}
+
+.node:nth-child(826) .graph {
+    animation-delay: 61.95s;
+}
+
+.node:nth-child(827) .graph {
+    animation-delay: 62.025s;
+}
+
+.node:nth-child(828) .graph {
+    animation-delay: 62.1s;
+}
+
+.node:nth-child(829) .graph {
+    animation-delay: 62.175s;
+}
+
+.node:nth-child(830) .graph {
+    animation-delay: 62.25s;
+}
+
+.node:nth-child(831) .graph {
+    animation-delay: 62.325s;
+}
+
+.node:nth-child(832) .graph {
+    animation-delay: 62.4s;
+}
+
+.node:nth-child(833) .graph {
+    animation-delay: 62.475s;
+}
+
+.node:nth-child(834) .graph {
+    animation-delay: 62.55s;
+}
+
+.node:nth-child(835) .graph {
+    animation-delay: 62.625s;
+}
+
+.node:nth-child(836) .graph {
+    animation-delay: 62.7s;
+}
+
+.node:nth-child(837) .graph {
+    animation-delay: 62.775s;
+}
+
+.node:nth-child(838) .graph {
+    animation-delay: 62.85s;
+}
+
+.node:nth-child(839) .graph {
+    animation-delay: 62.925s;
+}
+
+.node:nth-child(840) .graph {
+    animation-delay: 63s;
+}
+
+.node:nth-child(841) .graph {
+    animation-delay: 63.075s;
+}
+
+.node:nth-child(842) .graph {
+    animation-delay: 63.15s;
+}
+
+.node:nth-child(843) .graph {
+    animation-delay: 63.225s;
+}
+
+.node:nth-child(844) .graph {
+    animation-delay: 63.3s;
+}
+
+.node:nth-child(845) .graph {
+    animation-delay: 63.375s;
+}
+
+.node:nth-child(846) .graph {
+    animation-delay: 63.45s;
+}
+
+.node:nth-child(847) .graph {
+    animation-delay: 63.525s;
+}
+
+.node:nth-child(848) .graph {
+    animation-delay: 63.6s;
+}
+
+.node:nth-child(849) .graph {
+    animation-delay: 63.675s;
+}
+
+.node:nth-child(850) .graph {
+    animation-delay: 63.75s;
+}
+
+.node:nth-child(851) .graph {
+    animation-delay: 63.825s;
+}
+
+.node:nth-child(852) .graph {
+    animation-delay: 63.9s;
+}
+
+.node:nth-child(853) .graph {
+    animation-delay: 63.975s;
+}
+
+.node:nth-child(854) .graph {
+    animation-delay: 64.05s;
+}
+
+.node:nth-child(855) .graph {
+    animation-delay: 64.125s;
+}
+
+.node:nth-child(856) .graph {
+    animation-delay: 64.2s;
+}
+
+.node:nth-child(857) .graph {
+    animation-delay: 64.275s;
+}
+
+.node:nth-child(858) .graph {
+    animation-delay: 64.35s;
+}
+
+.node:nth-child(859) .graph {
+    animation-delay: 64.425s;
+}
+
+.node:nth-child(860) .graph {
+    animation-delay: 64.5s;
+}
+
+.node:nth-child(861) .graph {
+    animation-delay: 64.575s;
+}
+
+.node:nth-child(862) .graph {
+    animation-delay: 64.65s;
+}
+
+.node:nth-child(863) .graph {
+    animation-delay: 64.725s;
+}
+
+.node:nth-child(864) .graph {
+    animation-delay: 64.8s;
+}
+
+.node:nth-child(865) .graph {
+    animation-delay: 64.875s;
+}
+
+.node:nth-child(866) .graph {
+    animation-delay: 64.95s;
+}
+
+.node:nth-child(867) .graph {
+    animation-delay: 65.025s;
+}
+
+.node:nth-child(868) .graph {
+    animation-delay: 65.1s;
+}
+
+.node:nth-child(869) .graph {
+    animation-delay: 65.175s;
+}
+
+.node:nth-child(870) .graph {
+    animation-delay: 65.25s;
+}
+
+.node:nth-child(871) .graph {
+    animation-delay: 65.325s;
+}
+
+.node:nth-child(872) .graph {
+    animation-delay: 65.4s;
+}
+
+.node:nth-child(873) .graph {
+    animation-delay: 65.475s;
+}
+
+.node:nth-child(874) .graph {
+    animation-delay: 65.55s;
+}
+
+.node:nth-child(875) .graph {
+    animation-delay: 65.625s;
+}
+
+.node:nth-child(876) .graph {
+    animation-delay: 65.7s;
+}
+
+.node:nth-child(877) .graph {
+    animation-delay: 65.775s;
+}
+
+.node:nth-child(878) .graph {
+    animation-delay: 65.85s;
+}
+
+.node:nth-child(879) .graph {
+    animation-delay: 65.925s;
+}
+
+.node:nth-child(880) .graph {
+    animation-delay: 66s;
+}
+
+.node:nth-child(881) .graph {
+    animation-delay: 66.075s;
+}
+
+.node:nth-child(882) .graph {
+    animation-delay: 66.15s;
+}
+
+.node:nth-child(883) .graph {
+    animation-delay: 66.225s;
+}
+
+.node:nth-child(884) .graph {
+    animation-delay: 66.3s;
+}
+
+.node:nth-child(885) .graph {
+    animation-delay: 66.375s;
+}
+
+.node:nth-child(886) .graph {
+    animation-delay: 66.45s;
+}
+
+.node:nth-child(887) .graph {
+    animation-delay: 66.525s;
+}
+
+.node:nth-child(888) .graph {
+    animation-delay: 66.6s;
+}
+
+.node:nth-child(889) .graph {
+    animation-delay: 66.675s;
+}
+
+.node:nth-child(890) .graph {
+    animation-delay: 66.75s;
+}
+
+.node:nth-child(891) .graph {
+    animation-delay: 66.825s;
+}
+
+.node:nth-child(892) .graph {
+    animation-delay: 66.9s;
+}
+
+.node:nth-child(893) .graph {
+    animation-delay: 66.975s;
+}
+
+.node:nth-child(894) .graph {
+    animation-delay: 67.05s;
+}
+
+.node:nth-child(895) .graph {
+    animation-delay: 67.125s;
+}
+
+.node:nth-child(896) .graph {
+    animation-delay: 67.2s;
+}
+
+.node:nth-child(897) .graph {
+    animation-delay: 67.275s;
+}
+
+.node:nth-child(898) .graph {
+    animation-delay: 67.35s;
+}
+
+.node:nth-child(899) .graph {
+    animation-delay: 67.425s;
+}
+
+.node:nth-child(900) .graph {
+    animation-delay: 67.5s;
+}
+
+.node:nth-child(901) .graph {
+    animation-delay: 67.575s;
+}
+
+.node:nth-child(902) .graph {
+    animation-delay: 67.65s;
+}
+
+.node:nth-child(903) .graph {
+    animation-delay: 67.725s;
+}
+
+.node:nth-child(904) .graph {
+    animation-delay: 67.8s;
+}
+
+.node:nth-child(905) .graph {
+    animation-delay: 67.875s;
+}
+
+.node:nth-child(906) .graph {
+    animation-delay: 67.95s;
+}
+
+.node:nth-child(907) .graph {
+    animation-delay: 68.025s;
+}
+
+.node:nth-child(908) .graph {
+    animation-delay: 68.1s;
+}
+
+.node:nth-child(909) .graph {
+    animation-delay: 68.175s;
+}
+
+.node:nth-child(910) .graph {
+    animation-delay: 68.25s;
+}
+
+.node:nth-child(911) .graph {
+    animation-delay: 68.325s;
+}
+
+.node:nth-child(912) .graph {
+    animation-delay: 68.4s;
+}
+
+.node:nth-child(913) .graph {
+    animation-delay: 68.475s;
+}
+
+.node:nth-child(914) .graph {
+    animation-delay: 68.55s;
+}
+
+.node:nth-child(915) .graph {
+    animation-delay: 68.625s;
+}
+
+.node:nth-child(916) .graph {
+    animation-delay: 68.7s;
+}
+
+.node:nth-child(917) .graph {
+    animation-delay: 68.775s;
+}
+
+.node:nth-child(918) .graph {
+    animation-delay: 68.85s;
+}
+
+.node:nth-child(919) .graph {
+    animation-delay: 68.925s;
+}
+
+.node:nth-child(920) .graph {
+    animation-delay: 69s;
+}
+
+.node:nth-child(921) .graph {
+    animation-delay: 69.075s;
+}
+
+.node:nth-child(922) .graph {
+    animation-delay: 69.15s;
+}
+
+.node:nth-child(923) .graph {
+    animation-delay: 69.225s;
+}
+
+.node:nth-child(924) .graph {
+    animation-delay: 69.3s;
+}
+
+.node:nth-child(925) .graph {
+    animation-delay: 69.375s;
+}
+
+.node:nth-child(926) .graph {
+    animation-delay: 69.45s;
+}
+
+.node:nth-child(927) .graph {
+    animation-delay: 69.525s;
+}
+
+.node:nth-child(928) .graph {
+    animation-delay: 69.6s;
+}
+
+.node:nth-child(929) .graph {
+    animation-delay: 69.675s;
+}
+
+.node:nth-child(930) .graph {
+    animation-delay: 69.75s;
+}
+
+.node:nth-child(931) .graph {
+    animation-delay: 69.825s;
+}
+
+.node:nth-child(932) .graph {
+    animation-delay: 69.9s;
+}
+
+.node:nth-child(933) .graph {
+    animation-delay: 69.975s;
+}
+
+.node:nth-child(934) .graph {
+    animation-delay: 70.05s;
+}
+
+.node:nth-child(935) .graph {
+    animation-delay: 70.125s;
+}
+
+.node:nth-child(936) .graph {
+    animation-delay: 70.2s;
+}
+
+.node:nth-child(937) .graph {
+    animation-delay: 70.275s;
+}
+
+.node:nth-child(938) .graph {
+    animation-delay: 70.35s;
+}
+
+.node:nth-child(939) .graph {
+    animation-delay: 70.425s;
+}
+
+.node:nth-child(940) .graph {
+    animation-delay: 70.5s;
+}
+
+.node:nth-child(941) .graph {
+    animation-delay: 70.575s;
+}
+
+.node:nth-child(942) .graph {
+    animation-delay: 70.65s;
+}
+
+.node:nth-child(943) .graph {
+    animation-delay: 70.725s;
+}
+
+.node:nth-child(944) .graph {
+    animation-delay: 70.8s;
+}
+
+.node:nth-child(945) .graph {
+    animation-delay: 70.875s;
+}
+
+.node:nth-child(946) .graph {
+    animation-delay: 70.95s;
+}
+
+.node:nth-child(947) .graph {
+    animation-delay: 71.025s;
+}
+
+.node:nth-child(948) .graph {
+    animation-delay: 71.1s;
+}
+
+.node:nth-child(949) .graph {
+    animation-delay: 71.175s;
+}
+
+.node:nth-child(950) .graph {
+    animation-delay: 71.25s;
+}
+
+.node:nth-child(951) .graph {
+    animation-delay: 71.325s;
+}
+
+.node:nth-child(952) .graph {
+    animation-delay: 71.4s;
+}
+
+.node:nth-child(953) .graph {
+    animation-delay: 71.475s;
+}
+
+.node:nth-child(954) .graph {
+    animation-delay: 71.55s;
+}
+
+.node:nth-child(955) .graph {
+    animation-delay: 71.625s;
+}
+
+.node:nth-child(956) .graph {
+    animation-delay: 71.7s;
+}
+
+.node:nth-child(957) .graph {
+    animation-delay: 71.775s;
+}
+
+.node:nth-child(958) .graph {
+    animation-delay: 71.85s;
+}
+
+.node:nth-child(959) .graph {
+    animation-delay: 71.925s;
+}
+
+.node:nth-child(960) .graph {
+    animation-delay: 72s;
+}
+
+.node:nth-child(961) .graph {
+    animation-delay: 72.075s;
+}
+
+.node:nth-child(962) .graph {
+    animation-delay: 72.15s;
+}
+
+.node:nth-child(963) .graph {
+    animation-delay: 72.225s;
+}
+
+.node:nth-child(964) .graph {
+    animation-delay: 72.3s;
+}
+
+.node:nth-child(965) .graph {
+    animation-delay: 72.375s;
+}
+
+.node:nth-child(966) .graph {
+    animation-delay: 72.45s;
+}
+
+.node:nth-child(967) .graph {
+    animation-delay: 72.525s;
+}
+
+.node:nth-child(968) .graph {
+    animation-delay: 72.6s;
+}
+
+.node:nth-child(969) .graph {
+    animation-delay: 72.675s;
+}
+
+.node:nth-child(970) .graph {
+    animation-delay: 72.75s;
+}
+
+.node:nth-child(971) .graph {
+    animation-delay: 72.825s;
+}
+
+.node:nth-child(972) .graph {
+    animation-delay: 72.9s;
+}
+
+.node:nth-child(973) .graph {
+    animation-delay: 72.975s;
+}
+
+.node:nth-child(974) .graph {
+    animation-delay: 73.05s;
+}
+
+.node:nth-child(975) .graph {
+    animation-delay: 73.125s;
+}
+
+.node:nth-child(976) .graph {
+    animation-delay: 73.2s;
+}
+
+.node:nth-child(977) .graph {
+    animation-delay: 73.275s;
+}
+
+.node:nth-child(978) .graph {
+    animation-delay: 73.35s;
+}
+
+.node:nth-child(979) .graph {
+    animation-delay: 73.425s;
+}
+
+.node:nth-child(980) .graph {
+    animation-delay: 73.5s;
+}
+
+.node:nth-child(981) .graph {
+    animation-delay: 73.575s;
+}
+
+.node:nth-child(982) .graph {
+    animation-delay: 73.65s;
+}
+
+.node:nth-child(983) .graph {
+    animation-delay: 73.725s;
+}
+
+.node:nth-child(984) .graph {
+    animation-delay: 73.8s;
+}
+
+.node:nth-child(985) .graph {
+    animation-delay: 73.875s;
+}
+
+.node:nth-child(986) .graph {
+    animation-delay: 73.95s;
+}
+
+.node:nth-child(987) .graph {
+    animation-delay: 74.025s;
+}
+
+.node:nth-child(988) .graph {
+    animation-delay: 74.1s;
+}
+
+.node:nth-child(989) .graph {
+    animation-delay: 74.175s;
+}
+
+.node:nth-child(990) .graph {
+    animation-delay: 74.25s;
+}
+
+.node:nth-child(991) .graph {
+    animation-delay: 74.325s;
+}
+
+.node:nth-child(992) .graph {
+    animation-delay: 74.4s;
+}
+
+.node:nth-child(993) .graph {
+    animation-delay: 74.475s;
+}
+
+.node:nth-child(994) .graph {
+    animation-delay: 74.55s;
+}
+
+.node:nth-child(995) .graph {
+    animation-delay: 74.625s;
+}
+
+.node:nth-child(996) .graph {
+    animation-delay: 74.7s;
+}
+
+.node:nth-child(997) .graph {
+    animation-delay: 74.775s;
+}
+
+.node:nth-child(998) .graph {
+    animation-delay: 74.85s;
+}
+
+.node:nth-child(999) .graph {
+    animation-delay: 74.925s;
+}
+
+.node:nth-child(1000) .graph {
+    animation-delay: 75s;
+}
+
+.graph {
+    opacity: 0;
+    animation-name: animateIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes animateIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.6) rotate(-15deg);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) rotate(0);
+    }
+}

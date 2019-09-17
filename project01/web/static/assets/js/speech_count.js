@@ -1,100 +1,83 @@
-function create_bubble_chart(items) {
-    var bubbleChart = new d3.svg.BubbleChart({
-        supportResponsive: true,
-        //container: => use @default
-        size: 600,
-        //viewBoxSize: => use @default
-        innerRadius: 600 / 3.5,
-        //outerRadius: => use @default
-        radiusMin: 50,
-        //radiusMax: use @default
-        //intersectDelta: use @default
-        //intersectInc: use @default
-        //circleColor: use @default
-        
-        data: {
-          items: items,
-          eval: function (item) {return item.count;},
-          classed: function (item) {return item.text.split(" ").join("");}
-        },
-        plugins: [
-          {
-            name: "central-click",
-            options: {
-              text: "Show one speech",
-              style: {
-                "font-size": "12px",
-                "font-style": "italic",
-                "font-family": "Source Sans Pro, sans-serif",
-                //"font-weight": "700",
-                "text-anchor": "middle",
-                "fill": "white"
-              },
-              attr: {dy: "65px"},
-              centralClick: function() {
-                console.log('pass')
-              }
-            }
-          },
-          {
-            name: "lines",
-            options: {
-              format: [
-                {// Line #0
-                  textField: "count",
-                  classed: {count: true},
-                  style: {
-                    "font-size": "28px",
-                    "font-family": "Source Sans Pro, sans-serif",
-                    "text-anchor": "middle",
-                    fill: "white"
-                  },
-                  attr: {
-                    dy: "0px",
-                    x: function (d) {return d.cx;},
-                    y: function (d) {return d.cy;}
-                  }
-                },
-                {// Line #1
-                  textField: "text",
-                  classed: {text: true},
-                  style: {
-                    "font-size": "14px",
-                    "font-family": "Source Sans Pro, sans-serif",
-                    "text-anchor": "middle",
-                    fill: "white"
-                  },
-                  attr: {
-                    dy: "20px",
-                    x: function (d) {return d.cx;},
-                    y: function (d) {return d.cy;}
-                  }
-                }
-              ],
-              centralFormat: [
-                {// Line #0
-                  style: {"font-size": "50px"},
-                  attr: {}
-                },
-                {// Line #1
-                  style: {"font-size": "30px"},
-                  attr: {dy: "40px"}
-                }
-              ]
-            }
-          }]
-      });
+function render_bubble_chart(json) {
+    var diameter = 1000,
+        color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+    var colorScale = d3.scaleLinear()
+        .domain([0, d3.max(json.children, function(d) {
+            return d.count;
+        })])
+        .range(["rgb(46, 73, 123)", "rgb(71, 187, 94)"]);
+
+    var bubble = d3.pack()
+        .size([diameter, diameter])
+        .padding(5);
+
+    var margin = {
+        left: 0,
+        right: 100,
+        top: 0,
+        bottom: 0
+    }
+
+    var svg = d3.select('#chart').append('svg')
+        .attr('viewBox', '0 0 ' + (diameter + margin.right) + ' ' + diameter)
+        .attr('width', (diameter + margin.right))
+        .attr('height', diameter)
+        .attr('class', 'chart-svg');
+
+    var root = d3.hierarchy(json)
+        .sum(function(d) { return d.count; })
+        .sort(function(a, b) { return b.count - a.count; });
+
+    bubble(root);
+
+    var node = svg.selectAll('.node')
+        .data(root.children)
+        .enter()
+        .append('g').attr('class', 'node')
+        .attr('transform', function(d) { return 'translate(' + d.x + ' ' + d.y + ')'; })
+        .append('g').attr('class', 'graph');
+
+    node.append("circle")
+        .attr("r", function(d) { return d.r; })
+        .style("fill", function(d) {
+            return color(d.data.text);
+        });
+
+    node.append("text")
+        .attr("dy", ".3em")
+        .style("text-anchor", "middle")
+        .text(function(d) { return d.data.text + ' ' + d.data.count; })
+        .style("fill", "#ffffff");
+
+    svg.append("g")
+        .attr("class", "legendOrdinal")
+        .attr("transform", "translate(600,40)");
+    /*
+    var legendOrdinal = d3.legendColor()
+        .shape("path", d3.symbol().type(d3.symbolSquare).size(150)())
+        .shapePadding(10)
+        .scale(color);
+
+    svg.select(".legendOrdinal")
+		.call(legendOrdinal);
+	*/
 }
 
-$(document).ready(function () {
+
+$(document).ready(function() {
     // get data
-    fetch('/persons').then(function(res){
+    fetch('/persons?min_count=10').then(function(res) {
         return res.json();
-    }).then(function(data){
+    }).then(function(data) {
         // render bubble chart
-        create_bubble_chart(data)
+        var json = {
+            'children': data
+        }
+
+        render_bubble_chart(json);
+
+
     })
 
-    
-
-  });
+})
