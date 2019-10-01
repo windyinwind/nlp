@@ -1,0 +1,29 @@
+#About
+The web is used to demostrate the nlp results
+
+#author
+Wei Liang
+
+#email
+whatswrongbill@gmail.com
+
+#tech stack
+python3
+flask
+mysql
+sqlalchemy
+
+#other items
+on MAC
+brew install mysql-connector-c
+pip install mysqlclient
+
+on Linux
+pip install mysqlclient
+
+#theme template
+https://demos.creative-tim.com/material-dashboard/examples/dashboard.html
+
+# theme docs
+https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html
+
