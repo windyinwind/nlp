@@ -14,6 +14,9 @@ db_ses = db(app.config)
 def index():
     #return render_template('dashboard.html')
     return send_from_directory(staic_folder, 'dashboard.html')
+@app.route('/xinhua_news_piracy_check.html')
+def xinhua_news_piracy_check():
+    return send_from_directory(staic_folder, 'xinhua_news_piracy_check.html')
 
 @app.route('/user.html')
 def user():
@@ -53,6 +56,7 @@ def person():
         persons = get_persons(db_ses)
     return jsonify(persons)
 
+'''
 @app.teardown_appcontext
 def session_clear(exception):
     if exception and db_ses.is_active:
@@ -61,6 +65,6 @@ def session_clear(exception):
         db_ses.commit()
 
     db_ses.close()
-
+'''
 if __name__ == '__main__':
     app.run()
