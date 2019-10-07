@@ -37,4 +37,16 @@ def bi_search(l, t):
             findex = findex + 1
 
 print(bi_search(l, 100))
+
+def quick_search(l):
+    if len(l) < 2:
+        return l
+    pivot = l[0]
+    less = [i for i in l[1:] if i<=pivot]
+    greater = [i for i in l[1:] if i>pivot]
     
+    return quick_search(less) + [pivot] + quick_search(greater)
+
+l = [4, 1, 5, 66, 29, 22, 12]
+sorted_l = quick_search(l)
+print(sorted_l)
