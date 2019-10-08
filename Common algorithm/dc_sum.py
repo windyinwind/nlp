@@ -50,3 +50,36 @@ def quick_search(l):
 l = [4, 1, 5, 66, 29, 22, 12]
 sorted_l = quick_search(l)
 print(sorted_l)
+
+
+def merge_sort(l):
+  
+    if len(l) < 2:
+        return l
+    splitter = int(len(l) / 2)
+    left = merge_sort(l[0:splitter])
+    right = merge_sort(l[splitter:])
+
+    loop_len = max(len(left), len(right))
+    i = 0
+    j = 0
+    arr = []
+    for _  in range(loop_len + 1):
+        if left[i] >= right[j]:
+            arr.append(right[j])
+            if j == len(right) -1:
+                arr += left[i:]
+                return arr
+            else:
+                j += 1
+        else:
+            arr.append(left[i])
+            if i == len(left) -1:
+                arr += right[j:]
+                return arr
+            else:
+                i += 1
+    return arr
+        
+
+print(merge_sort(l))
