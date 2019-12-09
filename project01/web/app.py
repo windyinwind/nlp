@@ -4,6 +4,7 @@ import os
 import random
 sys.path.append('./model/')
 from model import get_speeches, get_persons, speeches_of, db
+from repeater import repeater_say
 
 app = Flask(__name__)
 staic_folder = './static'
@@ -12,25 +13,30 @@ db_ses = db(app.config)
 @app.route('/')
 @app.route('/dashboard.html')
 def index():
-    #return render_template('dashboard.html')
     return send_from_directory(staic_folder, 'dashboard.html')
 @app.route('/xinhua_news_piracy_check.html')
 def xinhua_news_piracy_check():
     return send_from_directory(staic_folder, 'xinhua_news_piracy_check.html')
 
-@app.route('/user.html')
-def user():
-    #return render_template('dashboard.html')
+@app.route('/clumsy_repeater.html')
+def clumsy_repeater():
+    return send_from_directory(staic_folder, 'clumsy_repeater.html')
+
+@app.route('/img/nlparade.png')
+def logo():
+    return send_from_directory(staic_folder+'/assets/img/', 'nlparade.png')
+
+@app.route('/map.html')
+def map():
     return send_from_directory(staic_folder, 'user.html')
 
 @app.route('/most_speech_count.html')
 def most_speech_count():
-    #return render_template('dashboard.html')
     return send_from_directory(staic_folder, 'most_speech_count.html')
 
 @app.route('/speech_count.html')
 def speech_count():
-    #return render_template('dashboard.html')
+
     return send_from_directory(staic_folder, 'speech_count.html')
 
 @app.route('/speeches')
@@ -55,6 +61,13 @@ def person():
     else:
         persons = get_persons(db_ses)
     return jsonify(persons)
+
+@app.route('/repeater')
+def repeater():
+    sentence = request.args.get('sentence', type=str)
+    if not sentence:
+        return ''
+    return repeater_say(sentence);
 
 '''
 @app.teardown_appcontext
